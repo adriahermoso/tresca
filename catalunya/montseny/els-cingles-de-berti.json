@@ -1,0 +1,39 @@
+{
+  "id": "els-cingles-de-berti",
+  "name": "Els Cingles de Bertí",
+  "name_official": "Sender de la Garriga. De la Garriga a Figaró",
+  "ref": "PR-C 33",
+  "category": "PR-C",
+  "difficulty": "Difícil",
+  "description": "Tram del PR-C 33 que voreja les cingleres basàltiques de Bertí sobre la Garriga, amb vistes sobre el Vallès i el Congost.",
+  "start_point_text": "Centre de Visitants de la Garriga",
+  "distance_km": 11.7,
+  "duration_text": "3 h 45 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "opfonA_~njCug@zEgSeA_|Aad@i{@cw@yHcCwxR|fAmWnIcTdMoMrNsEd@qJyKaRsz@UoLrPgGdAkCgBwMkNqZeSeLgHgJgCoMaAom@~Bed@wHoh@s^epAi`@ceAkIw]kN_CdHzw@oAtv@h@l`@aGvP~Ank@gA`VgNr`@mA{FrEaYsNg}@aE{t@{Q{u@gNsV}SmCmNdCo[ed@wZ}aAeJaJoBqGx@oPeAyIcB\\mEfb@jMbUlRnyAxUvq@zOvJnDxM}EhHcK}@qFuEoReXkAeIsYyi@kZsw@w\\__@sIsTbDaJpCaj@kCwOiPsUmKsGsUeBeu@iY}Csh@_Zag@iBrDfNbVr@`LkCbf@hBbU`IjV|j@ta@vCpKuBfPiVzUqHOmb@ep@cIcWs@wQkJkVuGkc@iD{Eep@bEw\\`IoK{Aob@{g@am@}UwJqI_c@uOqMFiQ|OyJ|B{OlQsE^oBmB`AiIhFLlWqYjF_O`YiZh@oLiD{Fy`@o\\sMwQwIsUsEuAmv@fOsb@eFgcAjOsF|KcMlDwFzEuDjFeJxZwJfNsLpHuXh{@sI?qSeRuBdCaLzcAhB`Yh[tsAl@nMiFtc@_HvM{TbHk\\rEeFhH}Cte@r@nZfDnNvRpZ}AlTmClBcVmCag@zXaRvEg`@nW}w@`IeH{EiK_Q{MqJoMu@kAmDbVsFf`@bHh]aKoBkFkJeDkMGs]yw@o@ee@cXpZeF~@gIeDq\\zEmJeB{OwMyWu`@aEeTcKeSqCwLvCg`@sPsf@{HoK]~m@uBbVcD~NgLpJxEvKuF`{@_FvOmPtQ_Rfp@pA~M?~p@oHti@^vf@kCfr@pGv[kPdhAqB|f@uHpPmCzSrDxg@zEbKlApo@cM`pAiPf}@QzMtFjr@u@xb@cCbPv@jd@}Myb@eCr@kD|\\nDpn@hEzZc@fKfBrKrSlj@|Onv@`^h~@?fj@bDz]vYn@|dAx]lV|Bvw@oAY~C",
+    "polyline_precision": 6,
+    "bbox": [
+      2.2729821,
+      41.6847602,
+      2.3003012,
+      41.7270874
+    ],
+    "start_lon_lat": [
+      2.2855522,
+      41.6847602
+    ],
+    "end_lon_lat": [
+      2.2729821,
+      41.722867
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1802625
+  },
+  "image": "imgs/els-cingles-de-berti.jpg"
+}

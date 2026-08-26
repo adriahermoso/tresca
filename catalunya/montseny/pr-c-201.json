@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-201",
+  "name": "Castell de Montsoriu",
+  "name_official": "Castell de Montsoriu",
+  "ref": "PR-C 201",
+  "category": "PR-C",
+  "difficulty": "Moderada",
+  "description": "Puja fins a un dels castells medievals més ben conservats de Catalunya, seu dels vescomtes de Cabrera, amb vistes obertes cap a la plana de la Selva.",
+  "start_point_text": "Museu Etnològic del Montseny, La Gabella",
+  "distance_km": 13.5,
+  "duration_text": "3 h 10 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "{lbsnAatf{CfM|eBgM}eBel@|J{f@lDe~AvCu|BgChMzs@oNbLwz@`e@ooAjjAooAze@sKfFoE~F}m@cEy\\oVmc@sMooA_LwKeEsf@lQm]pH{PS_S}Kec@vXNvE}ElMwXl^cOVeVkD_VlW{b@dXag@jPkCfFsB]wQqW_XkJeKnQiFlD}o@zPmWpQsf@zScHlAkE_FuClAmEbF}BtKX|YiG|i@oCTeEtTsGtLsBtJqMrOsK|SsLjh@iEjHwJbE_P{F}K@_x@hZiScAwWf\\{RvGuu@lh@q]xKwCnPo\\`VkE`Tea@bCuj@n^mQni@mQvVsFfPgB_@cIwQcFt@_Rt]iH|Tqd@vi@{T`c@m^t@uRtG_]yHa@~CtKvH`F|Hn@rGoAfDcOwKyJwCgq@k@uQaFcO|DC`B`YrPvTbJpF~LgAjJgDlGm@kMsEhEyOxEcK|YmBC_K_M{ZuIy^ac@qGbDH`K_Fpb@oP|RkFh@sf@pW_H`IuGx@HbLjJhQlXrVfMBpAnKfNiB|GpWbHmHrH~UyJfOhO|@`I{AdD}Bp@gHlCyAvTvP`DdIz@sAbH`@vC|G}JfFkLnPmAjHk\\~YoTtGg`@v[aOtEiYoAmUsKkIma@mEaG}CkLsZNqq@fKmDcBiIcQ|H`e@jC`Cp^w@nS|GzBnDnC`\\uCbQb@t\\sDqEoD_c@oD}E_D~s@vQp[dWvJzBtEgBdEmWlLcAzGub@eLdBeHos@uBmWfJ{e@vc@qNfU_DnTxCbLbJvF_Z`V?fQeIp@{@pNgUr@eT|LiRD}HhGxQbs@fCrSc@xE}YgImKrAOxk@_YfNqC~EjHdMcAvGg[t@{JbWiDzAV}gAxGaZaNwk@yGkLaCmXmK}SgNgBkH{GmMy@yOqG{NbQuRhB}IdXuVcEyDdIaDa@wOkWqGqBuLmZaLRcW|SwLhc@aE|FqKkFmKhEyOhReCxGfH|WjDp]GrJuD~C_VqFgMhFyJvOiR~@yo@~Loo@oQoXtPeYr~@@~KtJdLrHvQfBtSeEhm@uPjmAk@bStAlTgCvB}OsD}Wsp@yIed@wGu@gb@`HaEiE_Jua@_G}EoXt[gFfQwQdXkHnz@uAxo@kDhGiG_CsShCsDqJyNuPsOoIiN?uErl@kZdy@j@hRrHtL{@rq@g\\`h@mIfo@yJtHyCl\\lAf\\hGjSFrOwBpCqYr@aDrDkHpd@V`KjHxYj@lMy]~n@k@l[{Opd@wd@uOsU~DyKnJuFEkCsFfAsFgC_IoQ_Hio@yu@wGuBm_@y]eFvAku@du@oRta@{@`HyMtE_c@|k@wJha@sMfR~AvLkIzB}IjBcH{BkN}^qDiBsP`@gImEiZcb@mDzG_BrWwCz@iCgL~Bu`@iAoBaJpMu^n\\}EwOwM}D_NTwLoMqSlv@q_AaMmHzB{BwN_Cd@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.5133641,
+      41.7479616,
+      2.5598254,
+      41.816147
+    ],
+    "start_lon_lat": [
+      2.5598254,
+      41.74819
+    ],
+    "end_lon_lat": [
+      2.5142672,
+      41.816147
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1229100
+  },
+  "image": "imgs/pr-c-201.jpg"
+}

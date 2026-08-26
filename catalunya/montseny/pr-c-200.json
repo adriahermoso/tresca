@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-200",
+  "name": "Volta a Aiguafreda de Dalt",
+  "name_official": "Aiguafreda de Dalt",
+  "ref": "PR-C 200",
+  "category": "PR-C",
+  "difficulty": "Difícil",
+  "description": "Circuit exigent pels boscos i masies sobre Aiguafreda, amb bons punts de vista sobre la vall del Congost abans de tancar el cercle.",
+  "start_point_text": "Punt d'Informació d'Aiguafreda",
+  "distance_km": 16.1,
+  "duration_text": "4 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "ildtnAspnhCyMgj@bHuBkPw{BoGm`@aBsw@hBgx@e@st@pBkKfa@sz@fGmUxI{y@i@at@aKesAqEoX_l@k}BaDaEoDcBwH^cT|SaDjMsJnJ_KV{FwBij@eiAoFoQu|@}{@qIcEgg@mp@yVyb@m\\gOyE{KqB{SXeW`H}Wb]o}@dCiSGmMoNaPu@yNmi@yNiGcEiBmFSoUzPug@f@_KyGsOqNoM_QgCsNfCmGvIcFGiz@om@cVmHsZlE_D_Bgj@ybAcEgC}[h@g^zSeFKexAmu@{aAmx@oZaQobB}}BsVmj@{IcM{v@go@}JuFgI~D_PoFiOmNmH_QgRwv@uKgo@iOqYgZmSmMmOuM}z@oSwf@_GeImIqCaOHdPp]WzBgWgBiYfNmGsB{FgJi{Awl@si@gHyU`DuC`D_MdWy`@jh@xDxAfe@{Fl^`E~LbFjMjQhAfQuPps@?rPfP`\\hKd_@d`@f_@pE|`@jMd[pSnKfClW|CpJ|i@j|@lSlq@rIhy@hJne@n\\rn@de@`l@hDtMdIju@xTpg@dStOf}@uJz_@nBfWlTb`Af`@r\\tWhUfDfNjM~Xhm@fdA`cA`QdXpr@do@pn@nZ_BxEt@lElKtSfIp`@pQlb@vM`i@rJzl@qGziAoGzc@k@ve@mBnScGjLmApMvM|m@UxWmCbF}MjJaQp@qDxCuIt[Yxa@aHtV_TnJoS_DeEL{BfD{Cnj@qJ|`@oWvO{UpV{FhM_GvDkIsAoK_KkHSkAnCn@`\\uC~Fcy@oSqB_HjG_i@_g@aWgFuJ}Mgo@w^aWw]{NqDqF{DmTgB{Aqf@`QcQ{B{FrBqK`VxAx[qEdQ\\vDdDhDzNtHrFjKvBxQeCdJyMjHkBnD`A~E`GxEjM`VjBpt@|MnWlApL?jKkCzMkRf`@qQxUq@rJ|@dDhWfKFjEgKbSwJtG~C`DnXjFn@~E_QbR_W{B_a@ic@eb@kAsT}RmMmAsU{LsNsOyNe^{\\cG}TcS_EkFcImf@gPiX_T}JwRiQ}_@zIaIqHk]iI{PiAqFdSoCVejAgVglBmZy]qRsGaKaU}QwFaL_YgUqUeE}DjFlDnG|FzXtAln@dD~TjIvIfZxNnSr`@rZpWfKjDd^qApEzAha@ff@pJzUrn@|f@vN`a@|f@zRpFkErKeAnTdFlJcAjHvCpCyFfFhC~@nNhQdZnCxa@tIh`@xb@vh@z_@lKhPvZwA|UVbIjBxDhj@xm@~IrArKsAfTiUtJ_C|HhAjIlFhb@|j@~Qb\\|m@nn@hh@|XlYzv@xFhGrEvMnA`Mpe@{MncHwr@ldBwHn{C{BjUuBxYaIx`@kU~Eq@^iD|qCadElPmMtz@_a@ngAm]x@kE`DM",
+    "polyline_precision": 6,
+    "bbox": [
+      2.2460742,
+      41.7651926,
+      2.287641,
+      41.7942756
+    ],
+    "start_lon_lat": [
+      2.2525703,
+      41.7655886
+    ],
+    "end_lon_lat": [
+      2.2525703,
+      41.7655886
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 3634516
+  },
+  "image": "imgs/pr-c-200.jpg"
+}

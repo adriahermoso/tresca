@@ -1,0 +1,39 @@
+{
+  "id": "el-poble-de-montseny",
+  "name": "El Poble de Montseny",
+  "name_official": "Del pla de la Calma al Montseny",
+  "ref": "GR 5",
+  "category": "GR",
+  "difficulty": "Difícil",
+  "description": "Baixa del Pla de la Calma fins al petit nucli medieval de Montseny, que dona nom al massís.",
+  "start_point_text": "Centre d'informació del Montseny",
+  "distance_km": 11.2,
+  "duration_text": "3 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "kqbtnAixkmCy`@yWoMoNuOiBsi@|NcIfGoHxNgEx[_GdR_XpVgKdF_b@gGsYcJecBuB}~@fB}aAja@o]fhB_N|]{EpFgLtB{GiOmGo@wz@pd@oWdIeM~HmJh@}]ej@x@qDqGwJwJqYdDqLrDyCmCmKdBge@pCeXbAyg@tGs\\q@gb@sPuz@dLz@eJeWsOoU}MPgd@iQgNaKkR}VaUzBgLgFkNmu@cByZyLyHZ{OuDaByAgVrC_[kGiPf@aFfH}F{IyQoMb@uK|LwFbBeHo@kJfJgI`@mVmHxFqqBiHyf@wJeU`@yFrEwI}Ks|@tEmgBg@yN_Li^wJqj@aIeMoJuDx@eGhKeAxa@nJzc@m@~H}Fl@_QcBaIsIeOkQ{Kso@mu@cQyG{AuDI{]fCwIrXsCtHcJhAg\\aHoX]eIrGyX~e@kl@bl@oXpBmOj@e[qGuYzEcv@xI_VnDcBnJtArGyJgAaMkPqQyOgKi`@eNc\\w@uD_Gz_@gcBdFye@gEid@eJk\\~CqM{L}WMqHzEiGj[qHdH{F|BgIiBiYhEag@lL_Zp`@wc@LcGqd@i_@}EwH_LeWgJm]iIaPV}TjLcXlCsO{CmBgMzIaN~B{Qm@iYeSoDeFs@qFvE{C~FvBbT_AfJkHzNcVhKmIlb@uJdOTtJfE|QdZxJpId_@uBxCyB`Qy_@xCoDdMsCnDsj@uJim@w@cQdHu[p@y^|EyHre@yWnEgH`I_Yd@gv@aCm\\~H{mA@oOaBiJ}^uZu^OaVeLwUcWe[yc@_Vsg@gGuDgPyBcFkHgBeI^aj@xWqnAtGaRzJgq@~F_Lt\\_V~UfUnDQ~CkH`CyX~IgGlNvGlIhMxBbFbArZzCdH`Z|KfE~HdG{AbJsMrDrAnDrKgHbM@|B|NeKhJ}UfVyDeXte@eFvOlHlFnPoRQn^~Wdi@xUe@~P`C~ZgHfViMtp@gd@lu@ap@fcAq\\zNgIdTeDjT}K~BgYxAyE`HuCbH}a@rL{Drk@dClKwBhFc_@bKcAvOiXtIuVvQ{OrEaUdBqh@bHe^wAOk@gDdEk]ne@w`@nJuEpFmIbEoRtWkH|@{BkRud@{TkYoAiTbTmfA~G{CPkErFgI`GcAjR~CrCoAdKyo@^qYbGeHlDkLa@aXoDgJp@oPfBgC~Ed@dc@pf@ds@_MzK_GtDoXvHaIbHuAd]zG`OnT`GvBrFg@jNiT~\\_TjIgOzKmf@n@wMuPm]c@oIgG{DKcIfHyBtGxCnMf@xN{D`FaHrCwKQeW",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3286234,
+      41.7592493,
+      2.3952183,
+      41.78132
+    ],
+    "start_lon_lat": [
+      2.3330766,
+      41.7646464
+    ],
+    "end_lon_lat": [
+      2.3952183,
+      41.7592686
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 379910
+  },
+  "image": "imgs/el-poble-de-montseny.jpg"
+}

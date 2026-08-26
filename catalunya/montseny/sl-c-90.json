@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-90",
+  "name": "Riera de Vallfornès",
+  "name_official": "Riera de Vallfornès",
+  "ref": "SL-C 90",
+  "category": "SL-C",
+  "difficulty": "Fácil",
+  "description": "Itinerari planer que segueix la riera de Vallfornès entre Cànoves i Samalús, apte per a tota la família.",
+  "start_point_text": "Punt d'Informació de Cànoves i Samalús",
+  "distance_km": 3.3,
+  "duration_text": "1 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "ylvonAmjtnC{QoJsCBcOaSuAcImGsLapAsMaG|@wKiHaCcJgLsHq\\~B}m@uLgIpB}MuIiKdM}_@l~@sBlVtQhWvAxH{A~NcPgOiG[yPrI{^nGeMyM~C{\\}CgE}Ca@qLeRuGjCgOJ{LoIaEfFUpM{BfDoo@h^wl@xVuQnSuE\\kXdWoNvYqHdFop@hTig@^qFaBmIfFoUre@}H[wEtCySvi@cCnMiHnNiHhEuZ{DwG}Dy`@bOwFrHmGjk@u_@jm@mOf`@kNjK}YtASdDiCjBmVeQkOOkNhPwMxb@oVr[eOz@ok@}EoNtMwNv@aMgC}[pFaTAqdBsUkYcHmQgOu[iAoUzM",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3456777,
+      41.6928931,
+      2.3556827,
+      41.7160863
+    ],
+    "start_lon_lat": [
+      2.3538467,
+      41.6928931
+    ],
+    "end_lon_lat": [
+      2.3462457,
+      41.7160863
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10432142
+  },
+  "image": "imgs/sl-c-90.jpg"
+}

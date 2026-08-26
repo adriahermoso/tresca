@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-139",
+  "name": "El Pi Novell",
+  "name_official": "Sender del Pi Novell. De Sant Pere de Vilamajor a Sant Elies",
+  "ref": "PR-C 139",
+  "category": "PR-C",
+  "difficulty": "Difícil",
+  "description": "Travessa llarga pel vessant nord del Montseny fins al mític Pi Novell, un dels arbres monumentals més coneguts del massís, per acabar a Sant Elies.",
+  "start_point_text": "Centre d'Informació de la Mongia",
+  "distance_km": 18.0,
+  "duration_text": "6 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "cdmnnA{ejqC{H~@w\\lO_IRwJaEwFwMkFcYwKiFaN??wTuDDak@z^g^erA~IuE}CkOQkMmoA|Gyj@k@ek@fQg]zDg`@vPiAgHeDmC}i@jMuGlLsHtu@e[jcAqBd@BnDsF`I_b@l`@z@vAcAhGuZh~@mSzOk^`QoYdXjKlVy_ApiAoSja@sQp}@mE|`@jC|e@tMr~@w@~KwSbMhBt]s\\nEv@cMjJ_S{[oAaLfY}f@rQs_@pg@qMfXqRu@qJsb@~FqkBaH_j@iQ{p@kx@vd@ay@j_@s~@do@exAbn@mjChz@kg@nVmaA~Qq\\bCsi@`[_f@`OsQdOe{@`NoPpTR~UuIhe@PrJtC`H|u@vViBzBcGNcI{Bqe@tIsJ~IaI_AsJ`IoGx[{NfLov@jMaTtLoCqCL}F|TqYt@iFkAgQ}EoNbBoI`HgLWqZyBwJoH{DyRKmYoEaN|@_x@kLs|@fHam@_DmqA`MwRgBc|@bSoW`D{Hg@_UjF__AuO{e@tDiMnHyhAaP}C{MkTiP~@aMfGcMx@kJgFgOlJst@eAu]gD}GyAcTbQmNhC_Q}VmUsT?}QeE}BiB_Rmg@kPNsTwLmMmAOtFlJlOBzCkNzC}AxCbJtMHjDmt@|I_HvDXpHuH|Xk^~WoDjVoLh[oGnf@_KbUkCb@y@iBMmi@cD_GuD^{It\\eM~Tuo@daAmPfR}BiBvF_U}AwEwLxTqUbPqTvHm@iE`JuObB_OoFs\\iHiKwGxS{_@he@uS~Nk]vMjLua@a@eKoUyq@iYsYkR_ByS~D_g@`UwM|KqRmFwGi[iBiAkSp`@_FpT_R|Ike@zHuJwA_QdAiE{FsRqBcRzCkIsDgQCsTnIgIqDeOq@gh@n\\sBtEkj@lc@sHp@sAfIgP~X{B}Ah@yOyIeDus@jKwVbr@o[dn@ul@ns@{`@bVkFaAw]vUgQlC{HjMaMpDkIxMmFbDjBxWuI`JqNlDsToDkYrHoRdZeQ`i@cZhSc@bGdCvSdHxXpXnt@}@nI}^xK{g@cMkXRqU~IeZhWaNfFLbJdKnb@tDre@vTzv@kCZwNe[e_@ob@sEg@wLbn@_Ud_Bs@~ZwEfIqEOgEeJo]awBmZkvAcE}Z{VagAuK{XgD{_@cJrYeIzg@ySrg@hB~L_FpRDxN}BvJtDxRk@dFuF`FeLA_EfGs@z\\sDlSYxYut@njAyH~k@IdPtBrSg@lTaJ~UfAfEsBnTvDlLB~GjHx]eGbMiClMkWjUgHxLfC|d@uCzY~EfVRxZzB`WhNnx@fFp{@~EzScElYkC`GMjToDrN}Dve@uYfu@m]t\\{Vll@mOre@iNlLeHpB}DbScMvL@lIiMr]Q~SiGbd@NrFkGfD@hD}ErIwOveAaL~XuM|M}Ytp@mNnLaJxM_UpCaMhKgErJ}E~BaGrVmLxOn@`a@cEvZqIdLeCvIwAbg@}JjSgFpWi@`ReLvVqLrKqFvX{BfBsYh@mPwQc\\}Taj@qSiLi@a_@xF}_@`l@gGxk@qJvWwFlYaI~N_GrS_FfC}CdGgL|DqHfJmDf@kA`EoJvIyNs@oEbOwPbXmSdo@sSlRiIhD_w@xrA}f@xk@eYbj@eTpLsj@yAsGdAaU|c@qKpFa\\vZgKdEme@_r@kRuHco@q@_PaEkQzB_`@sIgKvAgQvIcHbv@uM|r@wJniAk\\bx@}b@lm@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3330766,
+      41.6717616,
+      2.4001434,
+      41.7646464
+    ],
+    "start_lon_lat": [
+      2.3978064,
+      41.6717616
+    ],
+    "end_lon_lat": [
+      2.3330766,
+      41.7646464
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 7901547
+  },
+  "image": "imgs/pr-c-139.jpg"
+}

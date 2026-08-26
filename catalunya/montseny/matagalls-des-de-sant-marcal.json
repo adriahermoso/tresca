@@ -1,0 +1,39 @@
+{
+  "id": "matagalls-des-de-sant-marcal",
+  "name": "Matagalls des de Sant Marçal",
+  "name_official": "De Sant Marçal a Matagalls",
+  "ref": "GR 5.2",
+  "category": "GR",
+  "difficulty": "Moderada",
+  "description": "Pujada més suau a Matagalls des del nucli de Sant Marçal, alternativa a l'ascens per Collformic.",
+  "start_point_text": "Aparcament de Sant Marçal",
+  "distance_km": 4.1,
+  "duration_text": "1 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "scpvnAgdrrCzDbQyCde@jDtn@sCvCqL~B{DxNb@lF_Cg@iHnEUxMdBrv@r\\hdCf@lIwBhNrAvH`MiUbKaZrAtq@bDhUdMtRbCgCSc]lRoGnCtDOzLpCl@lIqE|@bDwApBrAbB`HiAb@zAnEQoEfKrGd@]bDbEuAxFbAcAzBrAlA|s@qC~FnJhKe@pDdFJbK~GrHfNtj@s@rk@aEpLmE|DeArRj@fK}LhXqCfVpHfvA{An@@j\\hGnr@y@roAiX|{@c`@`_AoQhReHDse@vSkLhToJ|w@kL~b@eFla@k@dhAaP`kAIz_@rAtLdBtJdRpa@zAvI{@jJuFnPig@fs@mFfQmWde@gHnfAOf[vAvQxGzH~IlSwPvR{FlVpRzE`j@jg@vT~VhBxM_E|BmGuAiWlAmHjFeIzAs[hp@m\\lSgWbb@w\\bQaI`HgNdVma@d]gCzK_IbFe\\vo@{AhQiC|G{b@`l@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3826197,
+      41.8006713,
+      2.4182602,
+      41.8087579
+    ],
+    "start_lon_lat": [
+      2.4182602,
+      41.8043622
+    ],
+    "end_lon_lat": [
+      2.3826197,
+      41.8087579
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1727116
+  },
+  "image": "imgs/matagalls-des-de-sant-marcal.jpg"
+}

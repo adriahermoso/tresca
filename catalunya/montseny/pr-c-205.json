@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-205",
+  "name": "Matagalls des de Viladrau",
+  "name_official": "De Viladrau a Matagalls",
+  "ref": "PR-C 205",
+  "category": "PR-C",
+  "difficulty": "Difícil",
+  "description": "Pujada directa des de Viladrau fins al cim de Matagalls, el segon més alt del Montseny, amb tram final descobert i força pendent.",
+  "start_point_text": "Aparcament del carrer Balcells i Morató, Viladrau",
+  "distance_km": 9.0,
+  "duration_text": "3 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "afbynAwlxpCpYnDdByNxKe_@n[|q@|Fo@lXzHy@hM_JpQIhOwDhPc@zU|A~WwH~OuBjPjGn\\@fJeIbU{Az]dDhIsG|_@p@bc@oA|NjBl]hHnX|GhsA~Fta@oCv\\uFnMyEnb@|JUx@jL|GfOUlMkRlOeAhEXdLdDtUzI~HlTdy@HxQqHxLaAp`@pHf[hDzb@dPlK~A~E_C|PnK`EdQeAbLpJ|GhPvdAtStB`E`Jbl@pU|OfGnJ`M~AtVn[`BfP_Dr[dAfWc@t_@zFlU|e@z^nTb`@|Rtu@nKnDbh@vEpO|Gvk@nDnTvKfI?fX~Jfa@rBfPfa@dPvGdm@vE~q@{Jv^P|U_ErDeGjKk`@tDs@vE|AzVxe@rK|GlKfRlDoAbL~HtMs@lt@d_@~UxU|w@vbAnGvO~H`Kp\\nPvOyEbKkL~Di@nEtClN`YhUvu@vTpOhP_@rGnB~[fe@~Hh@nBvGnH~B~HlP|DuGnOn\\~EzWrAMv@mGzEFfAqHhCqAv@cKlb@ku@~b@hClFtKWlB|QpGxSnA~@`EnDhAfHlJR~E{VnV_GtIo@jF~BnX?nZjHvPnF~VZ`e@{LrTkUhVoR|s@mIlLeDhOd@xBnKwG|IS~G~B^jJ~NxS~t@`QlI`G~Sfe@fR~SaMe~@mFuUqMgThAyDjDbEbK|@dMzUfH{AjEcLg@}T~IaB`C{GrDlPzEaChYwcAtMkTtUeNt_@eK~kAymAh^sPfIwMdI{\\bDs\\rEuIzNgIrx@_PtKmU|SiTfOiEn_@yUl[m_@~X_I~PVhPuI|LcP|RqJdSkVrLuXdUknA_@kv@tLq|@`@}pAhAaMpHoXTyFsBcLlH_a@Ky`@bEqP~L}WvKah@hY}i@dZg{@jc@cp@|Rwp@pSgiAyD_t@aMyt@Ukh@{Mex@dCmQ{ByHv@iSgGe`@WwOfAwh@~IkZjMkaA",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3529654,
+      41.8085215,
+      2.3893796,
+      41.8463849
+    ],
+    "start_lon_lat": [
+      2.3887001,
+      41.8463849
+    ],
+    "end_lon_lat": [
+      2.3826197,
+      41.8087579
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 19553913
+  },
+  "image": "imgs/pr-c-205.jpg"
+}

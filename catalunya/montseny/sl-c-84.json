@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-84",
+  "name": "La Riera d'Arbúcies fins a Sant Marçal",
+  "name_official": "De la Riera d'Arbúcies a Sant Marçal",
+  "ref": "SL-C 84",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Remunta la riera d'Arbúcies des del Molí de les Pipes fins arribar al nucli de Sant Marçal, punt de pas clàssic del massís.",
+  "start_point_text": "Molí de les Pipes",
+  "distance_km": 9.7,
+  "duration_text": "3 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "_dnwnAwtdwCjNyC|A`CiE~e@nVph@~A|UKh[oLrj@kUpaBsOzd@aGxf@bDdGhE}Df@ySrU}`@~FuShGyK`L}F~IdCkNb_@xAjKgAzEzAn_A`GtUnEfy@gMnFiGzN{A~JpAlMxYvTtCbGpPxnBHn]iG|m@kOl`AyGpgAlKrxAqJlp@tBlZoGvd@rA|MfMbIpVwDh\\n|@|Azt@fGtVlPzOtDnMlE{Al@sHnDeD~IgEvE~@bCrFv@hSpO`VlCjRlHhVb[n]xNj@zJzD|MtN|PQf_@pIdQ|^|BpPfOiGjH]tGhCfNlNrXhC~FqCjReUrMAxFdFAbW~DdJfIBzV}U|EvAxD|HdAvYdBnGnDrC~ZeOlLsKvTch@da@ui@|I{FdOdDbNbNjD~Gy@jBzAvEdQ|Hx\\`fAv@lHkBnOd@|SjKz[tSrb@jIxe@bC`DpO|q@n@`m@rDvViG~MeRhLuCfGtOz^~Er]qGpSeOlTyC|\\t@ta@~J|c@hSjd@`JtGrHb@xLoUdQyh@du@sRh_@bCxAdK_HrJ}LzFuDlTpV`u@xAzKq@v\\tExL~RhU^rKwG~NHfGdGfJxXvNj@dD_Clf@qIv]}Vfi@sJ|LpEng@gE~c@fF`u@o@|RmH|Hs^d~Aw^zd@id@hMcNtWuGfZ{Erd@TzYhBdMje@`wAzQb}@eBvD{ZxImHzF_ItPoB~OhAjfAbIz`@nMlVlLr_@pOxr@rV`n@tTtZbPb_@lY~RxFzMg@`GoHhEyGjr@uKnW}Il_@{KtRi`@pf@oArGdD~GtXfQfLtXnVnL|DhHl@|IuC~{@tJnq@aDtn@xBfFbNtKhIrSnKtAoAdLnBpJjBs@KsGvBcBdLaAfD~AjAbNlYpd@xEqBjWfIhEzEbGfSHbJrBbIrSbXfQjq@`PxkAzFp|@bGvXwG~Aok@mCi\\bLq\\|QuDpHgD|s@_a@x_B\\pq@_HhSgIhhAuMnk@^vOuBdVaCjN}Vjg@gEk@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4182602,
+      41.8008295,
+      2.4933532,
+      41.8200866
+    ],
+    "start_lon_lat": [
+      2.4932761,
+      41.8197282
+    ],
+    "end_lon_lat": [
+      2.4182822,
+      41.8044622
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 13554041
+  },
+  "image": "imgs/sl-c-84.jpg"
+}

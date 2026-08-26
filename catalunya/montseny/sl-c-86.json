@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-86",
+  "name": "Roc Perer",
+  "name_official": "Roc Perer",
+  "ref": "SL-C 86",
+  "category": "SL-C",
+  "difficulty": "Fácil",
+  "description": "Passeig circular des de Santa Fe fins a un mirador rocós amb vistes sobre la vall i els cims del voltant.",
+  "start_point_text": "Centre d'Informació Can Casades",
+  "distance_km": 4.6,
+  "duration_text": "1 h 45 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gwstnAioiuCaGxg@rNkUp\\x`Ap@zHmCvo@uItROnEcQfSyCp\\b@xJpK~_@jDjFpBvAbEkC}@kNlGwHfVeS|CzAMlf@bHre@jK~h@nBvC~QgJnFmHt_@u_A~LsUrR}RiQ`gAdE|y@nPxy@lEzKrUh\\R|JkF~Hga@GmIzKuB~YlFnUn@bQbEjGxOqW~KmErc@dJfLlJzZyDlAuBmKy^aKeeA_Oe~@sEmO]aOrPsg@z@kV|AoDvw@c@r_@nCdf@uEvEZh_@vR~LsRdKsi@lDykApHeTbEmGrc@yUb[ea@dFiCdK~BvLkFDmJiCeCcc@gHq_@zNil@cDe[rJiWuDeAiFhJ}Dn\\}[vScMkByC}OqG_ToEiM~CyXpPwJm@mDgHeOu@iZnE}DgDWb_@tBbMu@rCiVaFck@s\\al@_Mgg@sFwS~My\\d]{J|OiHbYyLlMsLhA_FrDgThn@lCwo@q@{HgUst@iFeKsNjU`Gyg@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.453918,
+      41.7642811,
+      2.4632859,
+      41.7735733
+    ],
+    "start_lon_lat": [
+      2.4629811,
+      41.7734435
+    ],
+    "end_lon_lat": [
+      2.4629811,
+      41.7734435
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 7168901
+  },
+  "image": "imgs/sl-c-86.jpg"
+}

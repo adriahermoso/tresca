@@ -1,0 +1,39 @@
+{
+  "id": "matagalls-des-de-collformic",
+  "name": "Matagalls des de Collformic",
+  "name_official": "De Collformic a Matagalls",
+  "ref": "GR 5.2",
+  "category": "GR",
+  "difficulty": "Difícil",
+  "description": "Ascens exigent des de Collformic fins al cim de Matagalls, el segon més alt del Montseny.",
+  "start_point_text": "Aparcament de Collformic",
+  "distance_km": 3.6,
+  "duration_text": "1 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "qqivnAgjhnCyEbBwCgKhA{GyJs[]uJwDo@oBtGwBFeLgYkFgCqEb@gXqUcMsYaIwCaWmf@_l@w_@iTgSiEoLgW{Rw^we@q_@sz@kEk[yVyw@iNaXaCsNtAwNyIqTsCoq@Gmc@~BgZzD_NjTka@tGot@gAgWiOayA|@iHyAgMy@_GgPcYoBc_@~OclAvF{E`Q}Zdk@cj@bLeVdGuGrAyDCsUdCcLtYub@tEmSZa_@uN_t@Ccx@zEu`@dAop@_J_}AgRiu@k_@k}CmCuu@i[cy@{GsHiW}LqWcSc\\ee@yKcd@y@sOl@_i@gD}M}EyImDwRyYkf@_Ywn@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3476369,
+      41.8010011,
+      2.3826197,
+      41.8087579
+    ],
+    "start_lon_lat": [
+      2.3476997,
+      41.8010011
+    ],
+    "end_lon_lat": [
+      2.3826197,
+      41.8087579
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1727116
+  },
+  "image": "imgs/matagalls-des-de-collformic.jpg"
+}

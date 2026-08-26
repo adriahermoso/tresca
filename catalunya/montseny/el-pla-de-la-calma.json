@@ -1,0 +1,39 @@
+{
+  "id": "el-pla-de-la-calma",
+  "name": "El Pla de la Calma",
+  "name_official": "D'Aiguafreda al pla de la Calma",
+  "ref": "GR 5",
+  "category": "GR",
+  "difficulty": "Difícil",
+  "description": "Ascens des d'Aiguafreda fins al gran altiplà del Pla de la Calma, un dels paisatges més oberts i característics del Montseny.",
+  "start_point_text": "Punt d'Informació d'Aiguafreda",
+  "distance_km": 11.0,
+  "duration_text": "3 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "c{dtnA{{ohCbHuBkPw{Bdn@}IyCcHCaM~DwOtNcElByVYgN`Nm~@`c@mkBhb@{j@pQad@|HiCrEzChMkx@zCus@tSscAtNw_@zAcK`Bw[uGyUpEkFt@_R{QyvCbIuWh]id@|G_SfFs\\tIeOxMye@bAeKqAq`@_L{l@tDyVxLgXvWwPfLmBzM}n@sEcN}Wk\\sBwMzDk~AhEuReDeYiCqmAx@eV~Iyc@hMuZj[e[b@qNjCcKn`@qu@fR_WzQil@hAoa@lB_IvXse@|TyUvHwb@j_@if@xLei@zZs[nAkFpBgr@dz@isA|EoFxJsCj^?pu@uGjn@sNd`Ayy@lFmT~XmIvEyEB}K{Lct@`Cib@`FeIxUeH~V}XpR_d@fW_QlFwPjPwMxE_^yCqn@tCcJOmGzBeKxLwY~\\q`@vQyb@zJyMgAwFhAwCw@ek@wGm^FqVaCoHvIsJJyBkIiB_A{BnMga@zHmNjCsRhDgG`x@{w@m@}C{QcMwIyTea@cFuXkaAoN{RyAkGj@aWx@uIrEuLa@gC_RkGgUtCyqA_EiI{CwGiJy@yFpCwKhSeQbUaZze@gGzXvJ~\\iHzA_Cg@qDkQgJcKoT{g@wReg@|Dgs@mHsMh@wQgGyQPmQcN~AkJjq@ut@l[ip@l[yg@bCmOJug@{D{t@gjAe`Akj@{k@c]sVs^{LuRySu_@ySoT{Pem@cm@aK{VkSkXyN_YgV}ZwNqH{@kDdA}\\m@yNeVo_@uIsAmNvEaDu@_m@aj@wPc]_f@cMqJuIaYeoA_LseAgWaeA_@iqBdDoj@Qwl@o@kMqIcZ}RwYiLyGy[cImKaSwTyK_e@qg@wd@}NiOaO_RcJey@ut@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.2532624,
+      41.7466883,
+      2.3330766,
+      41.765958
+    ],
+    "start_lon_lat": [
+      2.2532624,
+      41.7658262
+    ],
+    "end_lon_lat": [
+      2.3330766,
+      41.7646464
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 379910
+  },
+  "image": "imgs/el-pla-de-la-calma.jpg"
+}

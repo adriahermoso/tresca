@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-204",
+  "name": "Pujada a Santa Fe des d'Arbúcies",
+  "name_official": "Pujada a Santa Fe de Montseny. D'Arbúcies a Santa Fe",
+  "ref": "PR-C 204",
+  "category": "PR-C",
+  "difficulty": "Moderada",
+  "description": "Ascens des d'Arbúcies fins a l'altiplà de Santa Fe, amb l'antic balneari, l'estany i el monestir com a punt final.",
+  "start_point_text": "Museu Etnològic del Montseny, La Gabella",
+  "distance_km": 9.0,
+  "duration_text": "3 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "ikbwnA{nmxCt^o\\`JqMhAnB_Ct`@hCfLvC{@~AsWlD{G~NpQ|DfKpJnGwG`^SzHvApH{BbNf@tHgBd\\~JvNcIza@rQ`h@zD`e@jDdDrUpj@fZ~[r@`EkBhTgE~FGvHbGna@ol@tcBK~`@bSlr@pCjh@`WvVzMpVfO|l@lBYXc[jGbE~HfO~RYzS~EbPj@nNjJ`Rpd@jLvaAjZfu@zYlPf^nZjYzZjSb[nIt]kPx[oQ|TuMb^i^`_@zXx~@GnY`DxKbHbDzJq@pOpE~J`Uhj@vg@rAxPeAhaAjEnNbv@dbA|GdAfR{F|FnChBjHw@fQbQrPvUd]f^xVdc@lK_BtF~AtFWbMvCjF?~EfFtBnDlHvAvS~GtCvCvJvItFtIGfHoGpIez@fDaOxFkKbXiPdCJnFfGxHlc@fI|HpWjLnFIrG{M~F]x_@lKdW|W``@g]nk@oHzDqDxXuGnOnQbB`LnV`GvObYrEbViE~VI~Jl@zEnHdMyIjPgMfh@w@d]tEv`@MpT~BbOw@x`@rAbLVfz@`BpHhl@|Ml^bRb@zDm\\cEkENu@tBzDxFvVzPrDbGtFnVzB~WuD`x@xMxm@bNjReIz\\~D|eAmLvg@JbItDjOrUxYnEz`@nB~CnE`FbT`DrImA|EbAnDiCpTxUfW`DxFjNvGpHhPzOhQlIx\\vFnHbF`\\tEyAgDv@yEtIp@hSyKvMRvVjInf@jDf_Afc@xFvLdFhDf^tBvEjHzDCnGaJjDkAbN`IrFeDrIjAbG}GvWaOzE{GrSwIjJH~f@|JnOrUrSfk@rF`HrDzc@zL~XfFt@bGe`@jN_TzYmm@bHyBnMXr_@fOnm@fKfT{B`QlBxNxKjj@|NtIzKlFhSvQ`NjEvI`Lzi@pHxFfHpP{@lT~AxNsF`TjAbKw@fOdGjMhFxTnBjC~BSfXca@tC\\~HjR~WxPt[vLzOhSnHvOxb@nd@b@rDpIvEnMAjI|Wz@bTlG`L`UiQxBjUy@rc@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4629811,
+      41.773415,
+      2.5148793,
+      41.8137007
+    ],
+    "start_lon_lat": [
+      2.5141744,
+      41.8137007
+    ],
+    "end_lon_lat": [
+      2.4629811,
+      41.7734435
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 6390674
+  },
+  "image": "imgs/pr-c-204.jpg"
+}

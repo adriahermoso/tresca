@@ -1,0 +1,40 @@
+{
+  "id": "pr-c-211",
+  "name": "Riera de Gualba",
+  "name_official": "Riera de Gualba",
+  "ref": "PR-C 211",
+  "category": "PR-C",
+  "difficulty": "Muy difícil",
+  "description": "Remunta la riera de Gualba fins a les fonts, entre boscos de ribera i salts d'aigua; s'hi va i es torna pel mateix camí, el doble de llarg del que sembla.",
+  "start_point_text": "Punt d'Informació de Gualba",
+  "distance_km": 27.86,
+  "duration_text": "6 h 30 min",
+  "circular": true,
+  "is_out_and_back": true,
+  "track": {
+    "polyline": "iugqnAaz|yC`NdPbYfl@|i@bfB~aBpzBzP|[zOzaA|DvLaYp[_g@zu@_OhZqHvH}@pZoI^o}AlbCkZfQcp@lh@aoA`n@sD`[bHtg@kAle@mb@rbAX~N{Rdo@mE`[dApRmDvDuk@|@eDxZGpXjDnS{AzDkp@xJi@jFjMjq@aUvKwLvBm^nY_ZgJyIjCyTnWiIt@g\\yGsHBcCbDaApVcBpE}Df@yc@eHeFvBgEzGwI`[gUdXiAzJrApMdLfZbK~p@sEh]qi@ha@wf@xY{FtJsI~YiPhUiGfEgJj@_NoO{Fx@wQeCe[sL_RtD_R|LeMwDsNKwLsIuWbEsM{EaHzDP~KnBrDdz@||@l_@jXvLCnZcInl@`I_@rIoIbXuRd^R`JbCrIxLnLxMza@|e@`]sHln@k`@b|@ikFreKgGvGq}Al@eMwJoJaNcAwJnAkI|FsKYkJkCqFbE__@~BovAgE?iM`Mg{@z^g`@jJic@cT_CjEw@vMaOd]wrA~y@yRwR_KyRa~@cQwb@sDob@x[aGx]aCfEkSnDiL`KwCjIbCzHz\\j_@z^dWlEtHu@vPoJvMaTvE_X`MyOlQeJho@qLjNwm@xUoKbRwK`GqLtNgJnRo@`O_IbRa\\vN}OxSoG~D_Gi@__@e_@yn@{e@_NjI_D_@yX}T{W{C{i@s[_b@cN_MgJa]_u@wH_J_R}d@a\\ma@}Ro@}JrBiO`Mx@zFlOjPfCtLE|HiErFeP|EgR`LyA|TcGrGuL~D{DzJKvEnFj_AxSvYzLra@rMnSpEzm@pDtQpAth@hClS}PrP|BbOe@pLyI|V{HdhAeb@aAaKpC_G`M^jy@oItx@`BzU|Odm@|[vp@}Hjb@mBr^~Chs@iK{@w`@_PoK~BoIlH?jBfTlMrDfHo@rFzRh\\jLxl@eAvAuNsKwEByHv[KtIlCNpj@pc@hOjHzGXpDgIrBiThdAyaArDcQ|Eey@jYd@n^hNbMqD|LbEwBsPqOeY_Z_w@}Do^cGcUwKmRwHwGvMcJvIvAfe@vZxPxG~l@pDph@{@lUeIfKuJ`T{b@GkM_Gya@~Eug@F_NgCcZzG_K~EvEtLiB`F_PrIqLrJyl@jNsChOdK~RwApViH~~@~MnHqBhg@a~@fj@c{@fNuEvFaJoGuoAvBoHfJ_@p_@`J~NUxy@o]nWoY~A_NgBoJoEuDyDkn@G{v@|BiOvFsKrUsUvf@saBl~AqqBdmAcMr\\iA`QjA",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4810372,
+      41.7145355,
+      2.5384168,
+      41.7532744
+    ],
+    "start_lon_lat": [
+      2.5384168,
+      41.7181167
+    ],
+    "end_lon_lat": [
+      2.5013403,
+      41.7349559
+    ],
+    "one_way_distance_km": 13.93
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 9506234
+  },
+  "image": "imgs/pr-c-211.jpg"
+}

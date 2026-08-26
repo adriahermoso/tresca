@@ -1,0 +1,39 @@
+{
+  "id": "les-agudes-i-el-turo-de-lhome",
+  "name": "Les Agudes i el Turó de l'Home",
+  "name_official": "De Sant Marçal a les Agudes i el turó de l'Home",
+  "ref": "GR 5.2",
+  "category": "GR",
+  "difficulty": "Muy difícil",
+  "description": "Des de Sant Marçal, arriba als dos cims més alts del Montseny: les Agudes i el Turó de l'Home, sostre del massís.",
+  "start_point_text": "Aparcament de Sant Marçal",
+  "distance_km": 7.2,
+  "duration_text": "2 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "scpvnAgdrrC|Vkg@`CkNtBeV_@wOtMok@fIihA~GiS]qq@~`@y_BfD}s@tDqHp\\}Qh\\cLnk@lCvG_BcGwX{Fq|@aPykAgQkq@sScXsBcIt@}^jCkJlPkQd`@wWfTii@k@uHbBwFxHqGlPk@rRid@dDrAjClNrCtC|K~FnDOzIgEjWs`@`e@uQrf@qZtB{DHsVjT{MrFwRgA_IhFyC|MjWdItD~Vf@`T_NfWeHdQ}KxJiCf@nT|BhNe@~YdCxn@~Nbl@hQrRvFtAbFOvMiId{@{w@dUmGjMn@mJiSgHaD_NiAoQnAvW_a@|Q}Lrm@k@zi@~NbXbB|b@vVyAu^vAsTuKkoARaI`YnTpEfAb@gGlC}@xE`DtFtPbT`a@zA~IvHfIMoVtFon@nHpDzHhMfEuG`Qt]vB{DfEu_AnBJs@}TcGiOsB}m@|CgX|C_HvBbDvAaLiDuXgEmJsLeMoDmPlB_AzHjIvKnC|FZvJ_I|HnAwTgs@nDLgT_b@gLcc@yH_KeZgSB{CvH_BrSxAt_@uGdLtQvI~GvLvDhOxSvBtH|SrQrHpRvf@dy@jG~FfD|MrKjO`EbLlB~h@j]pu@bl@ni@dSbGt_@pW~Y|g@hGbQ`LrKl^nUvY~Itw@le@|b@xGtJhFtnAhK^dJtJjQg@fExBdEnGDtL|Gjc@zFt_@_@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4182602,
+      41.7768389,
+      2.4422577,
+      41.8043622
+    ],
+    "start_lon_lat": [
+      2.4182602,
+      41.8043622
+    ],
+    "end_lon_lat": [
+      2.4324253,
+      41.7768389
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1727116
+  },
+  "image": "imgs/les-agudes-i-el-turo-de-lhome.jpg"
+}

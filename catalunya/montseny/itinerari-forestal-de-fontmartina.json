@@ -1,0 +1,39 @@
+{
+  "id": "itinerari-forestal-de-fontmartina",
+  "name": "El Bosc de Fontmartina",
+  "name_official": "Itinerari forestal de Fontmartina",
+  "ref": null,
+  "category": "tematic",
+  "difficulty": "Fácil",
+  "description": "Itinerari didàctic circular per una fageda i avetosa ben conservades, amb plafons interpretatius sobre la vegetació del massís.",
+  "start_point_text": "àrea d'esplai de les Feixes del Vilar",
+  "distance_km": 4.8,
+  "duration_text": "1 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "keqsnAy}xrCvZUtb@cPpHmK?{MfDyGtC_E|MwBvG}DlFaFaAeG{DgGwHUii@zQaRd@gQ}GcT}Bgp@aBkInDqIpMuShBkb@kI\\_K~UqA_FsVsDqEe_@gC|O}IrK_M`TlIxJn@tIkDbd@ge@rOgUzh@k]hRaIpWw_@_ZuPyOwFqBj@_NaHmYu@yLv@{m@~Y}@oEGxFeSvK}DcDgd@w|@mPePwTaG_VmNkc@gq@gQ_IqVvS}MjCcEnPqD~D_Od@yXsEaNmFsAkEm_@~Hk\\vN}g@`B}QbHqCdH?dNj`@vm@bK`CzHjR`Hl[nSth@tUj}@aGbIuJpCkc@y\\gG{KlC`W~Orp@xL`CfKtJp\\~Ec@lPbg@b[bE`OhJdKfBvGeClL|VfV`A|H~EjHqAtNlU|[XjOaC~^nGhF_F~CkNmBaIoIkK_a@aIyIqN}@qWsRgLyCfLxCpWrRpN|@`IxIbEnKxBxZjVrMne@~GpJi@fg@c[dn@wUv]mSrXig@yAci@`G_FiEoJlMu@rStHjOSvJaDbLuPhE{AxGtE",
+    "polyline_precision": 6,
+    "bbox": [
+      2.418779,
+      41.7539248,
+      2.4287416,
+      41.7638568
+    ],
+    "start_lon_lat": [
+      2.4217412,
+      41.7557504
+    ],
+    "end_lon_lat": [
+      2.4217412,
+      41.7557504
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10399960
+  },
+  "image": "imgs/itinerari-forestal-de-fontmartina.jpg"
+}

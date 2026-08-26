@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-82",
+  "name": "Del Coll de Bordoriol al Coll Pregon",
+  "name_official": "Del coll de Bordoriol al coll Pregon",
+  "ref": "SL-C 82",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Travessia curta i amb desnivell entre dos colls del Montseny, per pistes forestals i corriols de bosc de faig.",
+  "start_point_text": "Aparcament del coll de Bordoriol",
+  "distance_km": 4.3,
+  "duration_text": "2 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "mhzwnAkc`rCeBnJj@~UjYzVji@pw@|CdNvM|PxEhLaAfd@rAnGlC`AtEiCbLeh@hDmBbHjAlQfRpb@nHtr@sEna@lXxOhFpk@e_@|HUtVpErXgAnG{DlRkV~_@iMbTq@le@~ZpMjD|M[dZxKh{@|y@r}@|NrKwE|@rCwCzCmVdMaZlAaZpJ{g@aAub@vB{Cp@BzCfC`E~TpEjRTzi@xPhY`EzPrKlP~DzaAb~@rd@jNlMrSxUjt@fObTaHuVuEqs@yIae@a@uRnC_HpUgK?~DeFjHpApJlLpStJ|IvOll@\\bUfOrX|FjSrt@xOhQ`XbWx~@tBvX_@lTvBdIrGnC~Nk@j`@nG|JvJzEfORzr@eAhUwJjs@dAzIvEtH`k@|EfHlO|Qrg@tHt`@nCz[~Snq@hJ`p@`DfJvL`FnGw@`BaHnDiBh]dIv^uFvAvQxGzH~IlSwPvR{FlVpRzE`j@jg@vT~VhBxM_E|BmGuAiWlAmHjFeIzAs[hp@m\\lSgWbb@w\\bQaI`HgNdVma@d]gCzK_IbFe\\vo@{AhQiC|G{b@`l@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3826197,
+      41.803691,
+      2.4090301,
+      41.8259935
+    ],
+    "start_lon_lat": [
+      2.4090301,
+      41.8259432
+    ],
+    "end_lon_lat": [
+      2.3826197,
+      41.8087579
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10431564
+  },
+  "image": "imgs/sl-c-82.jpg"
+}

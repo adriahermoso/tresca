@@ -1,0 +1,39 @@
+{
+  "id": "l-empedrat-de-morou",
+  "name": "L'Empedrat de Morou",
+  "name_official": "L'Empedrat de Morou",
+  "ref": null,
+  "category": "tematic",
+  "difficulty": "Moderada",
+  "description": "Segueix un antic camí ramader empedrat que baixa cap a Morou, un dels trams millor conservats de calçada tradicional del Montseny.",
+  "start_point_text": "Centre d'Informació Can Casades",
+  "distance_km": 6.0,
+  "duration_text": "2 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gwstnAioiuC~Si_@_VuYaUhQmGaL{@cTkI}WoM@qIwE}AiWv@sRvP_[zFsWbd@ka@pDoGvb@eApf@mYf_AcZtJ}Nx\\xCbAyErIcHbLeb@lX_VjC{FzC_VfMuLvAyMgGmWbG}U?sI{DwKjAeDxWeHnJcHnMmBdFsK|TiWpBgTOeU~LadACez@_DgWhCaChEHr\\dT~J_HpCgk@lEwGdBgM`EyGvIyFnEuWbI{GuAmN?co@_F}QsB}YtBs`AvGaUtNwInXkFnJaG`Ric@bFy[IwH_EwAiHbUeXn]mEvA}]}LoKaI_S_AcW[sMvP_CD{AmCJgWyCeH{Av@}AtAeMzj@_AlTn@bWjGxf@uCpBuDMoNmN_HaMqe@a\\}J{PaTyT{CsHac@rG_NvOiDnSz@lW|MleAiA~QyInRoI|IgYkBm_@jCkEvFkBtJgOf\\rPjUs@bNgEtCkOoIcHm@gVzE}p@t@aE|G~A|FnQ|AjBjEwCdHgm@xV_|@fHGfHoHbWyOfLdB`bArGrd@fWxm@fFd[rKr_@~BnT_Ad_@jA|QjQdVVf[nClSrOhTnFfQnCxSg@~NgF~Jkp@vKwLdHwMtCgKxOiJtq@aPp\\zOhSnHvOxb@nd@b@rDpIvEnMAjI|Wz@bTlG`L`UiQ~UtY_Th_@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4629811,
+      41.765091,
+      2.4819703,
+      41.7755742
+    ],
+    "start_lon_lat": [
+      2.4629811,
+      41.7734435
+    ],
+    "end_lon_lat": [
+      2.4629811,
+      41.7734435
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10416927
+  },
+  "image": "imgs/l-empedrat-de-morou.jpg"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "volta-al-panta-de-santa-fe",
+  "name": "Volta al Pantà de Santa Fe",
+  "name_official": "Volta al pantà de Santa Fe",
+  "ref": null,
+  "category": "tematic",
+  "difficulty": "Fácil",
+  "description": "Circuit senzill i pla al voltant de l'estany de Santa Fe, ideal per a una passejada curta enmig de l'avetosa.",
+  "start_point_text": "Centre d'Informació Can Casades",
+  "distance_km": 2.6,
+  "duration_text": "50 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gwstnAioiuCx@sc@yBkUaUhQmGaL{@cTkI}WoM@qIwE}AiWv@sRvP_[zFsWbd@ka@pDoGvb@eApf@mYf_AcZtJ}Nx\\xCbAyErIcHbLeb@lX_VjC{FzC_VfMuLvAyMgGmWbG}U?sI{DwKjAeDj\\uG`KbYlS`W|SzJ`_@lCzFpHpM|_@uBzW}L`Y}KvOyLbJ{GhOyCre@kC`L{PrOqWfMcOrVeS{Gy_@jEcOeBs^zNga@zC_RvIkEvH_MzEcPne@wSlKgCtHcz@~WxG|v@y@rc@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4629811,
+      41.7672105,
+      2.4714873,
+      41.7746081
+    ],
+    "start_lon_lat": [
+      2.4629811,
+      41.7734435
+    ],
+    "end_lon_lat": [
+      2.4629811,
+      41.7734435
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10432155
+  },
+  "image": "imgs/volta-al-panta-de-santa-fe.jpg"
+}

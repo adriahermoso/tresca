@@ -1,0 +1,39 @@
+{
+  "id": "el-sot-de-l-infern",
+  "name": "El Sot de l'Infern",
+  "name_official": "El Sot de l'Infern",
+  "ref": null,
+  "category": "tematic",
+  "difficulty": "Fácil",
+  "description": "Curt descens fins a un revolt fondo i ombrívol de la riera, un dels racons més frescos del Montseny a l'estiu.",
+  "start_point_text": "àrea d'esplai de la plana del Coll",
+  "distance_km": 3.0,
+  "duration_text": "55 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "a_vsnA}zrsCjO|FrFnRfWnFx]|QlRwn@bYen@zQ{|@PuGkFdAsLpS{XnXmOjG}[m@kYyOeJkO{U`LyWrEk]bPsVdF_Li@_GjEx@zHnQtUzEt]|A`^wHfs@tTxx@lDj_@xBp@fQsF`QjAzu@`XzG`HnAnMzLz`@pE`s@|QhZyFvMfBfOhJn\\p@fQpCfCkHxH~B`D~^pCzDbFsXpLgRnP`B`EwNlEeGnLa@xP`@yPdGoLvNmEaBaEfRoPrXqL{DcF}D{@aYuAcByEnGaGdg@{IaBwDoQgLuQwf@?mFaFwHcLge@[{MtGqZoRsjAgEqGoIsEqw@eO_PgImCad@kFgIxEmL`G{EvGub@AwPq@_HgM{Lr[uG",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4263858,
+      41.7559038,
+      2.4367926,
+      41.7599543
+    ],
+    "start_lon_lat": [
+      2.4350068,
+      41.7582089
+    ],
+    "end_lon_lat": [
+      2.4350068,
+      41.7582089
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10399721
+  },
+  "image": "imgs/el-sot-de-l-infern.jpg"
+}

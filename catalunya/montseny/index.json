@@ -1,1 +1,524 @@
-
+[
+  {
+    "id": "cami-de-montseny-a-campins",
+    "name": "Camí de Montseny a Campins",
+    "ref": "GR 5",
+    "category": "GR",
+    "difficulty": "Muy difícil",
+    "distance_km": 17.5,
+    "duration_text": "4 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3952183,
+      41.7277447,
+      2.4731551,
+      41.7593086
+    ],
+    "image": "imgs/cami-de-montseny-a-campins.jpg"
+  },
+  {
+    "id": "pr-c-201",
+    "name": "Castell de Montsoriu",
+    "ref": "PR-C 201",
+    "category": "PR-C",
+    "difficulty": "Moderada",
+    "distance_km": 13.5,
+    "duration_text": "3 h 10 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.5133641,
+      41.7479616,
+      2.5598254,
+      41.816147
+    ],
+    "image": "imgs/pr-c-201.jpg"
+  },
+  {
+    "id": "sl-c-85",
+    "name": "Del Brull a Collformic",
+    "ref": "SL-C 85",
+    "category": "SL-C",
+    "difficulty": "Moderada",
+    "distance_km": 7.1,
+    "duration_text": "1 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3051735,
+      41.8010868,
+      2.3473893,
+      41.8197301
+    ],
+    "image": "imgs/sl-c-85.jpg"
+  },
+  {
+    "id": "sl-c-82",
+    "name": "Del Coll de Bordoriol al Coll Pregon",
+    "ref": "SL-C 82",
+    "category": "SL-C",
+    "difficulty": "Moderada",
+    "distance_km": 4.3,
+    "duration_text": "2 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3826197,
+      41.803691,
+      2.4090301,
+      41.8259935
+    ],
+    "image": "imgs/sl-c-82.jpg"
+  },
+  {
+    "id": "itinerari-forestal-de-fontmartina",
+    "name": "El Bosc de Fontmartina",
+    "ref": null,
+    "category": "tematic",
+    "difficulty": "Fácil",
+    "distance_km": 4.8,
+    "duration_text": "1 h 30 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.418779,
+      41.7539248,
+      2.4287416,
+      41.7638568
+    ],
+    "image": "imgs/itinerari-forestal-de-fontmartina.jpg"
+  },
+  {
+    "id": "sl-c-81",
+    "name": "El Castanyer de les Nou Branques",
+    "ref": "SL-C 81",
+    "category": "SL-C",
+    "difficulty": "Fácil",
+    "distance_km": 5.8,
+    "duration_text": "1 h 30 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.388946,
+      41.8336811,
+      2.4013436,
+      41.8477482
+    ],
+    "image": "imgs/sl-c-81.jpg"
+  },
+  {
+    "id": "el-coll-de-collformic",
+    "name": "El Coll de Collformic",
+    "ref": "GR 5.2",
+    "category": "GR",
+    "difficulty": "Moderada",
+    "distance_km": 4.1,
+    "duration_text": "1 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3278293,
+      41.7788053,
+      2.347772,
+      41.8010011
+    ],
+    "image": "imgs/el-coll-de-collformic.jpg"
+  },
+  {
+    "id": "sl-c-88",
+    "name": "El Coll de n'Orri des de Gaserans",
+    "ref": "SL-C 88",
+    "category": "SL-C",
+    "difficulty": "Moderada",
+    "distance_km": 5.1,
+    "duration_text": "1 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.553225,
+      41.7491235,
+      2.590977,
+      41.7687149
+    ],
+    "image": "imgs/sl-c-88.jpg"
+  },
+  {
+    "id": "pr-c-139",
+    "name": "El Pi Novell",
+    "ref": "PR-C 139",
+    "category": "PR-C",
+    "difficulty": "Difícil",
+    "distance_km": 18.0,
+    "duration_text": "6 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3330766,
+      41.6717616,
+      2.4001434,
+      41.7646464
+    ],
+    "image": "imgs/pr-c-139.jpg"
+  },
+  {
+    "id": "el-pla-de-la-calma",
+    "name": "El Pla de la Calma",
+    "ref": "GR 5",
+    "category": "GR",
+    "difficulty": "Difícil",
+    "distance_km": 11.0,
+    "duration_text": "3 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.2532624,
+      41.7466883,
+      2.3330766,
+      41.765958
+    ],
+    "image": "imgs/el-pla-de-la-calma.jpg"
+  },
+  {
+    "id": "el-poble-de-montseny",
+    "name": "El Poble de Montseny",
+    "ref": "GR 5",
+    "category": "GR",
+    "difficulty": "Difícil",
+    "distance_km": 11.2,
+    "duration_text": "3 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3286234,
+      41.7592493,
+      2.3952183,
+      41.78132
+    ],
+    "image": "imgs/el-poble-de-montseny.jpg"
+  },
+  {
+    "id": "el-puig-del-brull",
+    "name": "El Puig del Brull",
+    "ref": "GR 2",
+    "category": "GR",
+    "difficulty": "Difícil",
+    "distance_km": 14.0,
+    "duration_text": "4 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.2532624,
+      41.7656797,
+      2.3063677,
+      41.8364103
+    ],
+    "image": "imgs/el-puig-del-brull.jpg"
+  },
+  {
+    "id": "el-sot-de-l-infern",
+    "name": "El Sot de l'Infern",
+    "ref": null,
+    "category": "tematic",
+    "difficulty": "Fácil",
+    "distance_km": 3.0,
+    "duration_text": "55 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4263858,
+      41.7559038,
+      2.4367926,
+      41.7599543
+    ],
+    "image": "imgs/el-sot-de-l-infern.jpg"
+  },
+  {
+    "id": "els-cingles-de-berti",
+    "name": "Els Cingles de Bertí",
+    "ref": "PR-C 33",
+    "category": "PR-C",
+    "difficulty": "Difícil",
+    "distance_km": 11.7,
+    "duration_text": "3 h 45 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.2729821,
+      41.6847602,
+      2.3003012,
+      41.7270874
+    ],
+    "image": "imgs/els-cingles-de-berti.jpg"
+  },
+  {
+    "id": "l-empedrat-de-morou",
+    "name": "L'Empedrat de Morou",
+    "ref": null,
+    "category": "tematic",
+    "difficulty": "Moderada",
+    "distance_km": 6.0,
+    "duration_text": "2 h",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4629811,
+      41.765091,
+      2.4819703,
+      41.7755742
+    ],
+    "image": "imgs/l-empedrat-de-morou.jpg"
+  },
+  {
+    "id": "sl-c-84",
+    "name": "La Riera d'Arbúcies fins a Sant Marçal",
+    "ref": "SL-C 84",
+    "category": "SL-C",
+    "difficulty": "Moderada",
+    "distance_km": 9.7,
+    "duration_text": "3 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4182602,
+      41.8008295,
+      2.4933532,
+      41.8200866
+    ],
+    "image": "imgs/sl-c-84.jpg"
+  },
+  {
+    "id": "les-agudes-i-el-turo-de-lhome",
+    "name": "Les Agudes i el Turó de l'Home",
+    "ref": "GR 5.2",
+    "category": "GR",
+    "difficulty": "Muy difícil",
+    "distance_km": 7.2,
+    "duration_text": "2 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4182602,
+      41.7768389,
+      2.4422577,
+      41.8043622
+    ],
+    "image": "imgs/les-agudes-i-el-turo-de-lhome.jpg"
+  },
+  {
+    "id": "matagalls-des-de-collformic",
+    "name": "Matagalls des de Collformic",
+    "ref": "GR 5.2",
+    "category": "GR",
+    "difficulty": "Difícil",
+    "distance_km": 3.6,
+    "duration_text": "1 h 30 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3476369,
+      41.8010011,
+      2.3826197,
+      41.8087579
+    ],
+    "image": "imgs/matagalls-des-de-collformic.jpg"
+  },
+  {
+    "id": "matagalls-des-de-sant-marcal",
+    "name": "Matagalls des de Sant Marçal",
+    "ref": "GR 5.2",
+    "category": "GR",
+    "difficulty": "Moderada",
+    "distance_km": 4.1,
+    "duration_text": "1 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3826197,
+      41.8006713,
+      2.4182602,
+      41.8087579
+    ],
+    "image": "imgs/matagalls-des-de-sant-marcal.jpg"
+  },
+  {
+    "id": "pr-c-205",
+    "name": "Matagalls des de Viladrau",
+    "ref": "PR-C 205",
+    "category": "PR-C",
+    "difficulty": "Difícil",
+    "distance_km": 9.0,
+    "duration_text": "3 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3529654,
+      41.8085215,
+      2.3893796,
+      41.8463849
+    ],
+    "image": "imgs/pr-c-205.jpg"
+  },
+  {
+    "id": "sl-c-89",
+    "name": "Poblat Ibèric de Samalús",
+    "ref": "SL-C 89",
+    "category": "SL-C",
+    "difficulty": "Fácil",
+    "distance_km": 1.6,
+    "duration_text": "45 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3225715,
+      41.6898755,
+      2.326666,
+      41.6963467
+    ],
+    "image": "imgs/sl-c-89.jpg"
+  },
+  {
+    "id": "pr-c-204",
+    "name": "Pujada a Santa Fe des d'Arbúcies",
+    "ref": "PR-C 204",
+    "category": "PR-C",
+    "difficulty": "Moderada",
+    "distance_km": 9.0,
+    "duration_text": "3 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4629811,
+      41.773415,
+      2.5148793,
+      41.8137007
+    ],
+    "image": "imgs/pr-c-204.jpg"
+  },
+  {
+    "id": "pr-c-211",
+    "name": "Riera de Gualba",
+    "ref": "PR-C 211",
+    "category": "PR-C",
+    "difficulty": "Muy difícil",
+    "distance_km": 27.86,
+    "duration_text": "6 h 30 min",
+    "circular": true,
+    "is_out_and_back": true,
+    "bbox": [
+      2.4810372,
+      41.7145355,
+      2.5384168,
+      41.7532744
+    ],
+    "image": "imgs/pr-c-211.jpg"
+  },
+  {
+    "id": "sl-c-90",
+    "name": "Riera de Vallfornès",
+    "ref": "SL-C 90",
+    "category": "SL-C",
+    "difficulty": "Fácil",
+    "distance_km": 3.3,
+    "duration_text": "1 h",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.3456777,
+      41.6928931,
+      2.3556827,
+      41.7160863
+    ],
+    "image": "imgs/sl-c-90.jpg"
+  },
+  {
+    "id": "sl-c-86",
+    "name": "Roc Perer",
+    "ref": "SL-C 86",
+    "category": "SL-C",
+    "difficulty": "Fácil",
+    "distance_km": 4.6,
+    "duration_text": "1 h 45 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.453918,
+      41.7642811,
+      2.4632859,
+      41.7735733
+    ],
+    "image": "imgs/sl-c-86.jpg"
+  },
+  {
+    "id": "pr-c-213",
+    "name": "Turó de Tagamanent des de Figaró",
+    "ref": "PR-C 213",
+    "category": "PR-C",
+    "difficulty": "Difícil",
+    "distance_km": 29.4,
+    "duration_text": "4 h 30 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.2651964,
+      41.7210314,
+      2.2986563,
+      41.7479202
+    ],
+    "image": "imgs/pr-c-213.jpg"
+  },
+  {
+    "id": "pr-c-208",
+    "name": "Turó de l'Home i les Agudes",
+    "ref": "PR-C 208",
+    "category": "PR-C",
+    "difficulty": "Muy difícil",
+    "distance_km": 11.5,
+    "duration_text": "5 h",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4333449,
+      41.7734435,
+      2.4629811,
+      41.7893278
+    ],
+    "image": "imgs/pr-c-208.jpg"
+  },
+  {
+    "id": "pr-c-200",
+    "name": "Volta a Aiguafreda de Dalt",
+    "ref": "PR-C 200",
+    "category": "PR-C",
+    "difficulty": "Difícil",
+    "distance_km": 16.1,
+    "duration_text": "4 h 30 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.2460742,
+      41.7651926,
+      2.287641,
+      41.7942756
+    ],
+    "image": "imgs/pr-c-200.jpg"
+  },
+  {
+    "id": "volta-al-panta-de-santa-fe",
+    "name": "Volta al Pantà de Santa Fe",
+    "ref": null,
+    "category": "tematic",
+    "difficulty": "Fácil",
+    "distance_km": 2.6,
+    "duration_text": "50 min",
+    "circular": true,
+    "is_out_and_back": false,
+    "bbox": [
+      2.4629811,
+      41.7672105,
+      2.4714873,
+      41.7746081
+    ],
+    "image": "imgs/volta-al-panta-de-santa-fe.jpg"
+  }
+]

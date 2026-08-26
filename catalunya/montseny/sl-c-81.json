@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-81",
+  "name": "El Castanyer de les Nou Branques",
+  "name_official": "Sender del castanyer de les Nou Branques",
+  "ref": "SL-C 81",
+  "category": "SL-C",
+  "difficulty": "Fácil",
+  "description": "Passeig curt des de Viladrau fins a un castanyer centenari de tronc múltiple, un dels arbres més fotografiats del Montseny.",
+  "start_point_text": "Aparcament del carrer Balcells i Morató, Viladrau",
+  "distance_km": 5.8,
+  "duration_text": "1 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "qudynA}~xpCuDsFtHlI~@wHtJaJcI_]`BwNjTaXwBsm@xAk^`BgGp\\IxSon@`V_QdEoQpEaEl}@ka@tp@gd@zOj`@bWvItVrBdIcDz_AmdArHmAjCjD~DrXw@ihB{Iqg@qCab@`@yOrCcLjX}e@j@eNuEk^pAkLrSwh@fQeq@bDoAvAtCdEPnKkAtA~AuAvNjHhKxDeIpPkLtXwf@hDeBhDdHb@d_AeAjWu[by@oWlVyArItBlCb\\~Bd]`NdM^vVrJ|FoCpHnBjCpKg@fVdHzu@fErJxStAnB~BcBjHgZtYKtX~CvUvEbLi@iIpAoIhJkNnb@wWfP_QfGkQzPmXlUmdAdIsFzEzCvEnL~Dda@`LzJvJdTmH|a@v@zKpn@db@jKnDhE|GxCvPpQrQaAxDeDrAeRSwy@_S{RfAkLhGo@tErDlPD|HyHxAc@vH}CjC}HcMoCa@}G|KuW|CcU~J}FsEyDDme@xg@cO`J}Kl@gW_@_|@eViaA}MaGsEiV}n@}MoIeC_a@yB}KkCkDsHlA{_AldAeIbDuVsBcWwI{Ok`@up@fd@_dAlg@eEnQaV~PySnn@q\\HaBfGyAj^vBrm@kT`XaBvNbI~\\uJ`J_AvH",
+    "polyline_precision": 6,
+    "bbox": [
+      2.388946,
+      41.8336811,
+      2.4013436,
+      41.8477482
+    ],
+    "start_lon_lat": [
+      2.3889912,
+      41.8476569
+    ],
+    "end_lon_lat": [
+      2.388946,
+      41.8475931
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 6390049
+  },
+  "image": "imgs/sl-c-81.jpg"
+}

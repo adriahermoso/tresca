@@ -1,0 +1,39 @@
+{
+  "id": "el-puig-del-brull",
+  "name": "El Puig del Brull",
+  "name_official": "Seva - el Brull - Aiguafreda",
+  "ref": "GR 2",
+  "category": "GR",
+  "difficulty": "Difícil",
+  "description": "Uneix Seva amb Aiguafreda passant pel Brull, amb l'ermita de la Mare de Déu del Puig com a punt destacat del recorregut.",
+  "start_point_text": "Punt d'Informació de Seva",
+  "distance_km": 14.0,
+  "duration_text": "4 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "svnxnAeunjCny@wQ~Dj@zOoLxh@}m@rQq@lBiOf`@aI`k@_Ape@nAfLuRdr@wRtd@eH|~@nApTqEdH\\|JxFrH{ArfAmt@lJi@zG|BdR_l@fViiApCoFi@oGnBmFwCqd@JscBvSehBnMyc@rJcKpb@sWhd@yr@rKiFpSkYzBsRtBeDrKkEvXoVfa@}i@zWiObM}PtLag@GmxB|Dkj@fGgb@Uye@lEkSbE}Dzw@gG~KwKlr@aOho@o@bR{Nz]wPfXee@lDiCvOoFzKmAnGvBnFoB}@dKh@z_@fCh\\zRa@hOrTxe@vRdWpt@zFh`@rfAzs@t_@rb@|`@lNrj@`d@bEpJvDf]nLjW~]vUf^jC~JbDl\\`d@lMpWpWlu@dLzk@lI|fAlHnThHj@zRgIlWwEfSfC|I~IhY~x@lb@ls@rEp_@dM~h@y@`f@iMnhA`@jP~DlDvHUlGeDnZq]`H?rFhLvGtd@pQ~a@E|HiIpW{@`MtS~_@vCzKlAvUkF~r@xBlKzIdCjKsAhf@a\\ji@mCr^{KfJbH\\dGoKpu@?jHpBpJxJxN|K|E``@cNlp@nOjNcDhJ_a@xGiHnI_Dd_A_AnSuW~GsBzFpA`PpMrG`Kb^rhAbItt@rLbUxMdCxhAuLdU|@nVtR~ErKtCx\\cAfj@jApHzOrOrmA|d@x~ApNfP|JxTx\\bU~C~K~LhNff@yCnc@jGjNfR`FxY^~FfLjG~`A~Gb\\|BfCt^}BlGpAvCvJpH~n@nQdc@fDpBxHuApV}UrL_@vHbRnJxHvEpMhDxq@vS|^bH`j@z^teAnHlFtChJ`HhH|Fz@pLwElE~AlNu@`jAiWvd@nBfP}D|LdE|NtVtCvTjFlN|PtJvMxQhNn@~IbIzKnXzEpDfKlRrDbJxCtSfMjFAn[fBhJtFrG`Vd@nKmHjCF~M~M|ZtGpc@ng@|Y~PdB?fBwDpBkx@lBsPhDaIpAWInJ|BtDpDr@bJhJ~Cno@fBlEdReg@f[mIvC{FXePaL_OwFk[cH}PvEk@zMrKz_@pi@fCfCzAwAmXou@}BcQmKuSu@mE~AyEryAveBdHlSzAlSbErNpWnj@zd@dg@fPbJ|DwDrSeB|KdYvFlGvDtOxCzAle@pw@~NpEzKnN^rD|LlEpKgEjGbCvLhQlPdMpFnMvMhHxhAvAh^|^rNkGrTdA`KnFlK`OiBhJwJrRuSvRwRx[oX~Tw`@nHaP`NkOxDcDrh@wH|a@cEh{@lY{VjX_LpNjqAjeA}UvLlx@rb@{H{BfXrCnBhCmDpCbA`CmCb@jBrFc@nGl`@jPv{BcHtB",
+    "polyline_precision": 6,
+    "bbox": [
+      2.2532624,
+      41.7656797,
+      2.3063677,
+      41.8364103
+    ],
+    "start_lon_lat": [
+      2.2854112,
+      41.8364103
+    ],
+    "end_lon_lat": [
+      2.2532624,
+      41.7658262
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 554530
+  },
+  "image": "imgs/el-puig-del-brull.jpg"
+}

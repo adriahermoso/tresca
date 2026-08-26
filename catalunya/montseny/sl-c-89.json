@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-89",
+  "name": "Poblat Ibèric de Samalús",
+  "name_official": "Poblat ibèric del Puig del Castell de Samalús",
+  "ref": "SL-C 89",
+  "category": "SL-C",
+  "difficulty": "Fácil",
+  "description": "Passeig molt curt fins a les restes d'un poblat ibèric al Puig del Castell, amb vistes sobre la plana de Cànoves i Samalús.",
+  "start_point_text": "Centre Cívic de Samalús",
+  "distance_km": 1.6,
+  "duration_text": "45 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gpponAqoxlCaHxf@`Hyf@g`@{`@yLcSoSuCab@wSwd@yNyCuIoEbZgNs@_@uv@qEkLoLwG{Jkh@_McN{Ii@iCjEbFze@hE`JRhUaCh`@gL|m@gOp`@_CNoBmL~Cy]{AkDm[bSsJeAad@zb@wKdF}AiBSmPhCcp@vFmS^_[oAkGkBqE}E{BcOo@kKaG}XdB{AtC",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3225715,
+      41.6898755,
+      2.326666,
+      41.6963467
+    ],
+    "start_lon_lat": [
+      2.3232089,
+      41.6898755
+    ],
+    "end_lon_lat": [
+      2.3256175,
+      41.6963467
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 6389613
+  },
+  "image": "imgs/sl-c-89.jpg"
+}

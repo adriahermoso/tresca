@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-213",
+  "name": "Turó de Tagamanent des de Figaró",
+  "name_official": "De Figaró al turó de Tagamanent",
+  "ref": "PR-C 213",
+  "category": "PR-C",
+  "difficulty": "Difícil",
+  "description": "Puja des del Figaró fins a l'ermita i el cim de Tagamanent, esperó rocós a l'extrem sud-oest del massís amb vistes sobre el Congost.",
+  "start_point_text": "Punt d'informació del Figaró",
+  "distance_km": 29.4,
+  "duration_text": "4 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "k}pqnAkqviC|pBzKgwBiLmq@|AmV}B}dAy]wYo@cD{]?gj@a^i~@}Oov@sSmj@gBsKb@gKiE{ZoDqn@jD}\\dCs@|Mxb@w@kd@bCcPt@yb@uFkr@P{MhPg}@bMapAmAqo@{EcKsDyg@VgIjLe[pB}f@jPehAqGw[jCgr@_@wf@nHui@?_q@wBeU`EiR~Bwg@~EqXa@uTsGqXaL_HkPeC_@qW{AiDqWeRpAvc@iC`KeMfM_CjGpMb[MtIeB`EiOlUgi@le@gIpRiK~LaFjU}BzCiRhAoNnMgCKyA_FbA}PvDqIrMmL~@}Ik@oQeCkNoF{Lk[oWsP_iA}Xy^}Qk^kAwKpJec@JaR{E{CqPfL}E_@}CuIuEm`@yDkDao@iG{EqCqOcYom@u]oOeBeC`@kA~CzOnOnEzLk@vIq`@}GwSvMwFfKFjFlBnBbQXpLhEjK~LbBdHaE|Bi_@pCao@hVuFlGePh_@yJ~IwOlDcYjA}XlJ}WdAyCyCU{F`HwWaBeCwJAahAd{@}v@`_Aea@bSiWyEwa@jB}MiM_Q_G_w@rM{Nq@yPeMqKyC{EwFkZ_g@iEsMKeHmS_\\gJeG{_@yKuTn@uLdCsJrGsF{ApH{ZzMaXhHaf@uAwEqFuCcx@aLkq@qUoQkCum@i`@wLyUkOqNyDaIk@rA~FfQZzWtFdMzNnLdWli@pGhBhP~Z|CxCnGsAdD~Ls@bGiHbKyRhPa`@rL|XcQjToZwW|RzEwVsAwGkH}Al@nFqFjM{GgGuG`DwA{BgF?aGdG`GeGfF?vAzBtGaDzGfGpFkMm@oFjH|ArAvG{EvVvW}RkTnZ}XbQ``@sLxRiPhHcKr@cGeD_MoGrA}CyCiP_[qGiBeWmi@{NoLuFeM[{W_GgQj@sAxD`IjOpNvLxUtm@h`@nQjCjq@pUbx@`LpFtCtAvEiH`f@{M`XkGn\\pHPnG}FdRyDzU^fOzH|H`AfJdGlS~[JdHvLh[xY`a@pKxCxPdMvGr@b~@uM~P~FfIlKcI?sPvPs`Aji@sFbIwLu@uQjB_j@~_@gn@jAsPzOqMpCyApCeE`h@qC`JuMbReU~KkB|p@hDpl@lD`T]hKlD?x@sZfGe[tQuDnIyO~LoIfs@oIfMtMv_@`TdKxJnUvGdQkm@tCaEh]pd@fIbRdHld@fGxQ^jIwA`GwI~FqDzK`UY`IvB_AtLiDvJxA`LfNuF~MwN~Ek@F`KwMfh@nIjBnGuC`HAi[`u@oElQ_LxqAFda@fN|o@^da@fHn^?lLwIpa@oQ|YjGrHzA`MaBzXsP~h@eAvKbO|R~ClK|O~jBeAtb@pAlDzGnAfCpKhPfYKdB{ReE|MvXnIlIxD|KdW|Xk@rAiN\\k]}@`EbL|Cp[nIlCxYyJ~f@ep@|HqSjBcMqAaz@dDDhHhUnDno@IlTfFd\\nGjDpGcHlEs@_DvXaFtM[xIyc@jkAwm@dd@}U|L_c@bd@qe@lRgh@|`@oRlAko@aFaD|AVbIbKrEvVfo@mArCqMcAmI|AeAfEj@lFjOtMbJfV~\\v[bY`g@~Eu@bv@eu@zb@j_AvIhAbiAo|@`SgY~EwPvRnWrNiPbFs@hF_X`FoHlYw_@r]{T`R|BfRhP|JpChNkYpb@gC`T{EjJ{@lVpEjNLlF|BvYrAdUdGlgAiNdq@qQ`v@mp@fl@m`@`JuKnRqa@jd@sv@hSse@lQ{Otf@cu@xTqJfKqB~TjA|dAx]lV|Blq@}AfwBhL",
+    "polyline_precision": 6,
+    "bbox": [
+      2.2651964,
+      41.7210314,
+      2.2986563,
+      41.7479202
+    ],
+    "start_lon_lat": [
+      2.2730616,
+      41.7228538
+    ],
+    "end_lon_lat": [
+      2.2728558,
+      41.7210314
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 10424038
+  },
+  "image": "imgs/pr-c-213.jpg"
+}

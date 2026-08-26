@@ -1,0 +1,39 @@
+{
+  "id": "el-coll-de-collformic",
+  "name": "El Coll de Collformic",
+  "name_official": "Del pla de la Calma a Collformic",
+  "ref": "GR 5.2",
+  "category": "GR",
+  "difficulty": "Moderada",
+  "description": "Curt tram del GR 5.2 que uneix el Pla de la Calma amb el coll de Collformic, porta d'entrada als cims centrals.",
+  "start_point_text": "Aparcament de Collformic",
+  "distance_km": 4.1,
+  "duration_text": "1 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "if~tnAq`fmCsj@eEsoA`J_b@dSuc@`c@}Y}Hsx@bOkj@`_@kXbV_WnL_YhF}MNg_@uOuIaJgYeu@cO{VmHm^eS{c@iP{LyIsMoPoi@iYijBBqr@yEes@`G_c@GkPkFqSoFac@_WyIcPgl@pEicAoBec@qiAeyAyEw`AmG_]ql@iKyGzEeDzP}Df@gc@yL_b@_VkTuWs]el@s\\gSoe@mHkF|@kIfHyQrBks@LeJqG_SgXnD{x@u@kK_G}MuEeB_[fF}OPmQaUmLuEmLx@sLbL_Fb@cHkKkQiDcWeQ_h@YiTeK}NqKiKqYm@yIeAnC",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3278293,
+      41.7788053,
+      2.347772,
+      41.8010011
+    ],
+    "start_lon_lat": [
+      2.3301373,
+      41.7788053
+    ],
+    "end_lon_lat": [
+      2.3476997,
+      41.8010011
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1727116
+  },
+  "image": "imgs/el-coll-de-collformic.jpg"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cami-de-montseny-a-campins",
+  "name": "Camí de Montseny a Campins",
+  "name_official": "Del Montseny a Campins",
+  "ref": "GR 5",
+  "category": "GR",
+  "difficulty": "Muy difícil",
+  "description": "Tram llarg del GR 5 que baixa del poble de Montseny fins a Campins, travessant boscos i rieres de la vessant sud del massís.",
+  "start_point_text": "Centre d'informació del Montseny",
+  "distance_km": 17.5,
+  "duration_text": "4 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "iaxsnAcdeqCw@iRlGeLjj@wu@x`@g]zFyI`Gqv@AwSjG_`@mCgRl@{J~GkR|JcLfEyMBoOkDmO}DaFgOqEyFcWcKsKrM}Mb@sW_GgZZ}GbN_O~BiI|CsRnB}_@aFgKgb@mf@{EwK~]{CbAwFyCk\\vBgO`LkBxAqIzJoIzD{\\hDyHtIuDbIGrDqKnBgJuF`H_Dl@uDgDuLqWdWq^|DeRnDkm@fJ}MrBkMgByf@Psc@pLeH|BgEaC}WoJug@_JsM_OwIoUod@mNyLyPuYePgRyEad@gCiDrAqCfE|CzIvNzJjBvJeAvBsBQqBdYmX~q@a\\`Z}GpFkNxBc^~IkSvDqQ]mj@}EgIfAcG~Lh@zNrGxIx@dKsCbu@vYtScHjCfE~CrQtHbEpF{DvGyQjC?j_@va@bJxGxN~CsHiDmFiHmIgWcA}L}NiGeTqb@cReDwDqg@wEaBaJbQoIjAuWgViLwEod@g_@qRWcPeScCuUeBeC{GI_HlGuMhCgLiCQgGpLwNnAmTxC{JmJrEhDiTbf@Htb@cPpHmK?{M|HyM|MwBzX_Vf^fBxxAeZoF}X_Om[{UiR~AiUxDgGbFuX~I}OnEcSn@kX{Dw@wQjC_E|A{V~[cT`A_^gI_a@}Qs^xP_ZuPij@sPi_@fA{m@~Y}@oE`@yPdGoLvNmEaBaEfRoPrXqL{DcF}D{@aYuAcByEnGaGdg@{IaBwDoQgLuQwf@?mFaFwHcLge@[{MtGqZoRsjAgEqGoIsEqw@eO_PgImCad@kFgIxEmL`G{EvGub@AwPq@_HgM{LnJoDdUeAhJ|ErFnRfWnFnGtF|^|LrWoCds@wT`]y[dv@qj@dAyQ_Amn@v@cm@lDsM`Qi\\jJsNhCYnCzB|BrKo@pF_MtSFp]fXlhAbHxOt@lHaAn`@~Gy\\rCak@`Lid@tBeV~Gi\\\\aIeBqLlAaGtEClIdHfN|b@tJvL`v@hj@nJ`BffAifAjs@]j_@_S`c@ck@~Meg@LuQwLyRqO}o@f@}JzDqCx\\hGlXuI~^?rQsPnLdVvUhLdHvHpKpXrPny@rOxXjIjCpPcIpTwb@bZ_C|Y}HoC}Ae\\e@~EuExJeCtIeIlJgV`EwCji@eI~I}JvCyRgGiz@}R{QuBoLn@eL{CwNsf@_d@cI{Rj@_F~PqDba@kg@lg@i\\lVsYp\\iElNkIfEwJxMuy@h@_W~DsNtAePd]wo@zDqOByI{Mc\\_E_Rw[gp@dAuVeFee@qBiDgL}BkRlAgSqOgFoIj@gDdSkWnPiy@lV{f@zh@qTxBj@rDtFmClh@nAl@pJ}GzM}UoF|[uU~YgW|i@jFAxIeGrPc^d\\aKzSmRnK_XnEaZiCeGaa@_O_b@w\\qRux@lBmJtJsLnFqt@tXab@lO}{@`Kc_AYop@{DyD_O|JgOzC{e@{HuUcN}l@jPcGmC_@iJrG_e@sB_Mmm@eHbAkEfL}KzQ_h@bHw]p@qNmM{`@oCi]j@oHxCuFa@iCgA_DkRuHaFeKFmCtC}BlPRvKuHvRfC|I{DrLaS|C{N_Gen@lEeMfe@iZlq@s`ANdGwHvVn@tC`IYxLuLjEqSp@wh@dFoTzJuShDaQdGkHrKTzFsF|Ogz@f\\aApAiBk@wHsEqGab@gIdRYdYaOfNh@hSkKrdA|m@`GdTQhIyMjmA_QfPeGbU}JfBuBxEhFle@fTnFvEbGkGxYDlJnIxb@dBd@~E{XtEkMrCkAtABlJzSbShDfFaGX_W|R`JfNeFUpUbJwFxGwOfNaKjnAw]|d@_R~CqDx@iJrAWnPvc@pIpBv^wL`Lx@zI_DnIlCpQ}Qp\\rNfDhIfShUle@lX~KS",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3952183,
+      41.7277447,
+      2.4731551,
+      41.7593086
+    ],
+    "start_lon_lat": [
+      2.3952183,
+      41.7592686
+    ],
+    "end_lon_lat": [
+      2.468489,
+      41.7277447
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 379910
+  },
+  "image": "imgs/cami-de-montseny-a-campins.jpg"
+}

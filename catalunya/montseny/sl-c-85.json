@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-85",
+  "name": "Del Brull a Collformic",
+  "name_official": "Del Brull a Collformic",
+  "ref": "SL-C 85",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Uneix el poble del Brull amb el coll de Collformic, porta d'entrada als cims centrals del Montseny.",
+  "start_point_text": "Centre d'informació la Rectoria del Brull",
+  "distance_km": 7.1,
+  "duration_text": "1 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "uphwnAehwkC~@hn@nBnOoDy~@aQ}Me]al@}g@soAqDqCaW_Ain@gk@iL{PzB_K`R{\\fBc`@jEwUt@qe@vGaVrEce@jF{AbHfHxAk@`Q~_@nNyA~B}CpLc^vC_]~]_t@bMgMf@ge@nSkOvKcOvAmNpMob@Wm[yHkr@yGqUiKoNkDgQGcQnF_X_A}NkB_Eq^cZqEab@~E}l@jBeEvXwNxOqBjKiX`FeXsE_Hi_@oKk@e\\wC_RtBaUdKgIpJiX{@yKeN_VdG{u@yH{w@nC_KfJgOvB{LqL}e@rD}MtFmHsAeb@v@_KbDoG~BZfNtRpc@hZ`VCxPn[b\\pGtGvDvFgLvCcUvCuGdd@is@fKqf@vHcQj`A{pAxJeSfFg]vHmSxJuh@hO}[kEci@\\{n@yByW{\\is@oWaZ{E__@}FaUhBsAbL`EzU~RnILteAn`@hHlNlNjF~Jd@~FgEfMqP`Pyk@f@gY{DcMA}KzNuBhVc|@vHgL~Z{TdKfBnGuAfOoZ~@wLiE}x@wBkJMiy@hQ_c@lM{Ln@o^nDaAjKvGdH_@vLkJzJqAfAlQfHrQjQ^zi@fe@rb@^bHqDb_@ak@rTyStNsSnE}TvHDjNzErQwHNfLcNvg@_BbTwHpIw@jEbBtIvGdrA~@`K|Dcd@nXylAn@cVnHgi@fIdtAoKvhAOvJnBhA~Yk`AnLgk@^aHoE{g@FmMbN{fCtAcEcCm\\",
+    "polyline_precision": 6,
+    "bbox": [
+      2.3051735,
+      41.8010868,
+      2.3473893,
+      41.8197301
+    ],
+    "start_lon_lat": [
+      2.3061954,
+      41.816859
+    ],
+    "end_lon_lat": [
+      2.3473893,
+      41.801153
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 6389983
+  },
+  "image": "imgs/sl-c-85.jpg"
+}

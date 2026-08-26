@@ -1,0 +1,39 @@
+{
+  "id": "sl-c-88",
+  "name": "El Coll de n'Orri des de Gaserans",
+  "name_official": "De Gaserans a coll de n'Orri",
+  "ref": "SL-C 88",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Pugen des del petit nucli de Gaserans fins al coll de n'Orri, entre boscos de la Selva poc freqüentats.",
+  "start_point_text": "Gaserans",
+  "distance_km": 5.1,
+  "duration_text": "1 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "ggdsnAi}b}CkEfV{D|FeFlBuCqAcLyp@qIpDeD~I{@vZaFh[wDpHyI`Ekp@bH{PeD{WbI_V_@wvAyQoItt@tEff@oKfp@_FvGaGtDgEkCsS_e@aFqE}RrDgG|GeYjK{IhJyF|AwQaCeGdDiJ|MkD|KiBnVmc@tbAgOvk@kC`BgMu@wMzDgH`RcAlKcPn]gYxRkHbUkH`JoWjMmVrTwF`HgH~[kk@fHcNpJ{EbRGvp@{Mzc@bEbUS`K_BTgMkLgOaCqMgLgOJ{L`MsFbQg@lSgHfLkDnZR`R~Hj{@gD|OwKnAwKuDwFz@cTpQoHjB_u@qHsWwOwOeDmHXsOfNoBpF_@pLFlp@cFj_@sEvQcRvc@wMvj@gDt[_C|p@_Fh`@S~VrZpyBXf_AlFzMht@`_A|O_BzA~AE`JqC~FwCt]cD`M}Cxy@mFl\\m[d|@wXfXsG~T_Hz}@vHri@yJ~]oCni@cD`QsJlWwCx`@{ExJgRxRoHfZMrTjDtSzHvSW~h@cR|TmJlRe@d\\dEbNC~F_H~JaIvUqPxLcD|M",
+    "polyline_precision": 6,
+    "bbox": [
+      2.553225,
+      41.7491235,
+      2.590977,
+      41.7687149
+    ],
+    "start_lon_lat": [
+      2.5906929,
+      41.7491235
+    ],
+    "end_lon_lat": [
+      2.553225,
+      41.7687149
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 7168948
+  },
+  "image": "imgs/sl-c-88.jpg"
+}

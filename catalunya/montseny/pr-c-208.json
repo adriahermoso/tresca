@@ -1,0 +1,39 @@
+{
+  "id": "pr-c-208",
+  "name": "Turó de l'Home i les Agudes",
+  "name_official": "De Santa Fe al turó de l'Home i les Agudes",
+  "ref": "PR-C 208",
+  "category": "PR-C",
+  "difficulty": "Muy difícil",
+  "description": "Circuit d'alta muntanya des de Santa Fe que encadena els dos cims més emblemàtics del Montseny: el Turó de l'Home, el sostre del massís, i les Agudes.",
+  "start_point_text": "Centre d'Informació Can Casades",
+  "distance_km": 11.5,
+  "duration_text": "5 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gwstnAioiuCaGxg@_[dp@iAxHfAvGi@|E{Mh_@eNfw@_F|k@oHlPw[ha@ca@v[oVfJ}G|GmQv\\mIfGcTdAuQ~HyZ|YoChM_c@`m@gq@vN_Opf@}U~WyKfSmNteAxH~b@eB|Lx@fl@g_@hf@qGtAgDuCeAgI|@\\KmCqHmP{T_KuZkTwl@aFgq@vO{U}A{[nAaLdEkDrRkApYqFzYmBha@x@pYcBbBjB~TMdI_EvO`BrFoB|t@}CtX_I|KwBvIvO|J|JVnP~Nhb@~lA`BvMoAxUlAlNxKbLjKzBnPjLhN~V`Mh^[~fAsCtk@`Cda@yDlFQlToR_QeEAcXsk@kJcMyRm}@eR`Ae`@{ByFwCkSiVaKgVsG_CgHx@oa@kPaZ^eJxBkYiBiKxEgIvPqJMyU{MwMaPoUyb@oT{QnTzQnUxb@vM`PxUzM|Uhc@vI~GvLvDhOxSvBtH|SrQrHpRvf@dy@jG~FfD|MrKjO`EbLlB~h@`Spe@vO|Vte@pa@dSbGt_@pW~Y|g@hGbQ`LrKl^nUvY~Itw@le@|b@xGtJhFtnAhKpFaK|^oYhLoUpv@g{@fReDhGdGsO`B_F`E{Ld\\QvFjWbFdKk@~MeGpo@wp@dC}a@xGqSaAuN{CeDyU_EoVgMtK{HzJeSzLy\\xJma@k@{`AaFeRa@cKpg@cc@lRoTjGsUbLks@fCmb@vMof@h@aKuFuf@uI{\\uNsW{WiYoUia@aCeQfDyP|Mm]rHia@nP_^kJh@cHhFu`AdeAeBUGuCnd@ouAvAiFeAwCeZtOg{@z[eR|WgHbDoBmDxCw_@`BeElJuJdg@isArOiYdZe^oI[{a@xQmZbTiWrJ_a@|[d{@kpAyoBj_Akt@zi@aX`ZqFrYB|b@yGoS}Kim@fLy|@{G\\mYpUsFlAaEaAkGgLb@aHoDmKJaGbEgg@f_@if@y@gl@dB}LyH_c@lNueAxKgS|U_X~Nqf@fq@wN~b@am@nCiMxZ}YtQ_IbTeAlIgGlQw\\|G}GnVgJba@w[v[ia@nHmP~E}k@dNgw@zMi_@h@}EgAwGhAyH~Zep@`Gyg@",
+    "polyline_precision": 6,
+    "bbox": [
+      2.4333449,
+      41.7734435,
+      2.4629811,
+      41.7893278
+    ],
+    "start_lon_lat": [
+      2.4629811,
+      41.7734435
+    ],
+    "end_lon_lat": [
+      2.4629811,
+      41.7734435
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 7375461
+  },
+  "image": "imgs/pr-c-208.jpg"
+}
