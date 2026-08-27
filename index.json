@@ -1,1 +1,16 @@
-
+{
+  "regions": [
+    {
+      "path": "catalunya/montseny",
+      "display_name": "Montseny"
+    },
+    {
+      "path": "catalunya/montserrat",
+      "display_name": "Montserrat"
+    },
+    {
+      "path": "galicia/camino-santiago",
+      "display_name": "Camino de Santiago"
+    }
+  ]
+}
