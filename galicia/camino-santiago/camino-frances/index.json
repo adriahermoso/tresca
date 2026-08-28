@@ -33,7 +33,7 @@
     "image": "stage-003.webp"
   },
   {
-    "id": "stage-004",
+    "id": "stage-004_huntto_to_orreaga-roncesvalles",
     "name": "Huntto → Orreaga / Roncesvalles",
     "difficulty": null,
     "distance_km": 18.94,
@@ -44,7 +44,7 @@
     "image": "stage-004.webp"
   },
   {
-    "id": "stage-005",
+    "id": "stage-005_orreaga-roncesvalles_to_auritz-burguete",
     "name": "Orreaga / Roncesvalles → Auritz / Burguete",
     "difficulty": null,
     "distance_km": 2.81,
@@ -55,7 +55,7 @@
     "image": "stage-005.webp"
   },
   {
-    "id": "stage-006",
+    "id": "stage-006_auritz-burguete_to_aurizberri-espinal",
     "name": "Auritz / Burguete → Aurizberri / Espinal",
     "difficulty": null,
     "distance_km": 3.55,
@@ -66,7 +66,7 @@
     "image": "stage-006.webp"
   },
   {
-    "id": "stage-007",
+    "id": "stage-007_aurizberri-espinal_to_bizkarreta-gerendiain",
     "name": "Aurizberri / Espinal → Bizkarreta-Gerendiain",
     "difficulty": null,
     "distance_km": 5.09,
@@ -77,7 +77,7 @@
     "image": "stage-007.webp"
   },
   {
-    "id": "stage-008",
+    "id": "stage-008_bizkarreta-gerendiain_to_lintzoain",
     "name": "Bizkarreta-Gerendiain → Lintzoain",
     "difficulty": null,
     "distance_km": 1.89,
@@ -88,7 +88,7 @@
     "image": "stage-008.webp"
   },
   {
-    "id": "stage-009",
+    "id": "stage-009_lintzoain_to_zubiri",
     "name": "Lintzoain → Zubiri",
     "difficulty": null,
     "distance_km": 7.95,
@@ -99,7 +99,7 @@
     "image": "stage-009.webp"
   },
   {
-    "id": "stage-010",
+    "id": "stage-010_zubiri_to_urdaitz-urdaniz",
     "name": "Zubiri → Urdaitz / Urdániz",
     "difficulty": null,
     "distance_km": 3.33,
@@ -110,7 +110,7 @@
     "image": "stage-010.webp"
   },
   {
-    "id": "stage-011",
+    "id": "stage-011_urdaitz-urdaniz_to_irure",
     "name": "Urdaitz / Urdániz → Irure",
     "difficulty": null,
     "distance_km": 1.49,
@@ -121,7 +121,7 @@
     "image": "stage-011.webp"
   },
   {
-    "id": "stage-012",
+    "id": "stage-012_irure_to_larrasoana",
     "name": "Irure → Larrasoaña",
     "difficulty": null,
     "distance_km": 0.55,
@@ -132,7 +132,7 @@
     "image": "stage-012.webp"
   },
   {
-    "id": "stage-013",
+    "id": "stage-013_larrasoana_to_zuriain",
     "name": "Larrasoaña → Zuriain",
     "difficulty": null,
     "distance_km": 3.54,
@@ -143,7 +143,7 @@
     "image": "stage-013.webp"
   },
   {
-    "id": "stage-014",
+    "id": "stage-014_zuriain_to_irotz",
     "name": "Zuriain → Irotz",
     "difficulty": null,
     "distance_km": 2.3,
@@ -154,7 +154,7 @@
     "image": "stage-014.webp"
   },
   {
-    "id": "stage-015",
+    "id": "stage-015_irotz_to_zabaldika",
     "name": "Irotz → Zabaldika",
     "difficulty": null,
     "distance_km": 0.97,
@@ -165,7 +165,7 @@
     "image": "stage-015.webp"
   },
   {
-    "id": "stage-016",
+    "id": "stage-016_zabaldika_to_trinidad-de-arre-trinitate-arre",
     "name": "Zabaldika → Trinidad de Arre / Trinitate Arre",
     "difficulty": null,
     "distance_km": 3.68,
@@ -176,7 +176,7 @@
     "image": "stage-016.webp"
   },
   {
-    "id": "stage-017",
+    "id": "stage-017_trinidad-de-arre-trinitate-arre_to_villava-atarrabia",
     "name": "Trinidad de Arre / Trinitate Arre → Villava / Atarrabia",
     "difficulty": null,
     "distance_km": 0.48,
@@ -187,7 +187,7 @@
     "image": "stage-017.webp"
   },
   {
-    "id": "stage-018",
+    "id": "stage-018_villava-atarrabia_to_burlada-burlata",
     "name": "Villava / Atarrabia → Burlada / Burlata",
     "difficulty": null,
     "distance_km": 1.12,
@@ -198,7 +198,7 @@
     "image": "stage-018.webp"
   },
   {
-    "id": "stage-019",
+    "id": "stage-019_burlada-burlata_to_pamplona-iruna",
     "name": "Burlada / Burlata → Pamplona / Iruña",
     "difficulty": null,
     "distance_km": 2.92,
@@ -209,7 +209,7 @@
     "image": "stage-019.webp"
   },
   {
-    "id": "stage-020",
+    "id": "stage-020_pamplona-iruna_to_cizur-menor",
     "name": "Pamplona / Iruña → Cizur Menor",
     "difficulty": null,
     "distance_km": 5.09,
@@ -220,7 +220,7 @@
     "image": "stage-020.webp"
   },
   {
-    "id": "stage-021",
+    "id": "stage-021_cizur-menor_to_zariquiegui-zarikiegi",
     "name": "Cizur Menor → Zariquiegui / Zarikiegi",
     "difficulty": null,
     "distance_km": 6.02,
@@ -231,7 +231,7 @@
     "image": "stage-021.webp"
   },
   {
-    "id": "stage-022",
+    "id": "stage-022_zariquiegui-zarikiegi_to_uterga",
     "name": "Zariquiegui / Zarikiegi → Uterga",
     "difficulty": null,
     "distance_km": 5.82,
@@ -242,7 +242,7 @@
     "image": "stage-022.webp"
   },
   {
-    "id": "stage-023",
+    "id": "stage-023_uterga_to_muruzabal",
     "name": "Uterga → Muruzábal",
     "difficulty": null,
     "distance_km": 2.79,
@@ -253,7 +253,7 @@
     "image": "stage-023.webp"
   },
   {
-    "id": "stage-024",
+    "id": "stage-024_muruzabal_to_obanos",
     "name": "Muruzábal → Obanos",
     "difficulty": null,
     "distance_km": 1.54,
@@ -264,7 +264,7 @@
     "image": "stage-024.webp"
   },
   {
-    "id": "stage-025",
+    "id": "stage-025_obanos_to_puente-la-reina-gares",
     "name": "Obanos → Puente la Reina / Gares",
     "difficulty": null,
     "distance_km": 3.15,
@@ -275,7 +275,7 @@
     "image": "stage-025.webp"
   },
   {
-    "id": "stage-026",
+    "id": "stage-026_puente-la-reina-gares_to_maneru",
     "name": "Puente la Reina / Gares → Mañeru",
     "difficulty": null,
     "distance_km": 4.4,
@@ -286,7 +286,7 @@
     "image": "stage-026.webp"
   },
   {
-    "id": "stage-027",
+    "id": "stage-027_maneru_to_cirauqui-zirauki",
     "name": "Mañeru → Cirauqui / Zirauki",
     "difficulty": null,
     "distance_km": 2.74,
@@ -297,7 +297,7 @@
     "image": "stage-027.webp"
   },
   {
-    "id": "stage-028",
+    "id": "stage-028_cirauqui-zirauki_to_lorca-lorka",
     "name": "Cirauqui / Zirauki → Lorca / Lorka",
     "difficulty": null,
     "distance_km": 5.46,
@@ -308,7 +308,7 @@
     "image": "stage-028.webp"
   },
   {
-    "id": "stage-029",
+    "id": "stage-029_lorca-lorka_to_villatuerta",
     "name": "Lorca / Lorka → Villatuerta",
     "difficulty": null,
     "distance_km": 4.68,
@@ -319,7 +319,7 @@
     "image": "stage-029.webp"
   },
   {
-    "id": "stage-030",
+    "id": "stage-030_villatuerta_to_estella-lizarra",
     "name": "Villatuerta → Estella-Lizarra",
     "difficulty": null,
     "distance_km": 4.1,
@@ -330,7 +330,7 @@
     "image": "stage-030.webp"
   },
   {
-    "id": "stage-031",
+    "id": "stage-031_estella-lizarra_to_ayegui-aiegi",
     "name": "Estella-Lizarra → Ayegui / Aiegi",
     "difficulty": null,
     "distance_km": 1.41,
@@ -341,7 +341,7 @@
     "image": "stage-031.webp"
   },
   {
-    "id": "stage-032",
+    "id": "stage-032_ayegui-aiegi_to_iratxe",
     "name": "Ayegui / Aiegi → Iratxe",
     "difficulty": null,
     "distance_km": 2.43,
@@ -352,7 +352,7 @@
     "image": "stage-032.webp"
   },
   {
-    "id": "stage-033",
+    "id": "stage-033_iratxe_to_azqueta",
     "name": "Iratxe → Ázqueta",
     "difficulty": null,
     "distance_km": 3.45,
@@ -363,7 +363,7 @@
     "image": "stage-033.webp"
   },
   {
-    "id": "stage-034",
+    "id": "stage-034_azqueta_to_villamayor-de-monjardin",
     "name": "Ázqueta → Villamayor de Monjardín",
     "difficulty": null,
     "distance_km": 1.78,
@@ -374,7 +374,7 @@
     "image": "stage-034.webp"
   },
   {
-    "id": "stage-035",
+    "id": "stage-035_villamayor-de-monjardin_to_urbiola",
     "name": "Villamayor de Monjardín → Urbiola",
     "difficulty": null,
     "distance_km": 1.29,
@@ -385,7 +385,7 @@
     "image": "stage-035.webp"
   },
   {
-    "id": "stage-036",
+    "id": "stage-036_urbiola_to_los-arcos",
     "name": "Urbiola → Los Arcos",
     "difficulty": null,
     "distance_km": 10.74,
@@ -396,7 +396,7 @@
     "image": "stage-036.webp"
   },
   {
-    "id": "stage-037",
+    "id": "stage-037_los-arcos_to_sansol",
     "name": "Los Arcos → Sansol",
     "difficulty": null,
     "distance_km": 6.9,
@@ -407,7 +407,7 @@
     "image": "stage-037.webp"
   },
   {
-    "id": "stage-038",
+    "id": "stage-038_sansol_to_torres-del-rio",
     "name": "Sansol → Torres del Río",
     "difficulty": null,
     "distance_km": 0.99,
@@ -418,7 +418,7 @@
     "image": "stage-038.webp"
   },
   {
-    "id": "stage-039",
+    "id": "stage-039_torres-del-rio_to_viana",
     "name": "Torres del Río → Viana",
     "difficulty": null,
     "distance_km": 10.31,
@@ -429,7 +429,7 @@
     "image": "stage-039.webp"
   },
   {
-    "id": "stage-040",
+    "id": "stage-040_viana_to_logrono",
     "name": "Viana → Logroño",
     "difficulty": null,
     "distance_km": 9.42,
@@ -440,7 +440,7 @@
     "image": "stage-040.webp"
   },
   {
-    "id": "stage-041",
+    "id": "stage-041_logrono_to_navarrete",
     "name": "Logroño → Navarrete",
     "difficulty": null,
     "distance_km": 12.9,
@@ -451,7 +451,7 @@
     "image": "stage-041.webp"
   },
   {
-    "id": "stage-042",
+    "id": "stage-042_navarrete_to_najera",
     "name": "Navarrete → Nájera",
     "difficulty": null,
     "distance_km": 15.96,
@@ -462,7 +462,7 @@
     "image": "stage-042.webp"
   },
   {
-    "id": "stage-043",
+    "id": "stage-043_najera_to_azofra",
     "name": "Nájera → Azofra",
     "difficulty": null,
     "distance_km": 5.97,
@@ -473,7 +473,7 @@
     "image": "stage-043.webp"
   },
   {
-    "id": "stage-044",
+    "id": "stage-044_azofra_to_ciruena",
     "name": "Azofra → Cirueña",
     "difficulty": null,
     "distance_km": 9.14,
@@ -484,7 +484,7 @@
     "image": "stage-044.webp"
   },
   {
-    "id": "stage-045",
+    "id": "stage-045_ciruena_to_santo-domingo-de-la-calzada",
     "name": "Cirueña → Santo Domingo de la Calzada",
     "difficulty": null,
     "distance_km": 5.96,
@@ -495,7 +495,7 @@
     "image": "stage-045.webp"
   },
   {
-    "id": "stage-046",
+    "id": "stage-046_santo-domingo-de-la-calzada_to_granon",
     "name": "Santo Domingo de la Calzada → Grañón",
     "difficulty": null,
     "distance_km": 6.49,
@@ -506,7 +506,7 @@
     "image": "stage-046.webp"
   },
   {
-    "id": "stage-047",
+    "id": "stage-047_granon_to_redecilla-del-camino",
     "name": "Grañón → Redecilla del Camino",
     "difficulty": null,
     "distance_km": 4.11,
@@ -517,7 +517,7 @@
     "image": "stage-047.webp"
   },
   {
-    "id": "stage-048",
+    "id": "stage-048_redecilla-del-camino_to_castildelgado",
     "name": "Redecilla del Camino → Castildelgado",
     "difficulty": null,
     "distance_km": 1.47,
@@ -528,7 +528,7 @@
     "image": "stage-048.webp"
   },
   {
-    "id": "stage-049",
+    "id": "stage-049_castildelgado_to_viloria-de-rioja",
     "name": "Castildelgado → Viloria de Rioja",
     "difficulty": null,
     "distance_km": 1.9,
@@ -539,7 +539,7 @@
     "image": "stage-049.webp"
   },
   {
-    "id": "stage-050",
+    "id": "stage-050_viloria-de-rioja_to_villamayor-del-rio",
     "name": "Viloria de Rioja → Villamayor del Río",
     "difficulty": null,
     "distance_km": 3.49,
@@ -550,7 +550,7 @@
     "image": "stage-050.webp"
   },
   {
-    "id": "stage-051",
+    "id": "stage-051_villamayor-del-rio_to_belorado",
     "name": "Villamayor del Río → Belorado",
     "difficulty": null,
     "distance_km": 5.07,
@@ -561,7 +561,7 @@
     "image": "stage-051.webp"
   },
   {
-    "id": "stage-052",
+    "id": "stage-052_belorado_to_tosantos",
     "name": "Belorado → Tosantos",
     "difficulty": null,
     "distance_km": 4.56,
@@ -572,7 +572,7 @@
     "image": "stage-052.webp"
   },
   {
-    "id": "stage-053",
+    "id": "stage-053_tosantos_to_villambistia",
     "name": "Tosantos → Villambistia",
     "difficulty": null,
     "distance_km": 1.85,
@@ -583,7 +583,7 @@
     "image": "stage-053.webp"
   },
   {
-    "id": "stage-054",
+    "id": "stage-054_villambistia_to_espinosa-del-camino",
     "name": "Villambistia → Espinosa del Camino",
     "difficulty": null,
     "distance_km": 1.54,
@@ -594,7 +594,7 @@
     "image": "stage-054.webp"
   },
   {
-    "id": "stage-055",
+    "id": "stage-055_espinosa-del-camino_to_villafranca-montes-de-oca",
     "name": "Espinosa del Camino → Villafranca Montes de Oca",
     "difficulty": null,
     "distance_km": 3.6,
@@ -605,7 +605,7 @@
     "image": "stage-055.webp"
   },
   {
-    "id": "stage-056",
+    "id": "stage-056_villafranca-montes-de-oca_to_san-juan-de-ortega",
     "name": "Villafranca Montes de Oca → San Juan de Ortega",
     "difficulty": null,
     "distance_km": 11.94,
@@ -616,7 +616,7 @@
     "image": "stage-056.webp"
   },
   {
-    "id": "stage-057",
+    "id": "stage-057_san-juan-de-ortega_to_ages",
     "name": "San Juan de Ortega → Agés",
     "difficulty": null,
     "distance_km": 3.7,
@@ -627,7 +627,7 @@
     "image": "stage-057.webp"
   },
   {
-    "id": "stage-058",
+    "id": "stage-058_ages_to_atapuerca",
     "name": "Agés → Atapuerca",
     "difficulty": null,
     "distance_km": 2.5,
@@ -638,7 +638,7 @@
     "image": "stage-058.webp"
   },
   {
-    "id": "stage-059",
+    "id": "stage-059_atapuerca_to_cardenuela-riopico",
     "name": "Atapuerca → Cardeñuela Riopico",
     "difficulty": null,
     "distance_km": 6.22,
@@ -649,7 +649,7 @@
     "image": "stage-059.webp"
   },
   {
-    "id": "stage-060",
+    "id": "stage-060_cardenuela-riopico_to_quintanilla-riopico",
     "name": "Cardeñuela Riopico → Quintanilla Riopico",
     "difficulty": null,
     "distance_km": 0.62,
@@ -660,7 +660,7 @@
     "image": "stage-060.webp"
   },
   {
-    "id": "stage-061",
+    "id": "stage-061_quintanilla-riopico_to_burgos",
     "name": "Quintanilla Riopico → Burgos",
     "difficulty": null,
     "distance_km": 12.31,
@@ -671,7 +671,7 @@
     "image": "stage-061.webp"
   },
   {
-    "id": "stage-062",
+    "id": "stage-062_burgos_to_tardajos",
     "name": "Burgos → Tardajos",
     "difficulty": null,
     "distance_km": 11.72,
@@ -682,7 +682,7 @@
     "image": "stage-062.webp"
   },
   {
-    "id": "stage-063",
+    "id": "stage-063_tardajos_to_rabe-de-las-calzadas",
     "name": "Tardajos → Rabé de las Calzadas",
     "difficulty": null,
     "distance_km": 1.89,
@@ -693,7 +693,7 @@
     "image": "stage-063.webp"
   },
   {
-    "id": "stage-064",
+    "id": "stage-064_rabe-de-las-calzadas_to_hornillos-del-camino",
     "name": "Rabé de las Calzadas → Hornillos del Camino",
     "difficulty": null,
     "distance_km": 7.76,
@@ -704,7 +704,7 @@
     "image": "stage-064.webp"
   },
   {
-    "id": "stage-065",
+    "id": "stage-065_hornillos-del-camino_to_hontanas",
     "name": "Hornillos del Camino → Hontanas",
     "difficulty": null,
     "distance_km": 10.48,
@@ -715,7 +715,7 @@
     "image": "stage-065.webp"
   },
   {
-    "id": "stage-066",
+    "id": "stage-066_hontanas_to_castrojeriz",
     "name": "Hontanas → Castrojeriz",
     "difficulty": null,
     "distance_km": 9.32,
@@ -726,7 +726,7 @@
     "image": "stage-066.webp"
   },
   {
-    "id": "stage-067",
+    "id": "stage-067_castrojeriz_to_itero-de-la-vega",
     "name": "Castrojeriz → Itero de la Vega",
     "difficulty": null,
     "distance_km": 10.8,
@@ -737,7 +737,7 @@
     "image": "stage-067.webp"
   },
   {
-    "id": "stage-068",
+    "id": "stage-068_itero-de-la-vega_to_boadilla-del-camino",
     "name": "Itero de la Vega → Boadilla del Camino",
     "difficulty": null,
     "distance_km": 8.16,
@@ -748,7 +748,7 @@
     "image": "stage-068.webp"
   },
   {
-    "id": "stage-069",
+    "id": "stage-069_boadilla-del-camino_to_fromista",
     "name": "Boadilla del Camino → Frómista",
     "difficulty": null,
     "distance_km": 5.68,
@@ -759,7 +759,7 @@
     "image": "stage-069.webp"
   },
   {
-    "id": "stage-070",
+    "id": "stage-070_fromista_to_poblacion-de-campos",
     "name": "Frómista → Población de Campos",
     "difficulty": null,
     "distance_km": 3.52,
@@ -770,7 +770,7 @@
     "image": "stage-070.webp"
   },
   {
-    "id": "stage-071",
+    "id": "stage-071_poblacion-de-campos_to_revenga-de-campos",
     "name": "Población de Campos → Revenga de Campos",
     "difficulty": null,
     "distance_km": 3.48,
@@ -781,7 +781,7 @@
     "image": "stage-071.webp"
   },
   {
-    "id": "stage-072",
+    "id": "stage-072_revenga-de-campos_to_villarmentero-de-campos",
     "name": "Revenga de Campos → Villarmentero de Campos",
     "difficulty": null,
     "distance_km": 2.04,
@@ -792,7 +792,7 @@
     "image": "stage-072.webp"
   },
   {
-    "id": "stage-073",
+    "id": "stage-073_villarmentero-de-campos_to_villalcazar-de-sirga",
     "name": "Villarmentero de Campos → Villalcázar de Sirga",
     "difficulty": null,
     "distance_km": 4.09,
@@ -803,7 +803,7 @@
     "image": "stage-073.webp"
   },
   {
-    "id": "stage-074",
+    "id": "stage-074_villalcazar-de-sirga_to_carrion-de-los-condes",
     "name": "Villalcázar de Sirga → Carrión de los Condes",
     "difficulty": null,
     "distance_km": 5.64,
@@ -814,7 +814,7 @@
     "image": "stage-074.webp"
   },
   {
-    "id": "stage-075",
+    "id": "stage-075_carrion-de-los-condes_to_calzadilla-de-la-cueza",
     "name": "Carrión de los Condes → Calzadilla de la Cueza",
     "difficulty": null,
     "distance_km": 17.18,
@@ -825,7 +825,7 @@
     "image": "stage-075.webp"
   },
   {
-    "id": "stage-076",
+    "id": "stage-076_calzadilla-de-la-cueza_to_ledigos",
     "name": "Calzadilla de la Cueza → Ledigos",
     "difficulty": null,
     "distance_km": 6.09,
@@ -836,7 +836,7 @@
     "image": "stage-076.webp"
   },
   {
-    "id": "stage-077",
+    "id": "stage-077_ledigos_to_terradillos-de-los-templarios",
     "name": "Ledigos → Terradillos de los Templarios",
     "difficulty": null,
     "distance_km": 3.09,
@@ -847,7 +847,7 @@
     "image": "stage-077.webp"
   },
   {
-    "id": "stage-078",
+    "id": "stage-078_terradillos-de-los-templarios_to_moratinos",
     "name": "Terradillos de los Templarios → Moratinos",
     "difficulty": null,
     "distance_km": 3.33,
@@ -858,7 +858,7 @@
     "image": "stage-078.webp"
   },
   {
-    "id": "stage-079",
+    "id": "stage-079_moratinos_to_san-nicolas-del-real-camino",
     "name": "Moratinos → San Nicolás del Real Camino",
     "difficulty": null,
     "distance_km": 2.64,
@@ -869,7 +869,7 @@
     "image": "stage-079.webp"
   },
   {
-    "id": "stage-080",
+    "id": "stage-080_san-nicolas-del-real-camino_to_sahagun",
     "name": "San Nicolás del Real Camino → Sahagún",
     "difficulty": null,
     "distance_km": 7.68,
@@ -880,7 +880,7 @@
     "image": "stage-080.webp"
   },
   {
-    "id": "stage-081",
+    "id": "stage-081_sahagun_to_bercianos-del-real-camino",
     "name": "Sahagún → Bercianos del Real Camino",
     "difficulty": null,
     "distance_km": 10.04,
@@ -891,7 +891,7 @@
     "image": "stage-081.webp"
   },
   {
-    "id": "stage-082",
+    "id": "stage-082_bercianos-del-real-camino_to_el-burgo-ranero",
     "name": "Bercianos del Real Camino → El Burgo Ranero",
     "difficulty": null,
     "distance_km": 7.3,
@@ -902,7 +902,7 @@
     "image": "stage-082.webp"
   },
   {
-    "id": "stage-083",
+    "id": "stage-083_el-burgo-ranero_to_reliegos",
     "name": "El Burgo Ranero → Reliegos",
     "difficulty": null,
     "distance_km": 13.12,
@@ -913,7 +913,7 @@
     "image": "stage-083.webp"
   },
   {
-    "id": "stage-084",
+    "id": "stage-084_reliegos_to_mansilla-de-las-mulas",
     "name": "Reliegos → Mansilla de las Mulas",
     "difficulty": null,
     "distance_km": 5.9,
@@ -924,7 +924,7 @@
     "image": "stage-084.webp"
   },
   {
-    "id": "stage-085",
+    "id": "stage-085_mansilla-de-las-mulas_to_villamoros",
     "name": "Mansilla de las Mulas → Villamoros",
     "difficulty": null,
     "distance_km": 4.75,
@@ -935,7 +935,7 @@
     "image": "stage-085.webp"
   },
   {
-    "id": "stage-086",
+    "id": "stage-086_villamoros_to_villarente",
     "name": "Villamoros → Villarente",
     "difficulty": null,
     "distance_km": 1.46,
@@ -946,7 +946,7 @@
     "image": "stage-086.webp"
   },
   {
-    "id": "stage-087",
+    "id": "stage-087_villarente_to_arcahueja",
     "name": "Villarente → Arcahueja",
     "difficulty": null,
     "distance_km": 4.35,
@@ -957,7 +957,7 @@
     "image": "stage-087.webp"
   },
   {
-    "id": "stage-088",
+    "id": "stage-088_arcahueja_to_valdelafuente",
     "name": "Arcahueja → Valdelafuente",
     "difficulty": null,
     "distance_km": 1.4,
@@ -968,7 +968,7 @@
     "image": "stage-088.webp"
   },
   {
-    "id": "stage-089",
+    "id": "stage-089_valdelafuente_to_leon",
     "name": "Valdelafuente → León",
     "difficulty": null,
     "distance_km": 6.79,
@@ -979,7 +979,7 @@
     "image": "stage-089.webp"
   },
   {
-    "id": "stage-090",
+    "id": "stage-090_leon_to_trobajo-del-camino",
     "name": "León → Trobajo del Camino",
     "difficulty": null,
     "distance_km": 3.84,
@@ -990,7 +990,7 @@
     "image": "stage-090.webp"
   },
   {
-    "id": "stage-091",
+    "id": "stage-091_trobajo-del-camino_to_la-virgen-del-camino",
     "name": "Trobajo del Camino → La Virgen del Camino",
     "difficulty": null,
     "distance_km": 3.42,
@@ -1001,7 +1001,7 @@
     "image": "stage-091.webp"
   },
   {
-    "id": "stage-092",
+    "id": "stage-092_la-virgen-del-camino_to_valverde-de-la-virgen",
     "name": "La Virgen del Camino → Valverde de la Virgen",
     "difficulty": null,
     "distance_km": 4.05,
@@ -1012,7 +1012,7 @@
     "image": "stage-092.webp"
   },
   {
-    "id": "stage-093",
+    "id": "stage-093_valverde-de-la-virgen_to_san-miguel-del-camino",
     "name": "Valverde de la Virgen → San Miguel del Camino",
     "difficulty": null,
     "distance_km": 1.9,
@@ -1023,7 +1023,7 @@
     "image": "stage-093.webp"
   },
   {
-    "id": "stage-094",
+    "id": "stage-094_san-miguel-del-camino_to_villadangos-del-paramo",
     "name": "San Miguel del Camino → Villadangos del Páramo",
     "difficulty": null,
     "distance_km": 7.38,
@@ -1034,7 +1034,7 @@
     "image": "stage-094.webp"
   },
   {
-    "id": "stage-095",
+    "id": "stage-095_villadangos-del-paramo_to_san-martin-del-camino",
     "name": "Villadangos del Páramo → San Martín del Camino",
     "difficulty": null,
     "distance_km": 4.27,
@@ -1045,7 +1045,7 @@
     "image": "stage-095.webp"
   },
   {
-    "id": "stage-096",
+    "id": "stage-096_san-martin-del-camino_to_puente-de-orbigo",
     "name": "San Martín del Camino → Puente de Órbigo",
     "difficulty": null,
     "distance_km": 6.9,
@@ -1056,7 +1056,7 @@
     "image": "stage-096.webp"
   },
   {
-    "id": "stage-097",
+    "id": "stage-097_puente-de-orbigo_to_hospital-de-orbigo",
     "name": "Puente de Órbigo → Hospital de Órbigo",
     "difficulty": null,
     "distance_km": 0.38,
@@ -1067,7 +1067,7 @@
     "image": "stage-097.webp"
   },
   {
-    "id": "stage-098",
+    "id": "stage-098_hospital-de-orbigo_to_san-justo-de-la-vega",
     "name": "Hospital de Órbigo → San Justo de la Vega",
     "difficulty": null,
     "distance_km": 11.7,
@@ -1078,7 +1078,7 @@
     "image": "stage-098.webp"
   },
   {
-    "id": "stage-099",
+    "id": "stage-099_san-justo-de-la-vega_to_astorga",
     "name": "San Justo de la Vega → Astorga",
     "difficulty": null,
     "distance_km": 3.93,
@@ -1089,7 +1089,7 @@
     "image": "stage-099.webp"
   },
   {
-    "id": "stage-100",
+    "id": "stage-100_astorga_to_murias-de-rechivaldo",
     "name": "Astorga → Murias de Rechivaldo",
     "difficulty": null,
     "distance_km": 4.9,
@@ -1100,7 +1100,7 @@
     "image": "stage-100.webp"
   },
   {
-    "id": "stage-101",
+    "id": "stage-101_murias-de-rechivaldo_to_santa-catalina-de-somoza",
     "name": "Murias de Rechivaldo → Santa Catalina de Somoza",
     "difficulty": null,
     "distance_km": 4.47,
@@ -1111,7 +1111,7 @@
     "image": "stage-101.webp"
   },
   {
-    "id": "stage-102",
+    "id": "stage-102_santa-catalina-de-somoza_to_el-ganso",
     "name": "Santa Catalina de Somoza → El Ganso",
     "difficulty": null,
     "distance_km": 4.15,
@@ -1122,7 +1122,7 @@
     "image": "stage-102.webp"
   },
   {
-    "id": "stage-103",
+    "id": "stage-103_el-ganso_to_rabanal-del-camino",
     "name": "El Ganso → Rabanal del Camino",
     "difficulty": null,
     "distance_km": 6.8,
@@ -1133,7 +1133,7 @@
     "image": "stage-103.webp"
   },
   {
-    "id": "stage-104",
+    "id": "stage-104_rabanal-del-camino_to_foncebadon",
     "name": "Rabanal del Camino → Foncebadón",
     "difficulty": null,
     "distance_km": 5.4,
@@ -1144,7 +1144,7 @@
     "image": "stage-104.webp"
   },
   {
-    "id": "stage-105",
+    "id": "stage-105_foncebadon_to_manjarin",
     "name": "Foncebadón → Manjarin",
     "difficulty": null,
     "distance_km": 4.32,
@@ -1155,7 +1155,7 @@
     "image": "stage-105.webp"
   },
   {
-    "id": "stage-106",
+    "id": "stage-106_manjarin_to_el-acebo",
     "name": "Manjarin → El Acebo",
     "difficulty": null,
     "distance_km": 6.93,
@@ -1166,7 +1166,7 @@
     "image": "stage-106.webp"
   },
   {
-    "id": "stage-107",
+    "id": "stage-107_el-acebo_to_molinaseca",
     "name": "El Acebo → Molinaseca",
     "difficulty": null,
     "distance_km": 8.1,
@@ -1177,7 +1177,7 @@
     "image": "stage-107.webp"
   },
   {
-    "id": "stage-108",
+    "id": "stage-108_molinaseca_to_campo",
     "name": "Molinaseca → Campo",
     "difficulty": null,
     "distance_km": 4.09,
@@ -1188,7 +1188,7 @@
     "image": "stage-108.webp"
   },
   {
-    "id": "stage-109",
+    "id": "stage-109_campo_to_ponferrada",
     "name": "Campo → Ponferrada",
     "difficulty": null,
     "distance_km": 3.58,
@@ -1199,7 +1199,7 @@
     "image": "stage-109.webp"
   },
   {
-    "id": "stage-110",
+    "id": "stage-110_ponferrada_to_compostilla",
     "name": "Ponferrada → Compostilla",
     "difficulty": null,
     "distance_km": 3.53,
@@ -1210,7 +1210,7 @@
     "image": "stage-110.webp"
   },
   {
-    "id": "stage-111",
+    "id": "stage-111_compostilla_to_columbrianos",
     "name": "Compostilla → Columbrianos",
     "difficulty": null,
     "distance_km": 1.69,
@@ -1221,7 +1221,7 @@
     "image": "stage-111.webp"
   },
   {
-    "id": "stage-112",
+    "id": "stage-112_columbrianos_to_camponaraya",
     "name": "Columbrianos → Camponaraya",
     "difficulty": null,
     "distance_km": 4.76,
@@ -1232,7 +1232,7 @@
     "image": "stage-112.webp"
   },
   {
-    "id": "stage-113",
+    "id": "stage-113_camponaraya_to_cacabelos",
     "name": "Camponaraya → Cacabelos",
     "difficulty": null,
     "distance_km": 5.66,
@@ -1243,7 +1243,7 @@
     "image": "stage-113.webp"
   },
   {
-    "id": "stage-114",
+    "id": "stage-114_cacabelos_to_pieros",
     "name": "Cacabelos → Pieros",
     "difficulty": null,
     "distance_km": 2.17,
@@ -1254,7 +1254,7 @@
     "image": "stage-114.webp"
   },
   {
-    "id": "stage-115",
+    "id": "stage-115_pieros_to_villafranca-del-bierzo",
     "name": "Pieros → Villafranca del Bierzo",
     "difficulty": null,
     "distance_km": 5.41,
@@ -1265,7 +1265,7 @@
     "image": "stage-115.webp"
   },
   {
-    "id": "stage-116",
+    "id": "stage-116_villafranca-del-bierzo_to_pereje",
     "name": "Villafranca del Bierzo → Pereje",
     "difficulty": null,
     "distance_km": 5.17,
@@ -1276,7 +1276,7 @@
     "image": "stage-116.webp"
   },
   {
-    "id": "stage-117",
+    "id": "stage-117_pereje_to_el-castaneiro",
     "name": "Pereje → El Castañeiro",
     "difficulty": null,
     "distance_km": 0.45,
@@ -1287,7 +1287,7 @@
     "image": "stage-117.webp"
   },
   {
-    "id": "stage-118",
+    "id": "stage-118_el-castaneiro_to_trabadelo",
     "name": "El Castañeiro → Trabadelo",
     "difficulty": null,
     "distance_km": 3.99,
@@ -1298,7 +1298,7 @@
     "image": "stage-118.webp"
   },
   {
-    "id": "stage-119",
+    "id": "stage-119_trabadelo_to_la-portela-de-valcarce",
     "name": "Trabadelo → La Portela de Valcarce",
     "difficulty": null,
     "distance_km": 4.09,
@@ -1309,7 +1309,7 @@
     "image": "stage-119.webp"
   },
   {
-    "id": "stage-120",
+    "id": "stage-120_la-portela-de-valcarce_to_ambasmestas",
     "name": "La Portela de Valcarce → Ambasmestas",
     "difficulty": null,
     "distance_km": 1.11,
@@ -1320,7 +1320,7 @@
     "image": "stage-120.webp"
   },
   {
-    "id": "stage-121",
+    "id": "stage-121_ambasmestas_to_vega-de-valcarce",
     "name": "Ambasmestas → Vega de Valcarce",
     "difficulty": null,
     "distance_km": 1.54,
@@ -1331,7 +1331,7 @@
     "image": "stage-121.webp"
   },
   {
-    "id": "stage-122",
+    "id": "stage-122_vega-de-valcarce_to_ruitelan",
     "name": "Vega de Valcarce → Ruitelán",
     "difficulty": null,
     "distance_km": 2.24,
@@ -1342,7 +1342,7 @@
     "image": "stage-122.webp"
   },
   {
-    "id": "stage-123",
+    "id": "stage-123_ruitelan_to_las-herrerias-de-valcarce",
     "name": "Ruitelán → Las Herrerías de Valcarce",
     "difficulty": null,
     "distance_km": 1.37,
@@ -1353,7 +1353,7 @@
     "image": "stage-123.webp"
   },
   {
-    "id": "stage-124",
+    "id": "stage-124_las-herrerias-de-valcarce_to_la-faba",
     "name": "Las Herrerías de Valcarce → La Faba",
     "difficulty": null,
     "distance_km": 3.41,
@@ -1364,7 +1364,7 @@
     "image": "stage-124.webp"
   },
   {
-    "id": "stage-125",
+    "id": "stage-125_la-faba_to_o-cebreiro",
     "name": "La Faba → O Cebreiro",
     "difficulty": null,
     "distance_km": 4.6,
@@ -1375,7 +1375,7 @@
     "image": "stage-125.webp"
   },
   {
-    "id": "stage-126",
+    "id": "stage-126_o-cebreiro_to_linares",
     "name": "O Cebreiro → Liñares",
     "difficulty": null,
     "distance_km": 3.17,
@@ -1386,7 +1386,7 @@
     "image": "stage-126.webp"
   },
   {
-    "id": "stage-127",
+    "id": "stage-127_linares_to_hospital-da-condesa",
     "name": "Liñares → Hospital da Condesa",
     "difficulty": null,
     "distance_km": 2.54,
@@ -1397,7 +1397,7 @@
     "image": "stage-127.webp"
   },
   {
-    "id": "stage-128",
+    "id": "stage-128_hospital-da-condesa_to_padornelo",
     "name": "Hospital da Condesa → Padornelo",
     "difficulty": null,
     "distance_km": 2.33,
@@ -1408,7 +1408,7 @@
     "image": "stage-128.webp"
   },
   {
-    "id": "stage-129",
+    "id": "stage-129_padornelo_to_fonfria",
     "name": "Padornelo → Fonfría",
     "difficulty": null,
     "distance_km": 3.84,
@@ -1419,7 +1419,7 @@
     "image": "stage-129.webp"
   },
   {
-    "id": "stage-130",
+    "id": "stage-130_fonfria_to_o-biduedo",
     "name": "Fonfría → O Biduedo",
     "difficulty": null,
     "distance_km": 2.33,
@@ -1430,7 +1430,7 @@
     "image": "stage-130.webp"
   },
   {
-    "id": "stage-131",
+    "id": "stage-131_o-biduedo_to_fillobal",
     "name": "O Biduedo → Fillobal",
     "difficulty": null,
     "distance_km": 2.98,
@@ -1441,7 +1441,7 @@
     "image": "stage-131.webp"
   },
   {
-    "id": "stage-132",
+    "id": "stage-132_fillobal_to_ramil",
     "name": "Fillobal → Ramil",
     "difficulty": null,
     "distance_km": 2.96,
@@ -1452,7 +1452,7 @@
     "image": "stage-132.webp"
   },
   {
-    "id": "stage-133",
+    "id": "stage-133_ramil_to_triacastela",
     "name": "Ramil → Triacastela",
     "difficulty": null,
     "distance_km": 0.69,
@@ -1463,7 +1463,7 @@
     "image": "stage-133.webp"
   },
   {
-    "id": "stage-134",
+    "id": "stage-134_triacastela_to_san-breixo",
     "name": "Triacastela → San Breixo",
     "difficulty": null,
     "distance_km": 0.84,
@@ -1474,7 +1474,7 @@
     "image": "stage-134.webp"
   },
   {
-    "id": "stage-135",
+    "id": "stage-135_san-breixo_to_a-balsa",
     "name": "San Breixo → A Balsa",
     "difficulty": null,
     "distance_km": 1.36,
@@ -1485,7 +1485,7 @@
     "image": "stage-135.webp"
   },
   {
-    "id": "stage-136",
+    "id": "stage-136_a-balsa_to_gosende",
     "name": "A Balsa → Gosende",
     "difficulty": null,
     "distance_km": 5.2,
@@ -1496,7 +1496,7 @@
     "image": "stage-136.webp"
   },
   {
-    "id": "stage-137",
+    "id": "stage-137_gosende_to_pintin-de-arriba",
     "name": "Gosende → Pintín de Arriba",
     "difficulty": null,
     "distance_km": 3.55,
@@ -1507,7 +1507,7 @@
     "image": "stage-137.webp"
   },
   {
-    "id": "stage-138",
+    "id": "stage-138_pintin-de-arriba_to_a-cal",
     "name": "Pintín de Arriba → A Cal",
     "difficulty": null,
     "distance_km": 1.05,
@@ -1518,7 +1518,7 @@
     "image": "stage-138.webp"
   },
   {
-    "id": "stage-139",
+    "id": "stage-139_a-cal_to_perros",
     "name": "A Cal → Perros",
     "difficulty": null,
     "distance_km": 0.41,
@@ -1529,7 +1529,7 @@
     "image": "stage-139.webp"
   },
   {
-    "id": "stage-140",
+    "id": "stage-140_perros_to_aguiada",
     "name": "Perros → Aguiada",
     "difficulty": null,
     "distance_km": 0.53,
@@ -1540,7 +1540,7 @@
     "image": "stage-140.webp"
   },
   {
-    "id": "stage-141",
+    "id": "stage-141_aguiada_to_rubial",
     "name": "Aguiada → Rubial",
     "difficulty": null,
     "distance_km": 0.28,
@@ -1551,7 +1551,7 @@
     "image": "stage-141.webp"
   },
   {
-    "id": "stage-142",
+    "id": "stage-142_rubial_to_airexe",
     "name": "Rubial → Airexe",
     "difficulty": null,
     "distance_km": 0.32,
@@ -1562,7 +1562,7 @@
     "image": "stage-142.webp"
   },
   {
-    "id": "stage-143",
+    "id": "stage-143_airexe_to_mendros",
     "name": "Airexe → Mendrós",
     "difficulty": null,
     "distance_km": 2.75,
@@ -1573,7 +1573,7 @@
     "image": "stage-143.webp"
   },
   {
-    "id": "stage-144",
+    "id": "stage-144_mendros_to_vigo-de-sarria",
     "name": "Mendrós → Vigo de Sarria",
     "difficulty": null,
     "distance_km": 0.17,
@@ -1584,7 +1584,7 @@
     "image": "stage-144.webp"
   },
   {
-    "id": "stage-145",
+    "id": "stage-145_vigo-de-sarria_to_sarria",
     "name": "Vigo de Sarria → Sarria",
     "difficulty": null,
     "distance_km": 1.24,
@@ -1595,7 +1595,7 @@
     "image": "stage-145.webp"
   },
   {
-    "id": "stage-146",
+    "id": "stage-146_sarria_to_celeiro",
     "name": "Sarria → Celeiro",
     "difficulty": null,
     "distance_km": 1.05,
@@ -1606,7 +1606,7 @@
     "image": "stage-146.webp"
   },
   {
-    "id": "stage-147",
+    "id": "stage-147_celeiro_to_veiga-de-arriba",
     "name": "Celeiro → Veiga de Arriba",
     "difficulty": null,
     "distance_km": 0.5,
@@ -1617,7 +1617,7 @@
     "image": "stage-147.webp"
   },
   {
-    "id": "stage-148",
+    "id": "stage-148_veiga-de-arriba_to_as-paredes",
     "name": "Veiga de Arriba → As Paredes",
     "difficulty": null,
     "distance_km": 1.4,
@@ -1628,7 +1628,7 @@
     "image": "stage-148.webp"
   },
   {
-    "id": "stage-149",
+    "id": "stage-149_as-paredes_to_vilei",
     "name": "As Paredes → Vilei",
     "difficulty": null,
     "distance_km": 0.62,
@@ -1639,7 +1639,7 @@
     "image": "stage-149.webp"
   },
   {
-    "id": "stage-150",
+    "id": "stage-150_vilei_to_o-mosteiro",
     "name": "Vilei → O Mosteiro",
     "difficulty": null,
     "distance_km": 0.62,
@@ -1650,7 +1650,7 @@
     "image": "stage-150.webp"
   },
   {
-    "id": "stage-151",
+    "id": "stage-151_o-mosteiro_to_surriba",
     "name": "O Mosteiro → Surriba",
     "difficulty": null,
     "distance_km": 0.0,
@@ -1661,7 +1661,7 @@
     "image": "stage-151.webp"
   },
   {
-    "id": "stage-152",
+    "id": "stage-152_surriba_to_san-silvestre",
     "name": "Surriba → San Silvestre",
     "difficulty": null,
     "distance_km": 0.29,
@@ -1672,7 +1672,7 @@
     "image": "stage-152.webp"
   },
   {
-    "id": "stage-153",
+    "id": "stage-153_san-silvestre_to_a-serra",
     "name": "San Silvestre → A Serra",
     "difficulty": null,
     "distance_km": 1.44,
@@ -1683,7 +1683,7 @@
     "image": "stage-153.webp"
   },
   {
-    "id": "stage-154",
+    "id": "stage-154_a-serra_to_o-monte",
     "name": "A Serra → O Monte",
     "difficulty": null,
     "distance_km": 0.43,
@@ -1694,7 +1694,7 @@
     "image": "stage-154.webp"
   },
   {
-    "id": "stage-155",
+    "id": "stage-155_o-monte_to_o-muino-de-marzan",
     "name": "O Monte → O Muíño de Marzán",
     "difficulty": null,
     "distance_km": 0.97,
@@ -1705,7 +1705,7 @@
     "image": "stage-155.webp"
   },
   {
-    "id": "stage-156",
+    "id": "stage-156_o-muino-de-marzan_to_a-brea",
     "name": "O Muíño de Marzán → A Brea",
     "difficulty": null,
     "distance_km": 4.03,
@@ -1716,7 +1716,7 @@
     "image": "stage-156.webp"
   },
   {
-    "id": "stage-157",
+    "id": "stage-157_a-brea_to_o-pacio",
     "name": "A Brea → O Pacio",
     "difficulty": null,
     "distance_km": 0.09,
@@ -1727,7 +1727,7 @@
     "image": "stage-157.webp"
   },
   {
-    "id": "stage-158",
+    "id": "stage-158_o-pacio_to_morgade",
     "name": "O Pacio → Morgade",
     "difficulty": null,
     "distance_km": 0.48,
@@ -1738,7 +1738,7 @@
     "image": "stage-158.webp"
   },
   {
-    "id": "stage-159",
+    "id": "stage-159_morgade_to_ferreiros",
     "name": "Morgade → Ferreiros",
     "difficulty": null,
     "distance_km": 1.13,
@@ -1749,7 +1749,7 @@
     "image": "stage-159.webp"
   },
   {
-    "id": "stage-160",
+    "id": "stage-160_ferreiros_to_a-pena",
     "name": "Ferreiros → A Pena",
     "difficulty": null,
     "distance_km": 1.04,
@@ -1760,7 +1760,7 @@
     "image": "stage-160.webp"
   },
   {
-    "id": "stage-161",
+    "id": "stage-161_a-pena_to_o-couto",
     "name": "A Pena → O Couto",
     "difficulty": null,
     "distance_km": 0.49,
@@ -1771,7 +1771,7 @@
     "image": "stage-161.webp"
   },
   {
-    "id": "stage-162",
+    "id": "stage-162_o-couto_to_moimentos",
     "name": "O Couto → Moimentos",
     "difficulty": null,
     "distance_km": 1.7,
@@ -1782,7 +1782,7 @@
     "image": "stage-162.webp"
   },
   {
-    "id": "stage-163",
+    "id": "stage-163_moimentos_to_as-cortes",
     "name": "Moimentos → As Cortes",
     "difficulty": null,
     "distance_km": 3.39,
@@ -1793,7 +1793,7 @@
     "image": "stage-163.webp"
   },
   {
-    "id": "stage-164",
+    "id": "stage-164_as-cortes_to_vilacha",
     "name": "As Cortes → Vilachá",
     "difficulty": null,
     "distance_km": 0.11,
@@ -1804,7 +1804,7 @@
     "image": "stage-164.webp"
   },
   {
-    "id": "stage-165",
+    "id": "stage-165_vilacha_to_portomarin",
     "name": "Vilachá → Portomarín",
     "difficulty": null,
     "distance_km": 2.35,
@@ -1815,7 +1815,7 @@
     "image": "stage-165.webp"
   },
   {
-    "id": "stage-166",
+    "id": "stage-166_portomarin_to_gonzar",
     "name": "Portomarín → Gonzar",
     "difficulty": null,
     "distance_km": 7.95,
@@ -1826,7 +1826,7 @@
     "image": "stage-166.webp"
   },
   {
-    "id": "stage-167",
+    "id": "stage-167_gonzar_to_castromaior",
     "name": "Gonzar → Castromaior",
     "difficulty": null,
     "distance_km": 1.32,
@@ -1837,7 +1837,7 @@
     "image": "stage-167.webp"
   },
   {
-    "id": "stage-168",
+    "id": "stage-168_castromaior_to_o-hospital",
     "name": "Castromaior → O Hospital",
     "difficulty": null,
     "distance_km": 2.39,
@@ -1848,7 +1848,7 @@
     "image": "stage-168.webp"
   },
   {
-    "id": "stage-169",
+    "id": "stage-169_o-hospital_to_vendas-de-naron",
     "name": "O Hospital → Vendas de Narón",
     "difficulty": null,
     "distance_km": 1.54,
@@ -1859,7 +1859,7 @@
     "image": "stage-169.webp"
   },
   {
-    "id": "stage-170",
+    "id": "stage-170_vendas-de-naron_to_a-previsa",
     "name": "Vendas de Narón → A Previsa",
     "difficulty": null,
     "distance_km": 2.04,
@@ -1870,7 +1870,7 @@
     "image": "stage-170.webp"
   },
   {
-    "id": "stage-171",
+    "id": "stage-171_a-previsa_to_os-lameiros-de-abaixo",
     "name": "A Previsa → Os Lameiros de Abaixo",
     "difficulty": null,
     "distance_km": 0.55,
@@ -1881,7 +1881,7 @@
     "image": "stage-171.webp"
   },
   {
-    "id": "stage-172",
+    "id": "stage-172_os-lameiros-de-abaixo_to_ligonde",
     "name": "Os Lameiros de Abaixo → Ligonde",
     "difficulty": null,
     "distance_km": 0.41,
@@ -1892,7 +1892,7 @@
     "image": "stage-172.webp"
   },
   {
-    "id": "stage-173",
+    "id": "stage-173_ligonde_to_a-devesa",
     "name": "Ligonde → A Devesa",
     "difficulty": null,
     "distance_km": 1.06,
@@ -1903,7 +1903,7 @@
     "image": "stage-173.webp"
   },
   {
-    "id": "stage-174",
+    "id": "stage-174_a-devesa_to_a-eirexe-de-ligonde",
     "name": "A Devesa → A Eirexe de Ligonde",
     "difficulty": null,
     "distance_km": 0.06,
@@ -1914,7 +1914,7 @@
     "image": "stage-174.webp"
   },
   {
-    "id": "stage-175",
+    "id": "stage-175_a-eirexe-de-ligonde_to_portos",
     "name": "A Eirexe de Ligonde → Portos",
     "difficulty": null,
     "distance_km": 2.02,
@@ -1925,7 +1925,7 @@
     "image": "stage-175.webp"
   },
   {
-    "id": "stage-176",
+    "id": "stage-176_portos_to_lestedo",
     "name": "Portos → Lestedo",
     "difficulty": null,
     "distance_km": 0.65,
@@ -1936,7 +1936,7 @@
     "image": "stage-176.webp"
   },
   {
-    "id": "stage-177",
+    "id": "stage-177_lestedo_to_os-valos",
     "name": "Lestedo → Os Valos",
     "difficulty": null,
     "distance_km": 0.78,
@@ -1947,7 +1947,7 @@
     "image": "stage-177.webp"
   },
   {
-    "id": "stage-178",
+    "id": "stage-178_os-valos_to_a-riba",
     "name": "Os Valos → A Riba",
     "difficulty": null,
     "distance_km": 0.11,
@@ -1958,7 +1958,7 @@
     "image": "stage-178.webp"
   },
   {
-    "id": "stage-179",
+    "id": "stage-179_a-riba_to_a-brea-2",
     "name": "A Riba → A Brea",
     "difficulty": null,
     "distance_km": 1.12,
@@ -1969,7 +1969,7 @@
     "image": "stage-179.webp"
   },
   {
-    "id": "stage-180",
+    "id": "stage-180_a-brea-2_to_abenostre",
     "name": "A Brea → Abenostre",
     "difficulty": null,
     "distance_km": 0.31,
@@ -1980,7 +1980,7 @@
     "image": "stage-180.webp"
   },
   {
-    "id": "stage-181",
+    "id": "stage-181_abenostre_to_palas-de-rei",
     "name": "Abenostre → Palas de Rei",
     "difficulty": null,
     "distance_km": 2.65,
@@ -1991,7 +1991,7 @@
     "image": "stage-181.webp"
   },
   {
-    "id": "stage-182",
+    "id": "stage-182_palas-de-rei_to_a-ponterroxan",
     "name": "Palas de Rei → A Ponterroxán",
     "difficulty": null,
     "distance_km": 1.11,
@@ -2002,7 +2002,7 @@
     "image": "stage-182.webp"
   },
   {
-    "id": "stage-183",
+    "id": "stage-183_a-ponterroxan_to_vilamerelle",
     "name": "A Ponterroxán → Vilamerelle",
     "difficulty": null,
     "distance_km": 2.11,
@@ -2013,7 +2013,7 @@
     "image": "stage-183.webp"
   },
   {
-    "id": "stage-184",
+    "id": "stage-184_vilamerelle_to_san-xiao",
     "name": "Vilamerelle → San Xiao",
     "difficulty": null,
     "distance_km": 0.09,
@@ -2024,7 +2024,7 @@
     "image": "stage-184.webp"
   },
   {
-    "id": "stage-185",
+    "id": "stage-185_san-xiao_to_a-grana",
     "name": "San Xiao → A Graña",
     "difficulty": null,
     "distance_km": 0.48,
@@ -2035,7 +2035,7 @@
     "image": "stage-185.webp"
   },
   {
-    "id": "stage-186",
+    "id": "stage-186_a-grana_to_campana",
     "name": "A Graña → Campaña",
     "difficulty": null,
     "distance_km": 0.6,
@@ -2046,7 +2046,7 @@
     "image": "stage-186.webp"
   },
   {
-    "id": "stage-187",
+    "id": "stage-187_campana_to_a-ponte-campana",
     "name": "Campaña → A Ponte Campaña",
     "difficulty": null,
     "distance_km": 0.08,
@@ -2057,7 +2057,7 @@
     "image": "stage-187.webp"
   },
   {
-    "id": "stage-188",
+    "id": "stage-188_a-ponte-campana_to_casanova",
     "name": "A Ponte Campaña → Casanova",
     "difficulty": null,
     "distance_km": 1.1,
@@ -2068,7 +2068,7 @@
     "image": "stage-188.webp"
   },
   {
-    "id": "stage-189",
+    "id": "stage-189_casanova_to_o-mato",
     "name": "Casanova → O Mato",
     "difficulty": null,
     "distance_km": 0.44,
@@ -2079,7 +2079,7 @@
     "image": "stage-189.webp"
   },
   {
-    "id": "stage-190",
+    "id": "stage-190_o-mato_to_o-coto",
     "name": "O Mato → O Coto",
     "difficulty": null,
     "distance_km": 1.98,
@@ -2090,7 +2090,7 @@
     "image": "stage-190.webp"
   },
   {
-    "id": "stage-191",
+    "id": "stage-191_o-coto_to_o-coto-2",
     "name": "O Coto → O Coto",
     "difficulty": null,
     "distance_km": 0.44,
@@ -2101,7 +2101,7 @@
     "image": "stage-191.webp"
   },
   {
-    "id": "stage-192",
+    "id": "stage-192_o-coto-2_to_o-camino-do-agro",
     "name": "O Coto → O Camiño do Agro",
     "difficulty": null,
     "distance_km": 4.59,
@@ -2112,7 +2112,7 @@
     "image": "stage-192.webp"
   },
   {
-    "id": "stage-193",
+    "id": "stage-193_o-camino-do-agro_to_melide",
     "name": "O Camiño do Agro → Melide",
     "difficulty": null,
     "distance_km": 1.44,
@@ -2123,7 +2123,7 @@
     "image": "stage-193.webp"
   },
   {
-    "id": "stage-194",
+    "id": "stage-194_melide_to_santa-maria",
     "name": "Melide → Santa María",
     "difficulty": null,
     "distance_km": 0.95,
@@ -2134,7 +2134,7 @@
     "image": "stage-194.webp"
   },
   {
-    "id": "stage-195",
+    "id": "stage-195_santa-maria_to_parabispo",
     "name": "Santa María → Parabispo",
     "difficulty": null,
     "distance_km": 2.94,
@@ -2145,7 +2145,7 @@
     "image": "stage-195.webp"
   },
   {
-    "id": "stage-196",
+    "id": "stage-196_parabispo_to_riocovo",
     "name": "Parabispo → Riocovo",
     "difficulty": null,
     "distance_km": 0.05,
@@ -2156,7 +2156,7 @@
     "image": "stage-196.webp"
   },
   {
-    "id": "stage-197",
+    "id": "stage-197_riocovo_to_a-peroxa",
     "name": "Riocovo → A Peroxa",
     "difficulty": null,
     "distance_km": 1.17,
@@ -2167,7 +2167,7 @@
     "image": "stage-197.webp"
   },
   {
-    "id": "stage-198",
+    "id": "stage-198_a-peroxa_to_boente-de-arriba",
     "name": "A Peroxa → Boente de Arriba",
     "difficulty": null,
     "distance_km": 0.38,
@@ -2178,7 +2178,7 @@
     "image": "stage-198.webp"
   },
   {
-    "id": "stage-199",
+    "id": "stage-199_boente-de-arriba_to_martulo",
     "name": "Boente de Arriba → Martulo",
     "difficulty": null,
     "distance_km": 0.0,
@@ -2189,7 +2189,7 @@
     "image": "stage-199.webp"
   },
   {
-    "id": "stage-200",
+    "id": "stage-200_martulo_to_boente-de-abaixo",
     "name": "Martulo → Boente de Abaixo",
     "difficulty": null,
     "distance_km": 0.36,
@@ -2200,7 +2200,7 @@
     "image": "stage-200.webp"
   },
   {
-    "id": "stage-201",
+    "id": "stage-201_boente-de-abaixo_to_a-fonte-prata",
     "name": "Boente de Abaixo → A Fonte Prata",
     "difficulty": null,
     "distance_km": 1.88,
@@ -2211,7 +2211,7 @@
     "image": "stage-201.webp"
   },
   {
-    "id": "stage-202",
+    "id": "stage-202_a-fonte-prata_to_o-pumarino",
     "name": "A Fonte Prata → O Pumariño",
     "difficulty": null,
     "distance_km": 0.61,
@@ -2222,7 +2222,7 @@
     "image": "stage-202.webp"
   },
   {
-    "id": "stage-203",
+    "id": "stage-203_o-pumarino_to_o-faraldo",
     "name": "O Pumariño → O Faraldo",
     "difficulty": null,
     "distance_km": 0.85,
@@ -2233,7 +2233,7 @@
     "image": "stage-203.webp"
   },
   {
-    "id": "stage-204",
+    "id": "stage-204_o-faraldo_to_trigas",
     "name": "O Faraldo → Trigás",
     "difficulty": null,
     "distance_km": 1.4,
@@ -2244,7 +2244,7 @@
     "image": "stage-204.webp"
   },
   {
-    "id": "stage-205",
+    "id": "stage-205_trigas_to_ribadiso-de-abaixo",
     "name": "Trigás → Ribadiso de Abaixo",
     "difficulty": null,
     "distance_km": 0.57,
@@ -2255,7 +2255,7 @@
     "image": "stage-205.webp"
   },
   {
-    "id": "stage-206",
+    "id": "stage-206_ribadiso-de-abaixo_to_ribadiso-de-arriba",
     "name": "Ribadiso de Abaixo → Ribadiso de Arriba",
     "difficulty": null,
     "distance_km": 0.76,
@@ -2266,7 +2266,7 @@
     "image": "stage-206.webp"
   },
   {
-    "id": "stage-207",
+    "id": "stage-207_ribadiso-de-arriba_to_guldris",
     "name": "Ribadiso de Arriba → Guldrís",
     "difficulty": null,
     "distance_km": 0.14,
@@ -2277,7 +2277,7 @@
     "image": "stage-207.webp"
   },
   {
-    "id": "stage-208",
+    "id": "stage-208_guldris_to_teiraboa",
     "name": "Guldrís → Teiraboa",
     "difficulty": null,
     "distance_km": 0.38,
@@ -2288,7 +2288,7 @@
     "image": "stage-208.webp"
   },
   {
-    "id": "stage-209",
+    "id": "stage-209_teiraboa_to_lema-de-arriba",
     "name": "Teiraboa → Lema de Arriba",
     "difficulty": null,
     "distance_km": 0.63,
@@ -2299,7 +2299,7 @@
     "image": "stage-209.webp"
   },
   {
-    "id": "stage-210",
+    "id": "stage-210_lema-de-arriba_to_arzua",
     "name": "Lema de Arriba → Arzúa",
     "difficulty": null,
     "distance_km": 0.93,
@@ -2310,7 +2310,7 @@
     "image": "stage-210.webp"
   },
   {
-    "id": "stage-211",
+    "id": "stage-211_arzua_to_o-rio-vello",
     "name": "Arzúa → O Río Vello",
     "difficulty": null,
     "distance_km": 0.83,
@@ -2321,7 +2321,7 @@
     "image": "stage-211.webp"
   },
   {
-    "id": "stage-212",
+    "id": "stage-212_o-rio-vello_to_os-penedos",
     "name": "O Río Vello → Os Penedos",
     "difficulty": null,
     "distance_km": 1.59,
@@ -2332,7 +2332,7 @@
     "image": "stage-212.webp"
   },
   {
-    "id": "stage-213",
+    "id": "stage-213_os-penedos_to_fondevila",
     "name": "Os Penedos → Fondevila",
     "difficulty": null,
     "distance_km": 0.65,
@@ -2343,7 +2343,7 @@
     "image": "stage-213.webp"
   },
   {
-    "id": "stage-214",
+    "id": "stage-214_fondevila_to_a-curiscada",
     "name": "Fondevila → A Curiscada",
     "difficulty": null,
     "distance_km": 0.57,
@@ -2354,7 +2354,7 @@
     "image": "stage-214.webp"
   },
   {
-    "id": "stage-215",
+    "id": "stage-215_a-curiscada_to_a-taberna-vella",
     "name": "A Curiscada → A Taberna Vella",
     "difficulty": null,
     "distance_km": 1.61,
@@ -2365,7 +2365,7 @@
     "image": "stage-215.webp"
   },
   {
-    "id": "stage-216",
+    "id": "stage-216_a-taberna-vella_to_a-calzada",
     "name": "A Taberna Vella → A Calzada",
     "difficulty": null,
     "distance_km": 0.82,
@@ -2376,7 +2376,7 @@
     "image": "stage-216.webp"
   },
   {
-    "id": "stage-217",
+    "id": "stage-217_a-calzada_to_guean",
     "name": "A Calzada → Gueán",
     "difficulty": null,
     "distance_km": 0.43,
@@ -2387,7 +2387,7 @@
     "image": "stage-217.webp"
   },
   {
-    "id": "stage-218",
+    "id": "stage-218_guean_to_rouris",
     "name": "Gueán → Rourís",
     "difficulty": null,
     "distance_km": 1.19,
@@ -2398,7 +2398,7 @@
     "image": "stage-218.webp"
   },
   {
-    "id": "stage-219",
+    "id": "stage-219_rouris_to_a-boavista",
     "name": "Rourís → A Boavista",
     "difficulty": null,
     "distance_km": 1.74,
@@ -2409,7 +2409,7 @@
     "image": "stage-219.webp"
   },
   {
-    "id": "stage-220",
+    "id": "stage-220_a-boavista_to_a-salceda",
     "name": "A Boavista → A Salceda",
     "difficulty": null,
     "distance_km": 1.9,
@@ -2420,7 +2420,7 @@
     "image": "stage-220.webp"
   },
   {
-    "id": "stage-221",
+    "id": "stage-221_a-salceda_to_as-ras",
     "name": "A Salceda → As Ras",
     "difficulty": null,
     "distance_km": 1.93,
@@ -2431,7 +2431,7 @@
     "image": "stage-221.webp"
   },
   {
-    "id": "stage-222",
+    "id": "stage-222_as-ras_to_o-meson",
     "name": "As Ras → O Mesón",
     "difficulty": null,
     "distance_km": 0.42,
@@ -2442,7 +2442,7 @@
     "image": "stage-222.webp"
   },
   {
-    "id": "stage-223",
+    "id": "stage-223_o-meson_to_a-rabina",
     "name": "O Mesón → A Rabiña",
     "difficulty": null,
     "distance_km": 0.4,
@@ -2453,7 +2453,7 @@
     "image": "stage-223.webp"
   },
   {
-    "id": "stage-224",
+    "id": "stage-224_a-rabina_to_o-malle",
     "name": "A Rabiña → O Malle",
     "difficulty": null,
     "distance_km": 0.58,
@@ -2464,7 +2464,7 @@
     "image": "stage-224.webp"
   },
   {
-    "id": "stage-225",
+    "id": "stage-225_o-malle_to_o-castro",
     "name": "O Malle → O Castro",
     "difficulty": null,
     "distance_km": 0.26,
@@ -2475,7 +2475,7 @@
     "image": "stage-225.webp"
   },
   {
-    "id": "stage-226",
+    "id": "stage-226_o-castro_to_o-empalme",
     "name": "O Castro → O Empalme",
     "difficulty": null,
     "distance_km": 0.54,
@@ -2486,7 +2486,7 @@
     "image": "stage-226.webp"
   },
   {
-    "id": "stage-227",
+    "id": "stage-227_o-empalme_to_santa-irene",
     "name": "O Empalme → Santa Irene",
     "difficulty": null,
     "distance_km": 0.8,
@@ -2497,7 +2497,7 @@
     "image": "stage-227.webp"
   },
   {
-    "id": "stage-228",
+    "id": "stage-228_santa-irene_to_leboran-pequeno",
     "name": "Santa Irene → Leborán Pequeno",
     "difficulty": null,
     "distance_km": 0.38,
@@ -2508,7 +2508,7 @@
     "image": "stage-228.webp"
   },
   {
-    "id": "stage-229",
+    "id": "stage-229_leboran-pequeno_to_a-rua",
     "name": "Leborán Pequeno → A Rúa",
     "difficulty": null,
     "distance_km": 1.48,
@@ -2519,7 +2519,7 @@
     "image": "stage-229.webp"
   },
   {
-    "id": "stage-230",
+    "id": "stage-230_a-rua_to_o-burgo",
     "name": "A Rúa → O Burgo",
     "difficulty": null,
     "distance_km": 0.57,
@@ -2530,7 +2530,7 @@
     "image": "stage-230.webp"
   },
   {
-    "id": "stage-231",
+    "id": "stage-231_o-burgo_to_o-monte-2",
     "name": "O Burgo → O Monte",
     "difficulty": null,
     "distance_km": 0.63,
@@ -2541,7 +2541,7 @@
     "image": "stage-231.webp"
   },
   {
-    "id": "stage-232",
+    "id": "stage-232_o-monte-2_to_o-pedrouzo",
     "name": "O Monte → O Pedrouzo",
     "difficulty": null,
     "distance_km": 0.24,
@@ -2552,7 +2552,7 @@
     "image": "stage-232.webp"
   },
   {
-    "id": "stage-233",
+    "id": "stage-233_o-pedrouzo_to_o-amenal",
     "name": "O Pedrouzo → O Amenal",
     "difficulty": null,
     "distance_km": 2.73,
@@ -2563,7 +2563,7 @@
     "image": "stage-233.webp"
   },
   {
-    "id": "stage-234",
+    "id": "stage-234_o-amenal_to_o-rio-pequeno",
     "name": "O Amenal → O Río Pequeno",
     "difficulty": null,
     "distance_km": 0.78,
@@ -2574,7 +2574,7 @@
     "image": "stage-234.webp"
   },
   {
-    "id": "stage-235",
+    "id": "stage-235_o-rio-pequeno_to_amarelle",
     "name": "O Río Pequeno → Amarelle",
     "difficulty": null,
     "distance_km": 2.0,
@@ -2585,7 +2585,7 @@
     "image": "stage-235.webp"
   },
   {
-    "id": "stage-236",
+    "id": "stage-236_amarelle_to_san-paio",
     "name": "Amarelle → San Paio",
     "difficulty": null,
     "distance_km": 1.44,
@@ -2596,7 +2596,7 @@
     "image": "stage-236.webp"
   },
   {
-    "id": "stage-237",
+    "id": "stage-237_san-paio_to_as-quenllas",
     "name": "San Paio → As Quenllas",
     "difficulty": null,
     "distance_km": 0.52,
@@ -2607,7 +2607,7 @@
     "image": "stage-237.webp"
   },
   {
-    "id": "stage-238",
+    "id": "stage-238_as-quenllas_to_o-noval",
     "name": "As Quenllas → O Noval",
     "difficulty": null,
     "distance_km": 0.74,
@@ -2618,7 +2618,7 @@
     "image": "stage-238.webp"
   },
   {
-    "id": "stage-239",
+    "id": "stage-239_o-noval_to_albarde",
     "name": "O Noval → Albarde",
     "difficulty": null,
     "distance_km": 0.07,
@@ -2629,7 +2629,7 @@
     "image": "stage-239.webp"
   },
   {
-    "id": "stage-240",
+    "id": "stage-240_albarde_to_a-esquipa",
     "name": "Albarde → A Esquipa",
     "difficulty": null,
     "distance_km": 0.33,
@@ -2640,7 +2640,7 @@
     "image": "stage-240.webp"
   },
   {
-    "id": "stage-241",
+    "id": "stage-241_a-esquipa_to_a-lavacolla",
     "name": "A Esquipa → A Lavacolla",
     "difficulty": null,
     "distance_km": 0.38,
@@ -2651,7 +2651,7 @@
     "image": "stage-241.webp"
   },
   {
-    "id": "stage-242",
+    "id": "stage-242_a-lavacolla_to_o-pontillon",
     "name": "A Lavacolla → O Pontillón",
     "difficulty": null,
     "distance_km": 0.38,
@@ -2662,7 +2662,7 @@
     "image": "stage-242.webp"
   },
   {
-    "id": "stage-243",
+    "id": "stage-243_o-pontillon_to_vilamaior",
     "name": "O Pontillón → Vilamaior",
     "difficulty": null,
     "distance_km": 1.02,
@@ -2673,7 +2673,7 @@
     "image": "stage-243.webp"
   },
   {
-    "id": "stage-244",
+    "id": "stage-244_vilamaior_to_san-marcos",
     "name": "Vilamaior → San Marcos",
     "difficulty": null,
     "distance_km": 3.72,
@@ -2684,7 +2684,7 @@
     "image": "stage-244.webp"
   },
   {
-    "id": "stage-245",
+    "id": "stage-245_san-marcos_to_a-granxa-de-san-lazaro",
     "name": "San Marcos → A Granxa de San Lázaro",
     "difficulty": null,
     "distance_km": 1.07,
@@ -2695,7 +2695,7 @@
     "image": "stage-245.webp"
   },
   {
-    "id": "stage-246",
+    "id": "stage-246_a-granxa-de-san-lazaro_to_os-abetos",
     "name": "A Granxa de San Lázaro → Os Abetos",
     "difficulty": null,
     "distance_km": 0.3,
@@ -2706,7 +2706,7 @@
     "image": "stage-246.webp"
   },
   {
-    "id": "stage-247",
+    "id": "stage-247_os-abetos_to_as-casas-do-vento",
     "name": "Os Abetos → As Casas do Vento",
     "difficulty": null,
     "distance_km": 0.44,
@@ -2717,7 +2717,7 @@
     "image": "stage-247.webp"
   },
   {
-    "id": "stage-248",
+    "id": "stage-248_as-casas-do-vento_to_paredes",
     "name": "As Casas do Vento → Paredes",
     "difficulty": null,
     "distance_km": 0.06,
@@ -2728,7 +2728,7 @@
     "image": "stage-248.webp"
   },
   {
-    "id": "stage-249",
+    "id": "stage-249_paredes_to_o-cotaredo",
     "name": "Paredes → O Cotaredo",
     "difficulty": null,
     "distance_km": 1.66,
@@ -2739,7 +2739,7 @@
     "image": "stage-249.webp"
   },
   {
-    "id": "stage-250",
+    "id": "stage-250_o-cotaredo_to_o-outeiro",
     "name": "O Cotaredo → O Outeiro",
     "difficulty": null,
     "distance_km": 0.71,
@@ -2750,7 +2750,7 @@
     "image": "stage-250.webp"
   },
   {
-    "id": "stage-251",
+    "id": "stage-251_o-outeiro_to_santiago-de-compostela",
     "name": "O Outeiro → Santiago de Compostela",
     "difficulty": null,
     "distance_km": 0.99,
