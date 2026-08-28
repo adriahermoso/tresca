@@ -1,0 +1,20 @@
+[
+  {
+    "id": "test-1",
+    "name": "Test 1",
+    "ref": "test-1",
+    "category": "test",
+    "difficulty": "easy",
+    "distance_km": 1.0,
+    "duration_text": "10 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.123974,
+      41.511406,
+      2.130356,
+      41.514707
+    ],
+    "image": "test1.webp"
+  }
+]
