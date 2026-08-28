@@ -1,0 +1,39 @@
+{
+  "id": "test-1",
+  "name": "Test 1",
+  "name_official": "Test 1",
+  "ref": "test-1",
+  "category": "test",
+  "difficulty": "easy",
+  "description": "Test 1 from my house to the gym.",
+  "start_point_text": "House",
+  "distance_km": 1.0,
+  "duration_text": "10 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "elzdnAkks`CtYcODCcRct@z@jDju@_`@[iBRcDl@{B|@yABA~Be@zAnBf@ZtAIlCs@hYqMxn@}Xtp@aYQHwOiv@yNye@}@yCcX{r@FPpb@{^Kk@gEmL??~EgEg@uAfEiDfKoI",
+    "polyline_precision": 6,
+    "bbox": [
+      2.123974,
+      41.511406,
+      2.130356,
+      41.514707
+    ],
+    "start_lon_lat": [
+      2.123974,
+      41.514707
+    ],
+    "end_lon_lat": [
+      2.130356,
+      41.511514
+    ]
+  },
+  "source": {
+    "provider": "gpx.studio",
+    "license": "Unknown",
+    "attribution": "Created with gpx.studio",
+    "relation_id": null
+  },
+  "image": "test1.webp"
+}
