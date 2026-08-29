@@ -1,0 +1,74 @@
+[
+  {
+    "id": "circular-agulles-frares-encantats-coll-de-port",
+    "name": "Circular per la regió de les Agulles i dels Frares Encantats, pel Coll de Port",
+    "ref": null,
+    "category": "itinerari",
+    "difficulty": "Fácil",
+    "distance_km": 2.14,
+    "duration_text": "35 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      1.7809133,
+      41.6056592,
+      1.7957022000000002,
+      41.610703
+    ],
+    "image": "imgs/circular-agulles-frares-encantats-coll-de-port.webp"
+  },
+  {
+    "id": "coll-de-les-bruixes",
+    "name": "Coll de les Bruixes",
+    "ref": null,
+    "category": "itinerari",
+    "difficulty": "Fácil",
+    "distance_km": 2.53,
+    "duration_text": "40 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      1.8682610999999998,
+      41.5834399,
+      1.8886140000000002,
+      41.58943829999999
+    ],
+    "image": "imgs/coll-de-les-bruixes.webp"
+  },
+  {
+    "id": "can-macana-monestir-cami-arrel",
+    "name": "De Can Maçana al Monestir de Montserrat pel camí de l'Arrel",
+    "ref": null,
+    "category": "itinerari",
+    "difficulty": "Moderada",
+    "distance_km": 3.26,
+    "duration_text": "50 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      1.8176664,
+      41.596348,
+      1.8350336,
+      41.6104141
+    ],
+    "image": "imgs/can-macana-monestir-cami-arrel.webp"
+  },
+  {
+    "id": "agulles-de-montserrat",
+    "name": "Itinerari per les Agulles de Montserrat",
+    "ref": null,
+    "category": "itinerari",
+    "difficulty": "Fácil",
+    "distance_km": 1.24,
+    "duration_text": "20 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      1.773328,
+      41.5985234,
+      1.7792855,
+      41.60322600000001
+    ],
+    "image": "imgs/agulles-de-montserrat.webp"
+  }
+]

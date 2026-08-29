@@ -1,0 +1,39 @@
+{
+  "id": "can-macana-monestir-cami-arrel",
+  "name": "De Can Maçana al Monestir de Montserrat pel camí de l'Arrel",
+  "name_official": "De Can Maçana al Monestir de Montserrat pel camí de l'Arrel",
+  "ref": null,
+  "category": "itinerari",
+  "difficulty": "Moderada",
+  "description": "",
+  "start_point_text": "Santa Cecília",
+  "distance_km": 3.26,
+  "duration_text": "50 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "ogujnAs_~mBkA~KvGu@kAdGfD~Gba@sNhEXtI~I~WmInBwCtDAfCaElIdChFqKpWqJ`\\|JbSs@v\\kQlFE~PoW~N{A`DgFn@oSkGi]uJ_UUuEpb@`N~KuBvFkLGuUiCqGkIuiAEiLlD_J|Ew@rLnB~V|g@rLrCjz@oWpNrDnH}EtMhA|NcBpPrGdZ{JfJqGzIyh@iBkZnBu\\mFql@`@uDfGyB`^xAvIkDfY{Ct_@xArJuJyJe^aa@i`ANiFrBwAfUs@tOzFtDmCeEwc@eUsk@b@}PhV{PzQoFdWzEbEqBdFt@nLqFxKtG`AiAjBcHQyEcE_IqKaHzDkHxCQHmOiXuf@y@sKbB}CnLeDEsLjGyOwAgQlB|ArBiLpA_[nSy@xL}DfCoJuCcLJiG~F_ZzOo@xI}Ib@wO{AsPxC_OnSmLlJqTlGwFrTuMzH\\",
+    "polyline_precision": 6,
+    "bbox": [
+      1.8176664,
+      41.596348,
+      1.8350336,
+      41.6104141
+    ],
+    "start_lon_lat": [
+      1.8181224,
+      41.610376
+    ],
+    "end_lon_lat": [
+      1.8350187,
+      41.596348
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/can-macana-monestir-cami-arrel.webp"
+}

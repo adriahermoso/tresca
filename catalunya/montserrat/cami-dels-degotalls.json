@@ -1,0 +1,39 @@
+{
+  "id": "cami-dels-degotalls",
+  "name": "El Camí dels Degotalls",
+  "name_official": "El Camí dels Degotalls",
+  "ref": null,
+  "category": "itinerari",
+  "difficulty": "Fácil",
+  "description": "",
+  "start_point_text": "Monestir de Montserrat",
+  "distance_km": 1.1,
+  "duration_text": "15 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gbcjnAknxnBlC}WtGkMbMwMvS_o@dBeT[mPjEgStGsEdLoA`TdB`m@kHlBeB|Ryb@pNsr@|UgLfM}@zT}TpTq^pOwMdIqRrGme@bR{WxRka@|e@eQdFeFvCqHxDa_@",
+    "polyline_precision": 6,
+    "bbox": [
+      1.8316704,
+      41.5947361,
+      1.8402226999999998,
+      41.6010761
+    ],
+    "start_lon_lat": [
+      1.8316704,
+      41.6010761
+    ],
+    "end_lon_lat": [
+      1.8402226999999998,
+      41.5947361
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/cami-dels-degotalls.webp"
+}

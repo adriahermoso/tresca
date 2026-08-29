@@ -1,0 +1,39 @@
+{
+  "id": "montestir-cim-sant-jeroni",
+  "name": "Del Monestir al cim de Sant Jeroni",
+  "name_official": "Del Monestir al cim de Sant Jeroni",
+  "ref": null,
+  "category": "itinerari",
+  "difficulty": "Moderada",
+  "description": "",
+  "start_point_text": "la Colònia Puig",
+  "distance_km": 5.64,
+  "duration_text": "1 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "slcjnA}v{mBjJ~JhJT|GuIp`@ePpCgGp@oRbHsYfXwV|XyI`HuInB{JwCwe@zEaOtSaSnEMzTtGzScEvU}ZjBeMzUHvIoNlM_BbQmLvVgDhK{FvTk\\zUkKvGwPf`@iBfRgVn_@yPd]xCnL_FlHuInM_ErJ{LtBqOhFaK_A{Gt@sNpL_CvGcKt_@_KnKwI|Fo\\tEcAbBwDDoSlCoJnD}D|BwRxIaFrSt@NiRpA_EfMeHkAoS|K{Rq@qd@pJqx@bNcFfP|D`EkK^eJuE_h@b@wPiB}Mw@oh@cEwVwTio@hXuNvN_AzBeEdBhBaJiAohEc_Eb@oAqGwMxBfv@UdFkFxM`ClBxKrc@uArNoP_B}@fSmCeH{@b@g@dE`C|Fl@bR~DrDrJtWv@xIaCvGfKfP~@xPpF`@oApDpOvFrUjQLnBuCf@cQ}FoIL|DzFnEjA`KtVkDrRmIpBVbKuAIUlDsE}E{JvK_E~XuBG{FlF_Gz]yAkAsApCaJfBsOpLzDxMLjTyFpKyArK`AdWvCtDP~EgAhKwFdJk@pIbCzTsHfZkExDq@tLz@fOsFjVaJ|Ny@~IcKdJoKjBkPpIyL|AgI`L{KtEfCtHiJkBaHzAeMlNcF}CmFhAiWuDgJz@WzJnG|Oc@lMsG|FwFrKg@`FcEnEyCBkCdEOnF_HbGaWrMsLiIgPlCqOwA}D|NmHnG_LpTwGtHqc@hX}MbRkGvQ~AhE]rDwDlFz@lRkEp_@rDfKJnGaZ|IeSvWoIAgCbEd@dQoGv^iNnKcMfDaUuChBvDeFCxBbDgD`BnBtF",
+    "polyline_precision": 6,
+    "bbox": [
+      1.8167563,
+      41.5885921,
+      1.8366327,
+      41.60129820000001
+    ],
+    "start_lon_lat": [
+      1.8169592,
+      41.6012421
+    ],
+    "end_lon_lat": [
+      1.8169592,
+      41.6012421
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 1239473
+  },
+  "image": "imgs/montestir-cim-sant-jeroni.webp"
+}

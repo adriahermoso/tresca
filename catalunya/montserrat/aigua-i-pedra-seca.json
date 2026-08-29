@@ -1,0 +1,39 @@
+{
+  "id": "aigua-i-pedra-seca",
+  "name": "Itinerari de l'Aigua i la Pedra Seca",
+  "name_official": "Itinerari de l'Aigua i la Pedra Seca",
+  "ref": null,
+  "category": "itinerari",
+  "difficulty": "Fácil",
+  "description": "",
+  "start_point_text": "Rellinars",
+  "distance_km": 2.03,
+  "duration_text": "30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "_}dmnAawptB{Qoj@kY}Tg@wFjAuDhb@QhLpDtThS|GlQrEtb@p_@btAx]dk@~NjOzCdM_AhFfBvCfFTlFsG~EgAjXzW|USz[zh@|e@jQ~ZfBbWrQbTf|@zAzTgFzJo^`J}I|G_A`Gzr@db@hOb\\ZfZxVtO~GhY~FxLhc@bSzQtOza@dOtMvWnE|UrYfVtG~O|Jg@`DdDbXtt@bBrQ",
+    "polyline_precision": 6,
+    "bbox": [
+      1.9139004999999998,
+      41.6417093,
+      1.9272884,
+      41.651912
+    ],
+    "start_lon_lat": [
+      1.9260174999999997,
+      41.6511679
+    ],
+    "end_lon_lat": [
+      1.9139004999999998,
+      41.6417093
+    ]
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": 2929163
+  },
+  "image": "imgs/aigua-i-pedra-seca.webp"
+}
