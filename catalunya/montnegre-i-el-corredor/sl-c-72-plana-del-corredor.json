@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "w~xknA}edvCxBmEl@}AbEuDjCwArDd@pB_BxBcHBkIv@y@zHqI@AdFaAfEyClCwCMyDpCqEjAqAxCwEbDuGjDsGnByFtBuD|AmCf@uIhDgFuEqJ_JaOpDs@zFqAhDk@lAc@rDgBxFuCrAu@rBm@nDw@oDv@sBl@sAt@yFtCsDfBmAb@iDj@{FpAqDr@kKfIyW`ZiMzN_J`PkDfGyHzKcIdFoVdA{SjIiOvJqMhLaWpj@aId_@iElOeCz^oFvSN|g@lHxP~PfRdYtc@rJrT|AlKLzMnL~t@jBpX`A~ErAnBrA[hA}@~BiDr@oD~He]xG}Xh@kB|Bo@lF|@tHBvEcFtDmUuDkEkVgn@gL}ZiUiPsI}SmC}Gu@kWiAcHnEaIpDy@~Z}G|OcEzF{HpBkFh@}MsDiJIyH",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.4707508,
+      41.6266581,
+      2.4796182,
+      41.6308433
+    ],
+    "start_lon_lat": [
+      2.4766553,
+      41.6286682
+    ],
+    "end_lon_lat": [
+      2.4762648,
+      41.6286831
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 6390111
   },
   "image": "imgs/sl-c-72-plana-del-corredor.webp"
 }

@@ -12,16 +12,27 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "gn_jnAmpczCe@iAyDWcEX{E|@aF`AaEhA}Dv@gEh@yEx@yE`AyF`AaGfBwD|@oElAiEd@eEd@sFPeEj@iER}Ef@sEpAaFXkEMiErAeEp@oEj@kEv@}EXoE`@iEfA{EtAcFdAkE~@iEvA}DbAgFpAcE~AwDpByDnBoDzB_EnCoElCeE|BsDfCwDbDmD~BsDbDyD|C}CvCsDvBkEdBkDhCwFhB^nFcApF{AjF_BjFyAjFsAbGyAlFoAvGuAxF{BrFcAvFcBvFaBdFsBjF_BnFwAjFwAhGsBxH_B`HgBjGuAzFoAdFuAfGg@xF|AvDfC`EbCdE|BpDjCpDnCxDpCpDhCtErB`ExC`EfC`EhCbEhCjFXvFz@tFf@hGz@nGbApF~@dGk@fG}AnEcBfFkFrEkEjAiFnAuE^{D{@}ClEqBtF{CfFsBlFwAnFYpGcBfFmCrEcAdGHpG~AbFxBvFlCzEt@|FQtHx@~FzAfGZvFfAnFv@`GT|Fh@xFj@bF\\nGbAxF`AfFnAtEvBzFv@vFTcAbAo@|@qIJyHpA}Fd@eIlBmGx@xIv@rFhCrJrAjHxBvG`C~FfAlGz@bInBvHrCtE`CzC`FjHzCxDvDhDjDpEdDtC`ErE|D`ExEbFdEvCnD|CxDzCpErFlEzDpEdHfD|DjBxFf@jH?vG_ChGaBnGyApFsClDqDpDcDvEqBzFsBfFgBxEaB|FaBtFcAzFcBtE{BvEiBrEuBlEaCrEyBlEsA`Gf@~GfBhFnB~ErBzE`C|EpBtF`CdF~AhFj@vI\\jI?xFw@lF}AtF_CzEyBbFmBnEyAhFyAdGsAjG{AtFo@rFG|FAjHS~G[fGKjGSlGa@vFGdGd@bGbAbGjBdEnCnCjDtCfE`A`Ec@lE_@pEk@dE`@xEhAtEvBbEfD|B`EtA`FKnGiAxE_DfC{DdBqDxBmDdCoDnBqCtDsBlEiA`GeBhFoBtFsBlEaBzEyAfFiBzF}A`GaAbGExG^nGb@nGn@xGf@zGh@hG\\tG\\vGXxF`@tGi@pGmAjFmBnFkBvEyAhFe@vF?vF\\rGtApGrAxFpAxEjBdEn@lFTlGPjHHzGeApGyA`HiAdGk@vGLfHCxGDnHMhIEpGg@`HeBtE_DjD_FEuFOeEb@yDzA{CbEkCjEyCpDoEtAmEk@cEeAqEk@_EyAcEyA}Ew@uDsBoEiAgF^mCr@aEfEcD|DqClFiC`IsC~E{@rHkBtE}BlGkAjFoDdEqDhEwDjEuAvFsBrGeDdGcIy@eGy@uCnDgIRsF]eGnByF`BeE|C_ErE_EvEwDjFkCbFmBtFwBbF_AnIYhIm@nGJzHjAhIxAhHvBpEr@zGeCjFiEbD}AvGaAjIsB`F{CwCyFnAeFdDqBjH}D`GmDrGyBxF}BbJo@`HwHpAyGx@iGnBuFwA{D}@gEeDmFoA_HaAmE~@",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.508805,
+      41.59922,
+      2.541896,
+      41.6102
+    ],
+    "start_lon_lat": [
+      2.541847,
+      41.59922
+    ],
+    "end_lon_lat": [
+      2.509004,
+      41.6102
+    ]
   },
   "source": {
-    "provider": "OpenStreetMap",
-    "license": "ODbL",
-    "attribution": "© OpenStreetMap contributors",
+    "provider": "Wikiloc (user track based on official SL-C 76)",
+    "license": "User provided; verify commercial rights or prefer OSM equivalent",
+    "attribution": "Track from Wikiloc user nandomoneda",
     "relation_id": null
   },
   "image": "imgs/sl-c-76-cami-torrent-en-puig.webp"

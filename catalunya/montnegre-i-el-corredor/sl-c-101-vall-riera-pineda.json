@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "i~yknAq}ccDe@iBlHsCXxAZR~@j@_Ak@[SYyAmHrCd@hBd@~BaDvGaHzI_BhBaDfB_Ez@{@hD{QzNpQxh@{BlHqElMoIbXwAhDoCjEyEvBqc@`N{ItDuAj@mHnDcLpFwNlIyMtGgV`NyNvKgLvNiPn[gGtIoDxEqBhCwF~AqQ~@oK~AoHjEyJvIiOxMoErFoHvDiI~AoG~BwHtEqIxIwB~E_DjI_A~C_@vFf@tFvBbI~D~LhCvLvAvKnAlOfAjI^jCd@vB{\\vLsXxDqMb@wI`ByFdAuB`@uLlCsMbDeWfFwHfA}HVgVWooAi|C{w@yeBok@aUqMuFyJUgCpB{D`AaBfBiBlCwAbDsArAgDGeCn@}GzB_Dt@oBh@wDZoCbCyBnAqD`AaCp@yAvD_@zEzBxJzC`InBfF^xGm@lDx@xCwDVwDBkAlCv@lEnC|DxLrL|@|CVzNt@tJfBfI|F`KGrBWnGYxCoApBwElM}SbaAkBnG_FjLkAnBuEpHwWfTyXt]wDzHg@zCe@hLFrn@_AbHyBfF}IxMgIfIaJjE}GdDaFr@oCAeHqA{GqC_LsLwNyHgDyBaB^uBd@ZbBz@fEnD`Go@vG`AjApAbIMvD{BjJaItLsC|IoA|DYlAYlDIzC^~CeDzB_FfEaDvEeFdF_@|Hs@`Cu@|Ca@|CO`FWrE_AbEuClEyGbIaI|KmBvC{CdGaC~EuA|DM~CnCsAdA_BlGcIpG_D`KuBxD_@|Cn@xFzHn@z@jEzE`DnBnDHzCaBlBmBrBiEdAoA|@`@hAf@~@|FhAhH~AhItA|GfDdSdArKJbFf@hGbAvDlBnDfCxFrD~Hb@vDJ|CY`B_AhA_D\\aDa@uGd@uEB_DCcDh@cA`Ag@d@pA|KrAtCtG|AhCb@dFp@N`Fw@|YZfFv@`Jr@|DXdBxAxEbDdKrJ`RfFxGzB~IEnFU~FgApIEhHPpBrA`DhBtApDFhBm@~AqExAoFbBcHvCuREaFa@aIk@wFkCqIiBsDqC_Fa@sPlAcDlGkHhKiK~AoCx@aElAgGjBE`Ba@tBmAvA_BfC}ChCkEnCuErDqFxDgF|BiBd@p@i@jEgApIYfD_BnK]bS_BtXGxGdAp[HzLR|Ip@fIDrc@BnH?zHCzEdAtE`BbAlCnBd@^xAhAnAzBBtDM`J\\jBrAlDFlD_@nDsAnEyArGHbDN|ClBdHdCvDtDbDfDbAtB`@rDZ~COhDyAbD{A|Be@pBDvC`AlJnGrC`DtBvCxB|C~AxC|@v@eAxEi@`I}@fKQhGp@fGvA`DzAvBr@dArCbAfEj@pDHe@kCAkFX_EIsEPuGhBuOfBiE|BqFnAwCbCeEhE_FpDqDvBkDvAuBzAoCx@}Ch@yCRoGM}F_@qEe@oHA{GDwDJuB`@cB~@y@dBk@pOkBdBG~B}A|A{Cr@oAdBa@dAXt@nAnBRrA{@vC@rBLvD@|ETvEm@zEStCd@lB~@`JhAzDa@pEcElCiB~EeGfBcChB}DrDyN`@_DzAgFn@_Dl@}BJ_Eg@iHm@}AO_D^cCt@oD`AiBl@EbDYlE?dDN`Cn@~KrJbCvBjDh@KlNOxKa@`^`HoJ`G{Hn@uAZuEn@}Mf@_DrBaDzA_IpDsNbCaLbCyP~AkNnDqKbBaDnBqK`DaEnEeAfBn@nBfF~BhBbNA~H_Fj_@ad@jEwL`IwQdF}L|EeP~G_R`Ly\\pFaSBuHJyHB{Bb@_DdA}Bjf@qo@x\\ka@e@Ee@EqDCoGNeFBgFR}CN{C?mCBcDg@{BgAuA_A_CsCqBwBgBwByAcB}CeB}c@oQ}UaJm]{CoXkAiI`AoI`KoGdIc@t@}BdEeBBgBi@nOkhAxNqeAhOmfAr@wFpAcK|BkJr@eGvDiJbAeBnAyAfEkCjEyBzBaErXyDz\\wLe@wB_@kCgAkIoAmOwAwKiCwL_E_MwBcIg@uF^wF~@_D~CkIvB_FpIyIvHuEnG_ChI_BnHwDnEsFhOyMxJwInHkEnK_BpQ_AvF_BpBiCnDyEfGuIhPo[fLwNxNwKfVaNxMuGvNmIbLqFlHoDtAk@zIuDpc@aNxEwBnCkEvAiDnIcXpEmMzBmHqQyh@",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.6656759,
+      41.6289821,
+      2.6896395,
+      41.6470941
+    ],
+    "start_lon_lat": [
+      2.6895128,
+      41.6291728
+    ],
+    "end_lon_lat": [
+      2.6886611,
+      41.6299366
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 10395454
   },
   "image": "imgs/sl-c-101-vall-riera-pineda.webp"
 }

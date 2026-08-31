@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "quennAsom_DCLgApFmEtFe^r[_K~FmLhG{A`CaBxG_AzGuCzKoAzFqAbFyAvDuApN?zGaAlKsFxH{MjU_[fh@wHvDmC~AaIsAeKaFyBPsBbCaEjC|A|VGhFp@pDPjN~EpSxFpKtChF?zKzAbH{BjM{ApH{GzQ_ClFoCtEqAjNuApNcFrS}EtSuBrKp@zBbDfKdAbDzHnIxFrEvE`AnEdJ`FzDbCrF~AvFnEfCfD{LAgJtCkJjA}HDyJT{JjB{InCoCpGaHhLyB|IeChLcBzHvAfLrL~CpKxAzKvDfD~Dv@lIxBvLj@lImApFUjH|D|Cv@xFxBtCoClCyIkAwGwEaPmIsMoL{C}LhAqI{MqFuFoDeFcJiRiFaPcHmHwDcJiAaCkCC}FvA_SvP}KvHcD~AmB{AM}BhGyLrJwJ`BaHlDwNqAeTjD{UpEoM|GcKtE_M`JwFv\\iVdQiJ`JyIvA_Cz@iBrGiHdDiHpBwNcMcx@YsYeFd@aElD{FvC_DH_@_H~FyJtGkFvGoErGEtLq@xJ_OnK}IrFwPlQgZhMw_@DiUBcDeEyHwGUcKtEiE~CeBpB_@dCyAnGqArQ_JpD_NtIyGjGaEfCqCtB",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.6197858,
+      41.666531,
+      2.6301396,
+      41.6713221
+    ],
+    "start_lon_lat": [
+      2.6288736,
+      41.6679452
+    ],
+    "end_lon_lat": [
+      2.6288736,
+      41.6679452
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 7165940
   },
   "image": "imgs/sl-c-73-alzines-can-portell.webp"
 }

@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "qdymnAoxn|CrZqMzL@xIc@jJuBzKmUfBmROwLnCwLvJo[vBkKhCwMn@iHAoE}@iFiHwIgGwLVwQn@uEv@aG_AkGwB}Ng@eDw@cQoDwMw@mJwBwRiBoZFea@F}o@f@cMxDkFh@sCt@wDgBuDWkEj@mBbBsFNwOkAcGwAj@q@z@}AZoDw@qCwEmB_UsB}_@dBoXLiBzCkPfAc^fEyg@i@wa@eFqQaP}d@g@zDyAvGkAfFmBtBs@dCD~BbAtG|@zFxAtD~CxIt@bFf@vFInDc@lCsFbEmBdBy@dEo@nD?fDmAtFa@jBwEtBwIp@yGx@_J^{DhD}CrE}@bAaK~H{DwAoO_BiLxBuGxC[lDf@vEjBzJZpFKlI?xGbCxMtD|NL`GKlFGrFq@lFyNlM_@nC?nD]jEuAjAuA@qMM_L_AwBu@kDqCoDeDmHaEiFwA_Es@wCn@sBhA{AjD]dC\\jGpAhGjErWfEbRtCjHvA~F}@dC{BbAaLyAgLuF}K{BcNRmKZaMgAcMuCkKwE{OgK}IqL_IaLiDgBuDw@yDEwBp@iDfE{CnFuDvFiDbFcHtF_E~DsAzEw@`Gd@rNbDjRbC~KdCbLlBhPPvJIbJbAzExGfOzC`IhEzGt]zi@SdEqDnEu]`X_EbEa@`DZjFIpHy@jHeBpGeLzQ}E~LkBbF_BbEiDnGcCrCsJlGsJlDuCnEw@~GVbH|CzJhIzJxHvG|IjFpLbLhUvLfAzAbCfOrF~GvHfDvGpDnAfDIpEsDxEwDbCgPn@yVhT_LnIuEjD}@fGrCdHnI~JjEpHbJjSS~HuB`{@hApHpJj[XbXPvOvSvf@vAlGnB|I|BfKhClMEBfFtP^pBc@tDeBdBuJfDwQJqJgCsG|EwEqDuBoIuAwDaGoD_M_JcIl@gJzJoQtUgDcAkA}@k@eBqBwNg@_C}@_B{AyAqBs@sDY{DVaI~@}Br@qQvEqTdCqL`CoP~DgNsEmJgA}EdCuD|B}AxAm@jC@nC^tD\\~EA|AU|AmGtFiHjF_BfCoFzPiFzNm@nCeBvR]xEd@zKJbOyApFiBrCcD|B{DhBuVhC_EfD}@hCSlDB`FX`I@|FCxFVtHnAjG`BrEzB`E~C~HTlC]pDqCdEoFpGcJ~JmEtNqB|PzJgSdOgDlLsCzI{AdDhMaC|P[lVdDpJ|SdLpSbJnC`ZnPnUf^hYzNhLbGcAnOkDfJiCdFe@vDhRvJrCnFlA~E_BpPwFzIw@tJGzc@tBb_@b@rLyAz@vZfFtKJzWkBdr@jJlGzJcGlNcZuGaNxEmE|Gz@fUgZjQi[nGcIvNMlUyPtYy@`c@{TfVmAha@qOvA@pEiJh\\oSdMqHxIoLtXgJlXkDtAeGtDsGj@wDIoEyF_RsBoK]{PzGes@PuK]eJuA}KyC_IeG_IkCgB_GeBuEQeDj@kDfBaDbAaE{Bs@qCHcEfCmI`IaRhH}ZlF{c@|AcKd@kKs@}Iw@{JHiJrAqLz@mJCkM{BiMkHi[qHmY_CoO_@gQwAaGiCsE{CsGmCkJoCuLa@{DoCoMFaKlFgb@p@oNEwK}@oNsEsPwAyGt@mKl@{Kk@cNeAg^[aKKiDAeDhAmHzCiCxAaC",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.5635818,
+      41.6598472,
+      2.5928274,
+      41.672354
+    ],
+    "start_lon_lat": [
+      2.5803756,
+      41.6615294
+    ],
+    "end_lon_lat": [
+      2.5803756,
+      41.6615294
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 7081662
   },
   "image": "imgs/sl-c-103-montnegre-carener.webp"
 }

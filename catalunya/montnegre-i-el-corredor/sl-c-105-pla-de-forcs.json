@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "c{flnA}mj{CkDdBqDNyIlDkFz@{Hq@}KsCqMk@gTwD{K{PaQiH}[oGsM\\cUcDcSgP_[mNe^aN}JT_AxHjAbDdPbIdIhArIjHwE|RvCjEjK|HrWfPba@bQ~GnM`QhOhSxPq@tHiJtKiNn]kG[oXuKsPScSdJwSl[wJpI}HoMkUaEqNcAqGpC_[qFqEkKSuAcC{PuFIiYpQuGuCaLiO{IRcG~AgQdDyZsByWsOqEwN?s_@wCqS{BmByK{Au[qC_KpFeMdTuMzBwX{LyHmHNaU[eDcAkBqCVoHxCmIm@kKyJkUyMiQiEaSpIqN|HgNdBkDnA{Ab@wO|GZrE\\fF~JtPxBrDrP~Q~CtUcEl^mFz\\zMfSvV~H?|EaJnJod@x@iZv@sIkAgOcDs^nP{RqIeb@eTkW}Es@dJfHnWnAxPMva@Glx@wL|X}[xWuXpY_Y|Y{b@hUpG`XlFrI`HpI~EtNrKnJzKbApE`HBbDoDrEeIjEuDdJsC`VcAvIwCrF{E|CcGbEuLvQq@zBXlEjBfBxG|BnOlC`DtAzNhKjDhHrGpVNrE}@fXRzGnDdTZxEUfKwAzGuExMw@pDEtDnB|F`GnJh@rF_@tDkBpGgGxLoTp^g@nDb@|ChBhB|NhEhEbF`C`FzFxR|CxEbEdBpEKnEmApEWdC|@~AbBhAxCfArJAtEgAjDmDlE}@tF|@rDnJxIbSpZtDzDbCp@tF_@nFgB`A[`FIzBpAzKhSzBhGbD|HeCtKJnC~A``@tDj_@xKn_@jBlMt@|GOhGw@vIxAbLjA`GvCvFvIlFfDR~L`AfPbDjMz@xKvJh@l@vF|FfFxDbOjCnN]~PqBdN~BlWtJrDdHzChDxGjCzHtCUeJX}CpDsJvBiEAcD}Ak@yCPgEi@kCqB[_BHoDxAcFnDkGzA_FbBm]h@sD~@cAtAdAxBvDvCQ~G_JfDmHfDoNtBqEdJoM|BcG|DkTbGyNdFeGtNeJ`JkJ|LcKr\\ik@hLgQ~ToYdDyFhGwPhDsGbNeJ`C{B`A_EnAgFv@iZhDyWpAmLxIca@nAwDj\\sm@jLs_@fJkP|CwH~GsWfOgXpD_LfAoFlCs\\~@sFlA{ClLqOxUib@rPuTl]al@fIsKlEeKrAwHNuE?a`@d@_SCSk@iDgCiGmAmIpHaPfGwMhGyUf@kN~Ou\\|CsJ~J_i@hA{GrByCjJ`@rCiAhDiDxEyIbIsRpCeJxDiQ|D_]jKqu@dDsOlFaQhJyRtDyI",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.540195,
+      41.6357775,
+      2.5632143,
+      41.6526231
+    ],
+    "start_lon_lat": [
+      2.5617753,
+      41.6357775
+    ],
+    "end_lon_lat": [
+      2.5617753,
+      41.6357775
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 7077133
   },
   "image": "imgs/sl-c-105-pla-de-forcs.webp"
 }

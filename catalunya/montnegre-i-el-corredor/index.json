@@ -18,15 +18,6 @@
     "file": "gr-83-cami-del-nord.json"
   },
   {
-    "id": "gr-92-sender-del-mediterrani",
-    "name": "Sender del Mediterrani",
-    "ref": "GR 92",
-    "category": "GR",
-    "distance_km": 44.3,
-    "circular": false,
-    "file": "gr-92-sender-del-mediterrani.json"
-  },
-  {
     "id": "pr-c-146-de-calella-a-tordera",
     "name": "De Calella a Tordera",
     "ref": "PR-C 146",

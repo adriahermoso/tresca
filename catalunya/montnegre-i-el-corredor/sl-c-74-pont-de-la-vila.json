@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "uwdhnA{jksCbB~EbM|C`LfChMvCpPpHbLtGhSdO|TvGbGtFfUnAzGya@rOmMzDd@_F~WlBfRe@te@_AtUZvF}C^uFfBcKpMqQlTwAtBiMp@gD?cEpAiFzDmCv@y@VgB[aMs@}G{BgFu@uGHwDz@_CtBkBtDkApCc@hCSpFk@pGeG|RsAtC_E`EiGzIcCzGcB`@g@}AcAm@yBM{QgBmO~EoUvIaSQmSa@{E_Bg@gHbCmKjG_Ur@ef@sBoU_GmTuNmEmC{C{@_AcAgAlE{RrD{ZfFaVpB{KkEePjCsHrH{CzOyRlMkDxP]bPtClFgArGqAfJyJ~JmEkBzJlAjFdDz@lEaA`DoCfCcC",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.4265945,
+      41.5662935,
+      2.4315039,
+      41.5714075
+    ],
+    "start_lon_lat": [
+      2.4311662,
+      41.5691629
+    ],
+    "end_lon_lat": [
+      2.4313368,
+      41.568911
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 7166799
   },
   "image": "imgs/sl-c-74-pont-de-la-vila.webp"
 }

@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "g{donAmwkwClLgZx@{@dCf@nAVpVnO~HlQbWrQxNfLvPzD`S`CzVJfMuCdXkH`Ba@xMyAtPqTpGyB`OvBlHS`G_FvGoUfEaMnFwJzG{H|ByE|@yKbBkK~@aQfC{b@?eJdBiBfIf@~AJ|DnAtB~ClB~LhDbKvH`HlGh@~J^pFkAlJiBzRwCfEkMfDaH~AkBdFqD`GpB`Ej@\\uCzJgPtI{BhJt@vHbBvN{HvL_F`E?fRwIhMKnGIvIjEvHjFhHlMvA`IyBlV_KlPoSvOiL`LoEbOgBvOzAnLRtJNxKfDjS~A~F`EbP|AbHp@rCnCpDnC|CtIrKjC~EtC|BxOzKpXxTjEhBjJ`EnGwEbLsQf\\uh@~FuBfVgG`EcAvRmJhPwL~GuJvGoQvGyZpNy^fIwFvH?pDyAfDqAnH_D~P_BhGH~T_ApOaEwATxc@mNhAeAdEyDnEwFZeHImGk@{XgAoGcCsRReS{Jgt@kDaYcBcSuGe^eIcl@uDqTjAeLpDgZpAqKYgFoBmYGmPf@mLoC}j@f@kIv@uF_EeWiHmRGuJhF{`@IuHwCaE_CwNgBcR_@e[AiVpAkNnCgEhBjAdJ{KvGaGvJkFhJwGfK_E~JaAxCRvDiDfEsFvAyIfBwKnGkQhGwKfEmOvBcQvCaInFUhJt@~EuGf@kE~BaCnLjFpCtBdBS~ASdE~@~DDfCoBTkDeAwD}BkFqHyE_EuBk@}A\\{ExAgCbJmHBoCcAeA}FlBu@e@zG_MxGcUdE}SmJmFaHcCaAcBYe@MqDcF}BkBaDmDiEcC}E}R~RsTvXeLxG{JrE_JjIwHnRiIjFuJ`F_CEsIOgWmLyPuDyICeF}FaQe\\cJ{I{K_GyDxHgNbOeCvG_YuH}Xq^wNeXi[_AsPUeNwMkK_SkAcCcDAgCrD_DjI_E`F_H`KyKjF_I~@_E?mZbFLv@r@d@tUpAvDl@hD|CxCpLaBzIsEnJeIzDiOnPsB`EcG`Q}BlDsALoAuB?mLf@aHv@kGw@_DoC^_DjEqG`HwDjGoIaBgHiB_O`AyHyFsSpD_JfI}AhB_QlGqNrAgF`B_NwEiGkIoBwK_BaL_H~@wFvJ_HjDiFjEoIjEgL~BiIuAwF_CwFkC_H`EoDjGqEhC_I_BwPwJaFiD_JkCsH|@sCpJYdIlAzKnIlb@dBvElCbCpDfDdInLzXlVzOdPxAhDr@tI@pKq@lHqArCuBxAiC`@mHOwCw@yLeKeMg@{HqBwC@uB|CEpDrAzKnAfGrChH~I`Oz@fD|@zLWpEuAvB{BXyJ_C{E]_Bd@}@tBRjBvY`a@~ApA~@v@tBb@bEKnBu@tB{BpBqErFuNfBaNZy@`@iAnBo@lBf@hFtEtE|GjGtOdC~@vB{@vGgKfCkBzH{CtPeMpFmIfAuE`A{@v@p@YtI}@vUyEj^{AzFeK~MoJlV}QjUsDrEiJtJ{BbAmM|BcFdCyK|J{ArCq@`EXdEbBxBb@tB|@bEfBxHB~HmBnFcQxYwD`FuLfL_CxEZxBlBh@rJY~Eb@tCrBf@zCmBxFqGdFyDpG}@|CcDfQwEdOe@dIPz\\r@lDoAhVv@|J`GhNjA~L~AhLxBnGzCpCxJ~F`IhIrAhDT|C]vMgAdHaFfLsArDaHhRiGnS_GvOaBdHaAjE[nA_DbOgKz]qJbY_IjLgIjBqY`H{PrOgHlPgFvIgHjEiJtC_Nk@og@sSyQ{GsFScDbAaCy@sAsI_BcMwCeH{EsDcEaB}IGkF[aGBwGpBmFrCmEvDuAdB\\t@pPd_@nHlVjCrM",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.4949702,
+      41.665824,
+      2.5158124,
+      41.6844256
+    ],
+    "start_lon_lat": [
+      2.4969033,
+      41.6839075
+    ],
+    "end_lon_lat": [
+      2.4969033,
+      41.6839075
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 5579761
   },
   "image": "imgs/sl-c-79-vall-dolzinelles.webp"
 }

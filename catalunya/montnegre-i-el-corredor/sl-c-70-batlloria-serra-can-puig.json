@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "kjcqnA{zmzCzAyDtr@_i@jK_EzEMt~@_E{Boh@aLs_CyNgaCeNg|AuEo[{J}]{Fmd@sIig@eK_x@mDeXsFgKk@aImHqS{BqLh@cHtBeF|`@_RzBaAdH{ClFsIxBqQiBk`@gCge@YcAyQ}n@s@eCgPgk@aBcJ{EgL`WpD|Mj@fI_AhSmK|GsBnQmCzKeJ`JiKhK{G|\\aNfAc@~HmAnH{BrL}ArIYtC_FcDOaJZ}_@aIyGg@{Gn@uFGsHsB}CUkOrBq^nMqKjGcDlB_Dr@eEi@u@KwC{GzNFzPkUfHuPrJaQ~DsErYsLhEgChTkBdC{@vBiEz@sFm@sK}GaZg@eI@{Gv@_EhMaVzI{GlBcDhIc[fK_XdH{]hDaTjCgX_Bce@j@iQLoUlA}HhF_N|JwMj@eEQyGiCwRM{FRkFvB_M^y@z@iB~CgBfKiBtKt@bIIfNlBjMg@_AwI?aK~@kFvHuDnGkGtGjBzL_IsCyXmD}K{@aIfBgG|BmF_BsHyG{RiGgIuL{OyVyVcCqE_@xBvAxHNvG{@~H_@zK{CdDiEiB}EiNaI}QuEwGuIuFqK{DiMuEeGtAeKpEaFXwFcCcFsBiJpQuTxY{RlNkP~NaGrMmG`M_O`PqEtBqRtHqPbGkTk@mH{DsKkNuK{]uTsa@kSuHgUhEmW`J{GtKoKv_@aFnWgBj_@a@l\\ZzX`@fZcClNwHxIwHjDmHhBgPwAyOaGgQgK{MuFqYuHmEqBuXgMcK{IyG{F{CjN}]KMjDjBfI|IrQ`\\vz@bh@~sAbUnm@rb@jlAv`@bfA`d@bnAr[ddA~Xxw@lSdq@|Rru@vWbmAhPrr@DtF_F~PwA`PtDvSnBpQfBxOxAi@|IwFrFfKlDdXdK~w@rIhg@zFld@zJ|]tEn[dNf|AxNfaC`Lr_CzBnh@u~@~D{ELkK~Dur@~h@{AxD",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.547134,
+      41.7098044,
+      2.5761378,
+      41.7213261
+    ],
+    "start_lon_lat": [
+      2.547134,
+      41.7158939
+    ],
+    "end_lon_lat": [
+      2.547134,
+      41.7158939
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 10386461
   },
   "image": "imgs/sl-c-70-batlloria-serra-can-puig.webp"
 }

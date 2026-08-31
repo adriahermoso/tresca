@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "quennAsom_D{DsIu@wAi@}Di@sF_CqDsCyA{C_AeIsAkBBaKsXqBsFsCkMOqE`AeHvDsMbJyb@n@oJM_Gy@eGqBgGe_@_y@y@cDgGem@{K_\\zK~[fGdm@x@bDd_@~x@pBfGx@dGL~Fo@nJcJxb@wDrMaAdHNpErCjMpBrF`KrX[d@Ul@I|Br@jKkGhS}Rd^wR|]iIpQ_EvMsBjPaGlYsDx[sLz]kKrKgCnIo@pIvHwD~Zgh@zMkUrFyH`AmK?{GtAqNxAwDpAcFnA{FtC{K~@{G`ByGzAaClLiG~J_Gd^s[lEuFfAqFBM",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.6251608,
+      41.6679452,
+      2.63412,
+      41.6703598
+    ],
+    "start_lon_lat": [
+      2.6288736,
+      41.6679452
+    ],
+    "end_lon_lat": [
+      2.6288736,
+      41.6679452
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 7166821
   },
   "image": "imgs/sl-c-78-ermita-erola.webp"
 }

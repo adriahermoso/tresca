@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "gkhnnAueexCpNqIHp@\\|EhBjAdJ{KvGaGvJkFhJwGfK_E~JaAxCRvDiDfEsFvAyIfBwKnGkQhGwKfEmOvBcQvCaInFUhJt@~EuGf@kE~BaCnLjFpCtBdBS~ASdE~@~DDfCoBTkDeAwD}BkFp^fWfCjCzClDvIxJ|FrJpx@zrA~Opl@`LnXnLlXfDvFfAvRVjFhAvJ^vKg@`FiCtIhFvJ~FvKvC`O~CxTv@vLw@jHcCdHjP|HxR_CxL~BnIbRvGvQnJlMhMlMbDBbEDhN_AfJtBpBVlFp@zDm@jEIfDuB|C~@jG}@pOJ~MUxHkKtDqKPe@nCaCnIu@`P`H|IjH`F`EhIvIfH~G~FfE`c@e@`IInDkBfGkGpPe^nDwLfCkJnDmHfD_ExMaMfLaH`OaE~Ee@~MoAnANPB~QvBpSjK|DhD@_HhPss@j@qCjFgS~FuIpIaF~GkCp]yUjD_@dDErFgC`JsK~LgL|KmMfHiDpNaNdImCtLM~O?vFEzGrBbHpFxCpIvC`NfDxJNmBvCcPbDgNvEoDbDf@vCvHlAbGOzLtBlAbD{BfGoCnBKbHlApJtCVs@tC{LlCyJtEmCjGkFvDqFnFcUvBmK^uEGiI|EcJ~BkDvEm@tMxBx[fU`@eA~O}c@z@sH_EjE_GtFoFtBwAiB_AmNoA{\\_A{i@f@{_@n@cRf@mSoBmPaHmRwJaLwRcOyJ_CgJaCaGaGgE_JoByRwBmNoDwLqZ{a@yMwQiFuIkSuRu`@sQwIeI_HgLoPe@e`@gd@iLZyIyVmJev@im@kLmPbAiLoCiJkLuGoNiJxAeK}C}IEeE|@}PeEsL{@cGmBgDsC?{FWgM_CyIsBmFqAkIcCeEH{QmCoQ~BmTnAsPwIuJ_CqEqDwKaDgC}LmFcTqOeHgTkHsWwF_J_IkHyB{J}@`I{C~YtAlXqEzR|Adr@xE`\\kEv^}@f[wOvc@aApPcAzTsBrL{D|AuGFxIkNz@{IaBwWLsCV{EvD_S`Bk`@ReXcCqYeGg^iDmSaBcZwGiHgFaIoGwIgGkKyEmLwDaL_DaKgBi@_AbBNpHNlK~AvMh@tUlEzMhG`JvBtEf@jDw@tEoAtDyDvF_DjHoEtG_CvFGjH_AlNqFkFkHoEuA_CmCK}EpFeCfBiGrCqFhCuCxBsJ~AyF?_EDkHkAoF_DwFaDsEoBuFPiJ|A_JvBwEl@{CeHiByDeEyGwCoCoH_CcEMiGv@wI`E}AzEyIjNyM`MyBdCmDzDwJvDiJ`KsDvJaAiBwBcAeBcDo@oE}@oBs@aC]cDoAmCeCm@mB{@MoDbAkBI}AImEaDsCwDjDaDvGmJvXcCzLuCn_@bAnb@w@nQgBjDcEvCuDjFwKtBeB{ACoEjBoKZcHoBuCyDkAsFeBcFsFgGmGyFoBgI_AqHmFgFcGoBiFiCkD{IIaCb@iB~A_@|B|@xJrDhIdEpGfBdKlAzBrLzFlGhChDvAlDbKbHtNtFbTx@~ChFpLpChOw@`RrApPBbTCdK~Cvp@oCbVgC`JuGxKgMlNyMjLkJxEuB~FwDjJiCrGgGfK}R~RsTvXeLxG{JrE_JjIwHnReEvGgFbPyK~EgOz@yM_EgHk@wJdFm@l@cYzT{FvLr@fKFvWjC`NhGnXVpc@Vpq@RhBp@|B",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.5048265,
+      41.6477197,
+      2.5251808,
+      41.6697436
+    ],
+    "start_lon_lat": [
+      2.5099314,
+      41.6693156
+    ],
+    "end_lon_lat": [
+      2.5097572,
+      41.6694521
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 10399688
   },
   "image": "imgs/sl-c-110-vallgorguina-olzinelles.webp"
 }

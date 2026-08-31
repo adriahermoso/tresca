@@ -12,17 +12,28 @@
   "circular": true,
   "is_out_and_back": false,
   "track": {
-    "polyline": "",
+    "polyline": "mgylnAouaxC|CvBnNzJ`NtEjo@~b@tj@eFvKBrWFhO`AbGu@bDKlC`@nMvE|C|H`NzOvf@h`AbLrMhD`C|Dw@pA}AQeFeI_Uu@qN`D_KbGeCdO_DxGWdE~@lQhEpO|EvM^fHjC~IjGxCdIpAzOfBpFzGlD~CnErCtC~Q`K`G`KfFxPfAlN?tBZtHBjHFbOV`IfBjE~A`ChDF~D_@`LiHDdC_D~HkDfCuE|@e^eAiF~CwD~NrCpReCxFa]e@A~BjB`Ir@lLu@hJd@~Db@nAzBJvWvL~@fBn@pCpBbHfCbDhDjBl@dB?hFVpZbHtc@pH|aAB|QjDtVg@~DsAtIo@nEVnFYjEyApFOnGy@|LMhH`@fJjBbG@r@aAtAkBBkMIoBhBkH{BNcBwXfI{IjCyFdCsEVuEBiDv@s@x@gAfD_@dD[tDPvZmAdNxBhNrClObAxInDtQLjHyA|BmBeAuDmC_CqAqBeAeNHiCwL}I}H_DuFy@_P_DaP{AySj@iFqAoEgTiWsBwH`BiKOeKsEyMsIqKoEeAsBaDr@iSqAuEwDyCaC}IkCoBsSQyJcf@a@iU|GaTsByNa\\uc@oCyL_CiKwGaRcHwLsDeFkE{AwL_c@wFiGcScJaCc_@aCwPaLoVmEua@wA_r@G{@cAeSwI}KuLgj@mKo`@yK_^eH{GaO{CoImAwMr@s@aE|B}]pCkJ",
     "polyline_precision": 6,
-    "bbox": [],
-    "start_lon_lat": [],
-    "end_lon_lat": []
+    "bbox": [
+      2.494131,
+      41.6371815,
+      2.5081358,
+      41.6453273
+    ],
+    "start_lon_lat": [
+      2.5081358,
+      41.6451909
+    ],
+    "end_lon_lat": [
+      2.5081358,
+      41.6451909
+    ]
   },
   "source": {
     "provider": "OpenStreetMap",
     "license": "ODbL",
     "attribution": "© OpenStreetMap contributors",
-    "relation_id": null
+    "relation_id": 5578650
   },
   "image": "imgs/sl-c-77-can-vilar-sot-can-montasell.webp"
 }
