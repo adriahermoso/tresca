@@ -1,0 +1,40 @@
+
+{
+  "id": "test-2",
+  "name": "Casa-Gym (Marcel)",
+  "name_official": "Casa-Gym (Marcel)",
+  "ref": "test-2",
+  "category": "test",
+  "difficulty": "easy",
+  "description": "Ruta de casa al gimnasio (Marcel).",
+  "start_point_text": "Casa",
+  "distance_km": 0.8,
+  "duration_text": "10 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "gdzdnAeps`CxQkJBAgPwn@{Sk{@{@iDhFkC|x@ab@@AoCuJ_EcJyI}RDEED[u@dAs@GQc@}A?mELc@ZiAvAeCd@g@BHkB{FaAoCFErEyD?cCXQp@c@FEz[iWdQgNtGqHDHEIjDoCbCf@lDmC|[qXfPgNJqALwARQ~PeOV_DzAgAZ~@jNcL",
+    "polyline_precision": 6,
+    "bbox": [
+      2.124051,
+      41.511564,
+      2.130313,
+      41.514917
+    ],
+    "start_lon_lat": [
+      2.124051,
+      41.51458
+    ],
+    "end_lon_lat": [
+      2.130313,
+      41.511564
+    ]
+  },
+  "source": {
+    "provider": "gpx.studio",
+    "license": "Unknown",
+    "attribution": "Created with gpx.studio",
+    "relation_id": null
+  },
+  "image": "imgs/casa-gym-marcel.webp"
+}
