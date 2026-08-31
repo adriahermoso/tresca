@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-106-sant-corneli",
+  "name": "Sant Corneli",
+  "name_official": "SL-C 106 Sant Corneli",
+  "ref": "SL-C 106",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular que visita l’entorn de Sant Corneli i les zones forestals del Montnegre. Parteix del punt d’informació de Fogars. Marques blanques i verdes.",
+  "start_point_text": "Punt d’informació de Fogars de Montclús / Fogars",
+  "distance_km": 9.3,
+  "duration_text": "3 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-106-sant-corneli.webp"
+}

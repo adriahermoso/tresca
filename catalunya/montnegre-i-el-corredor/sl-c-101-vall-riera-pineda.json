@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-101-vall-riera-pineda",
+  "name": "La vall de la riera de Pineda",
+  "name_official": "SL-C 101 La vall de la riera de Pineda",
+  "ref": "SL-C 101",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari que explora la vall de la riera de Pineda, amb els seus boscos de ribera i el patrimoni rural. Parteix de l’església de Pineda. Marques blanques i verdes.",
+  "start_point_text": "Església de Pineda de Mar",
+  "distance_km": 9.1,
+  "duration_text": "3 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-101-vall-riera-pineda.webp"
+}

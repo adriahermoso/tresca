@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-76-cami-torrent-en-puig",
+  "name": "Camí del torrent d’en Puig al Corral",
+  "name_official": "SL-C 76 Camí del torrent d’en Puig al Corral",
+  "ref": "SL-C 76",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari que segueix el torrent d’en Puig fins al Corral, pel vessant d’Arenys de Munt. Combina corriols de fons de vall i pistes forestals. Marques blanques i verdes.",
+  "start_point_text": "Arenys de Munt",
+  "distance_km": 4.0,
+  "duration_text": "1 h 30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-76-cami-torrent-en-puig.webp"
+}

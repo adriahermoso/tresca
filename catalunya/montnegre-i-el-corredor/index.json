@@ -1,1 +1,191 @@
-
+[
+  {
+    "id": "gr-5-sender-dels-miradors",
+    "name": "Sender dels miradors",
+    "ref": "GR 5",
+    "category": "GR",
+    "distance_km": 23.7,
+    "circular": false,
+    "file": "gr-5-sender-dels-miradors.json"
+  },
+  {
+    "id": "gr-83-cami-del-nord",
+    "name": "Camí del nord o del Canigó",
+    "ref": "GR 83",
+    "category": "GR",
+    "distance_km": 38.2,
+    "circular": false,
+    "file": "gr-83-cami-del-nord.json"
+  },
+  {
+    "id": "gr-92-sender-del-mediterrani",
+    "name": "Sender del Mediterrani",
+    "ref": "GR 92",
+    "category": "GR",
+    "distance_km": 44.3,
+    "circular": false,
+    "file": "gr-92-sender-del-mediterrani.json"
+  },
+  {
+    "id": "pr-c-146-de-calella-a-tordera",
+    "name": "De Calella a Tordera",
+    "ref": "PR-C 146",
+    "category": "PR-C",
+    "distance_km": 23.5,
+    "circular": false,
+    "file": "pr-c-146-de-calella-a-tordera.json"
+  },
+  {
+    "id": "pr-c-216-canyamars-santuari-del-corredor",
+    "name": "De Canyamars al Santuari del Corredor",
+    "ref": "PR-C 216",
+    "category": "PR-C",
+    "distance_km": 15.4,
+    "circular": true,
+    "file": "pr-c-216-canyamars-santuari-del-corredor.json"
+  },
+  {
+    "id": "sl-c-70-batlloria-serra-can-puig",
+    "name": "De la Batllòria a la serra de Can Puig",
+    "ref": "SL-C 70",
+    "category": "SL-C",
+    "distance_km": 8.1,
+    "circular": true,
+    "file": "sl-c-70-batlloria-serra-can-puig.json"
+  },
+  {
+    "id": "sl-c-71-dolmen-pedra-gentil",
+    "name": "El dolmen de Pedra Gentil",
+    "ref": "SL-C 71",
+    "category": "SL-C",
+    "distance_km": 6.5,
+    "circular": true,
+    "file": "sl-c-71-dolmen-pedra-gentil.json"
+  },
+  {
+    "id": "sl-c-72-plana-del-corredor",
+    "name": "La plana del Corredor",
+    "ref": "SL-C 72",
+    "category": "SL-C",
+    "distance_km": 2.2,
+    "circular": true,
+    "file": "sl-c-72-plana-del-corredor.json"
+  },
+  {
+    "id": "sl-c-73-alzines-can-portell",
+    "name": "Les alzines de Can Portell",
+    "ref": "SL-C 73",
+    "category": "SL-C",
+    "distance_km": 3.5,
+    "circular": true,
+    "file": "sl-c-73-alzines-can-portell.json"
+  },
+  {
+    "id": "sl-c-74-pont-de-la-vila",
+    "name": "El pont de la Vila",
+    "ref": "SL-C 74",
+    "category": "SL-C",
+    "distance_km": 1.9,
+    "circular": true,
+    "file": "sl-c-74-pont-de-la-vila.json"
+  },
+  {
+    "id": "sl-c-76-cami-torrent-en-puig",
+    "name": "Camí del torrent d’en Puig al Corral",
+    "ref": "SL-C 76",
+    "category": "SL-C",
+    "distance_km": 4.0,
+    "circular": true,
+    "file": "sl-c-76-cami-torrent-en-puig.json"
+  },
+  {
+    "id": "sl-c-77-can-vilar-sot-can-montasell",
+    "name": "Can Vilar i el sot de Can Montasell",
+    "ref": "SL-C 77",
+    "category": "SL-C",
+    "distance_km": 3.9,
+    "circular": true,
+    "file": "sl-c-77-can-vilar-sot-can-montasell.json"
+  },
+  {
+    "id": "sl-c-78-ermita-erola",
+    "name": "L’ermita de l’Erola",
+    "ref": "SL-C 78",
+    "category": "SL-C",
+    "distance_km": 1.7,
+    "circular": true,
+    "file": "sl-c-78-ermita-erola.json"
+  },
+  {
+    "id": "sl-c-79-vall-dolzinelles",
+    "name": "La Vall d’Olzinelles",
+    "ref": "SL-C 79",
+    "category": "SL-C",
+    "distance_km": 9.5,
+    "circular": true,
+    "file": "sl-c-79-vall-dolzinelles.json"
+  },
+  {
+    "id": "sl-c-80-dolmen-ca-larenes",
+    "name": "El dolmen de Ca l’Arenes",
+    "ref": "SL-C 80",
+    "category": "SL-C",
+    "distance_km": 9.8,
+    "circular": true,
+    "file": "sl-c-80-dolmen-ca-larenes.json"
+  },
+  {
+    "id": "sl-c-101-vall-riera-pineda",
+    "name": "La vall de la riera de Pineda",
+    "ref": "SL-C 101",
+    "category": "SL-C",
+    "distance_km": 9.1,
+    "circular": true,
+    "file": "sl-c-101-vall-riera-pineda.json"
+  },
+  {
+    "id": "sl-c-102-les-torrenteres",
+    "name": "Les Torrenteres",
+    "ref": "SL-C 102",
+    "category": "SL-C",
+    "distance_km": 9.9,
+    "circular": true,
+    "file": "sl-c-102-les-torrenteres.json"
+  },
+  {
+    "id": "sl-c-103-montnegre-carener",
+    "name": "Montnegre carener",
+    "ref": "SL-C 103",
+    "category": "SL-C",
+    "distance_km": 8.0,
+    "circular": true,
+    "file": "sl-c-103-montnegre-carener.json"
+  },
+  {
+    "id": "sl-c-105-pla-de-forcs",
+    "name": "El pla de Forcs",
+    "ref": "SL-C 105",
+    "category": "SL-C",
+    "distance_km": 8.0,
+    "circular": true,
+    "file": "sl-c-105-pla-de-forcs.json"
+  },
+  {
+    "id": "sl-c-106-sant-corneli",
+    "name": "Sant Corneli",
+    "ref": "SL-C 106",
+    "category": "SL-C",
+    "distance_km": 9.3,
+    "circular": true,
+    "file": "sl-c-106-sant-corneli.json"
+  },
+  {
+    "id": "sl-c-110-vallgorguina-olzinelles",
+    "name": "De Vallgorguina a Olzinelles",
+    "ref": "SL-C 110",
+    "category": "SL-C",
+    "distance_km": 8.8,
+    "circular": true,
+    "file": "sl-c-110-vallgorguina-olzinelles.json"
+  }
+]

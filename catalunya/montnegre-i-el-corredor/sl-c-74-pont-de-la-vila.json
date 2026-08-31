@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-74-pont-de-la-vila",
+  "name": "El pont de la Vila",
+  "name_official": "SL-C 74 El pont de la Vila",
+  "ref": "SL-C 74",
+  "category": "SL-C",
+  "difficulty": "Fàcil",
+  "description": "Itinerari curt i accessible des del Parc Forestal de Mataró que porta al pont de la Vila. Ideal per a una passejada ràpida pel vessant litoral del Corredor. Marques blanques i verdes.",
+  "start_point_text": "Roca del Bon Dia – Parc Forestal (Mataró)",
+  "distance_km": 1.9,
+  "duration_text": "50 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-74-pont-de-la-vila.webp"
+}

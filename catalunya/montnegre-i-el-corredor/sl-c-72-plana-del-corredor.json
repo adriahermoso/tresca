@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-72-plana-del-corredor",
+  "name": "La plana del Corredor",
+  "name_official": "SL-C 72 La plana del Corredor",
+  "ref": "SL-C 72",
+  "category": "SL-C",
+  "difficulty": "Fàcil",
+  "description": "Itinerari curt i circular al voltant del Santuari del Corredor, per la plana culminant de la serra. Ideal per a famílies i per conèixer la vegetació, la fauna i la geologia del Corredor. Marques blanques i verdes.",
+  "start_point_text": "Santuari del Corredor",
+  "distance_km": 2.2,
+  "duration_text": "45 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-72-plana-del-corredor.webp"
+}

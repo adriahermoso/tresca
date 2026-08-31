@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-103-montnegre-carener",
+  "name": "Montnegre carener",
+  "name_official": "SL-C 103 Montnegre carener",
+  "ref": "SL-C 103",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular per la carena del Montnegre des de Sant Martí de Montnegre. Puja al Turó Gros (punt més alt del massís) i baixa passant per Santa Maria de Montnegre i les bagues de castanyers. Combina pujada forta inicial amb trams plans i baixada. Marques blanques i verdes.",
+  "start_point_text": "Sant Martí de Montnegre (Sant Celoni)",
+  "distance_km": 8.0,
+  "duration_text": "3 h 15 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-103-montnegre-carener.webp"
+}

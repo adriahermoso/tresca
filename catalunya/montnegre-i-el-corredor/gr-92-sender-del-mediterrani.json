@@ -1,0 +1,28 @@
+{
+  "id": "gr-92-sender-del-mediterrani",
+  "name": "Sender del Mediterrani",
+  "name_official": "GR 92 Sender del Mediterrani. De Tordera a Llinars del Vallès",
+  "ref": "GR 92",
+  "category": "GR",
+  "difficulty": "Mitjana-alta",
+  "description": "Tram del GR 92 (Sender del Mediterrani / E-10) que travessa de nord a sud el Parc del Montnegre i el Corredor entre Tordera i Llinars del Vallès. Uneix el litoral amb l’interior a través de boscos densos, carenes i rieres. Sender de gran recorregut amb marques blanques i vermelles.",
+  "start_point_text": "Tordera (entrada al parc)",
+  "distance_km": 44.3,
+  "duration_text": "14 h 30 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/gr-92-sender-del-mediterrani.webp"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-70-batlloria-serra-can-puig",
+  "name": "De la Batllòria a la serra de Can Puig",
+  "name_official": "SL-C 70 De la Batllòria a la serra de Can Puig",
+  "ref": "SL-C 70",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular senyalitzat que uneix el veïnat de la Batllòria amb la serra de Can Puig. Recorre pistes i corriols per boscos mediterranis del Corredor, amb desnivell moderat. Ideal per a públic familiar. Marques blanques i verdes.",
+  "start_point_text": "La Batllòria",
+  "distance_km": 8.1,
+  "duration_text": "2 h 45 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-70-batlloria-serra-can-puig.webp"
+}

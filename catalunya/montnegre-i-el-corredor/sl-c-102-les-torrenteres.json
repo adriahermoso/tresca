@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-102-les-torrenteres",
+  "name": "Les Torrenteres",
+  "name_official": "SL-C 102 Les Torrenteres",
+  "ref": "SL-C 102",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular que baixa i puja per les Torrenteres, unes fondalades humides d’alt valor ecològic del Montnegre. Parteix del parc Puigvert de Sant Cebrià de Vallalta. Marques blanques i verdes.",
+  "start_point_text": "Parc Puigvert (Sant Cebrià de Vallalta)",
+  "distance_km": 9.9,
+  "duration_text": "4 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-102-les-torrenteres.webp"
+}

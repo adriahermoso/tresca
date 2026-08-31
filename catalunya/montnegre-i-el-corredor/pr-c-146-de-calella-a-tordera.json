@@ -1,0 +1,28 @@
+{
+  "id": "pr-c-146-de-calella-a-tordera",
+  "name": "De Calella a Tordera",
+  "name_official": "PR-C 146 De Calella a Tordera",
+  "ref": "PR-C 146",
+  "category": "PR-C",
+  "difficulty": "Mitjana",
+  "description": "Sender de petit recorregut que uneix Calella amb Tordera travessant el massís del Montnegre. Recorre pistes forestals i corriols amb desnivell acumulat notable, passant per zones d’interès natural i cultural. Marques blanques i grogues del PR.",
+  "start_point_text": "Calella",
+  "distance_km": 23.5,
+  "duration_text": "8 h",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/pr-c-146-de-calella-a-tordera.webp"
+}

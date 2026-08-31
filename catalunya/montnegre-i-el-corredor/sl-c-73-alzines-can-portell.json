@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-73-alzines-can-portell",
+  "name": "Les alzines de Can Portell",
+  "name_official": "SL-C 73 Les alzines de Can Portell",
+  "ref": "SL-C 73",
+  "category": "SL-C",
+  "difficulty": "Fàcil",
+  "description": "Itinerari curt que permet conèixer les alzines monumentals de Can Portell i l’entorn forestal del Montnegre. Adequat per a passejades familiars. Marques blanques i verdes.",
+  "start_point_text": "Hortsavinyà / Can Portell",
+  "distance_km": 3.5,
+  "duration_text": "1 h 15 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-73-alzines-can-portell.webp"
+}

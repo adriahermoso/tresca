@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-71-dolmen-pedra-gentil",
+  "name": "El dolmen de Pedra Gentil",
+  "name_official": "SL-C 71 El dolmen de Pedra Gentil",
+  "ref": "SL-C 71",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular des de Vallgorguina que porta al dolmen de Pedra Gentil, un dels megalits més coneguts del parc. Passa per la riera de Vallgorguina, el GR 92, el pla de Forn i el camí de Can Pradell. Camins de terra i pistes amples. Marques blanques i verdes.",
+  "start_point_text": "Carrer del Montseny (Vallgorguina)",
+  "distance_km": 6.5,
+  "duration_text": "2 h 15 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-71-dolmen-pedra-gentil.webp"
+}

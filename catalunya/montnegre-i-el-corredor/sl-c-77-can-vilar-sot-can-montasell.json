@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-77-can-vilar-sot-can-montasell",
+  "name": "Can Vilar i el sot de Can Montasell",
+  "name_official": "SL-C 77 Can Vilar i el sot de Can Montasell",
+  "ref": "SL-C 77",
+  "category": "SL-C",
+  "difficulty": "Fàcil",
+  "description": "Itinerari curt i circular pel sot de Can Montasell i l’entorn de Can Vilar. Ideal per a una passejada familiar pel cor del parc. Marques blanques i verdes.",
+  "start_point_text": "Can Vilar",
+  "distance_km": 3.9,
+  "duration_text": "50 min – 1 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-77-can-vilar-sot-can-montasell.webp"
+}

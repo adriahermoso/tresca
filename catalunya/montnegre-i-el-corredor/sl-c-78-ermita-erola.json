@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-78-ermita-erola",
+  "name": "L’ermita de l’Erola",
+  "name_official": "SL-C 78 L’ermita de l’Erola",
+  "ref": "SL-C 78",
+  "category": "SL-C",
+  "difficulty": "Fàcil",
+  "description": "Itinerari molt curt des del Centre d’Informació d’Hortsavinyà fins a l’ermita de l’Erola. Ideal per a una visita ràpida al patrimoni religiós i natural del Montnegre. Marques blanques i verdes.",
+  "start_point_text": "Centre d’Informació d’Hortsavinyà (Tordera)",
+  "distance_km": 1.7,
+  "duration_text": "30 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-78-ermita-erola.webp"
+}

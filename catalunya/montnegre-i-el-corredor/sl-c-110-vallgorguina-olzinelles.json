@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-110-vallgorguina-olzinelles",
+  "name": "De Vallgorguina a Olzinelles",
+  "name_official": "SL-C 110 De Vallgorguina a Olzinelles",
+  "ref": "SL-C 110",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari que uneix Vallgorguina amb la vall d’Olzinelles, passant per zones forestals i el veïnat de Can Puigdemir. Ideal per descobrir el patrimoni natural i rural entre els dos massissos. Marques blanques i verdes.",
+  "start_point_text": "Pista poliesportiva / final del carrer Montnegre (Vallgorguina)",
+  "distance_km": 8.8,
+  "duration_text": "2 h 50 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-110-vallgorguina-olzinelles.webp"
+}

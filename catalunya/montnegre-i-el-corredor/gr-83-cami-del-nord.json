@@ -1,0 +1,28 @@
+{
+  "id": "gr-83-cami-del-nord",
+  "name": "Camí del nord o del Canigó",
+  "name_official": "GR 83 Camí del nord o del Canigó. De Mataró a Sant Celoni",
+  "ref": "GR 83",
+  "category": "GR",
+  "difficulty": "Mitjana-alta",
+  "description": "Tram del GR 83 que uneix Mataró amb Sant Celoni travessant el massís del Corredor i el Montnegre. Recorre pistes i corriols forestals amb desnivell acumulat important, passant per zones d’alzinar, pinedes i colls amb vistes al mar i a l’interior. Marques blanques i vermelles del GR.",
+  "start_point_text": "Mataró (inici del tram al parc)",
+  "distance_km": 38.2,
+  "duration_text": "11 h 50 min",
+  "circular": false,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/gr-83-cami-del-nord.webp"
+}

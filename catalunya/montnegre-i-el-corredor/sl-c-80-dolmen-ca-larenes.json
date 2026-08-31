@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-80-dolmen-ca-larenes",
+  "name": "El dolmen de Ca l’Arenes",
+  "name_official": "SL-C 80 El dolmen de Ca l’Arenes",
+  "ref": "SL-C 80",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular des de Can Bosc (Dosrius) que visita el dolmen de Ca l’Arenes, el pou de glaç, la font del Ferro, el Santuari del Corredor i el mirador. Combina patrimoni megalític, històric i vistes. Marques blanques i verdes.",
+  "start_point_text": "Aparcament de Can Bosc (Dosrius)",
+  "distance_km": 9.8,
+  "duration_text": "3 h 20 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-80-dolmen-ca-larenes.webp"
+}

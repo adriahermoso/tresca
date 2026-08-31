@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-79-vall-dolzinelles",
+  "name": "La Vall d’Olzinelles",
+  "name_official": "SL-C 79 La Vall d’Olzinelles",
+  "ref": "SL-C 79",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular que explora la vall d’Olzinelles, un racó fresc i frondós del vessant oest del Montnegre. Parteix de la masia de Can Draper i segueix la riera d’Olzinelles fins a l’ermita de Sant Esteve, passant pel pont de Can Plana, el pollancre monumental, el pou de glaç i el sot de la Remor. Camins amples i corriols de pendent suau, amb plafons interpretatius. Marques blanques i verdes.",
+  "start_point_text": "Masia de Can Draper (Sant Celoni)",
+  "distance_km": 9.5,
+  "duration_text": "2 h 45 min – 3 h",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-79-vall-dolzinelles.webp"
+}

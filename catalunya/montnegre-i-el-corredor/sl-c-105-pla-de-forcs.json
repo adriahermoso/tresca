@@ -1,0 +1,28 @@
+{
+  "id": "sl-c-105-pla-de-forcs",
+  "name": "El pla de Forcs",
+  "name_official": "SL-C 105 El pla de Forcs",
+  "ref": "SL-C 105",
+  "category": "SL-C",
+  "difficulty": "Moderada",
+  "description": "Itinerari circular des de Sant Iscle de Vallalta que arriba al pla de Forcs, un coll estratègic amb bones vistes. Passa per Can Vives de la Cortada i enllaça amb trams del GR 5. Marques blanques i verdes.",
+  "start_point_text": "Sant Iscle de Vallalta",
+  "distance_km": 8.0,
+  "duration_text": "2 h 40 min",
+  "circular": true,
+  "is_out_and_back": false,
+  "track": {
+    "polyline": "",
+    "polyline_precision": 6,
+    "bbox": [],
+    "start_lon_lat": [],
+    "end_lon_lat": []
+  },
+  "source": {
+    "provider": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "relation_id": null
+  },
+  "image": "imgs/sl-c-105-pla-de-forcs.webp"
+}
