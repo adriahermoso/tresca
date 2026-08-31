@@ -15,6 +15,24 @@
       2.130356,
       41.514707
     ],
-    "image": "imgs/test-1.webp"
+    "image": "test1.webp"
+  },
+  {
+    "id": "casa-gym-marcel",
+    "name": "Casa-Gym (Marcel)",
+    "ref": "test-2",
+    "category": "test",
+    "difficulty": "easy",
+    "distance_km": 0.8,
+    "duration_text": "10 min",
+    "circular": false,
+    "is_out_and_back": false,
+    "bbox": [
+      2.124051,
+      41.511564,
+      2.130313,
+      41.514917
+    ],
+    "image": "imgs/casa-gym-marcel.webp"
   }
 ]
