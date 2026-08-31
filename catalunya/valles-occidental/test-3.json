@@ -1,0 +1,39 @@
+{
+  "id": "test-3",
+  "name": "Test 3",
+  "name_official": "Test 3",
+  "ref": "test-3",
+  "category": "test",
+  "difficulty": "easy",
+  "description": "Test 3 route (out and back).",
+  "start_point_text": "Start",
+  "distance_km": 1.8,
+  "duration_text": "20 min",
+  "circular": true,
+  "is_out_and_back": true,
+  "track": {
+    "polyline": "}bzdnA_qs`C??nPqIBAgPwn@qUg`AEMli@oXzU_MAEmCoJuPw_@dAs@k@oB?{A?qBh@mB|BmDgBqFyAyEr@_DtF_E@AZj@`n@qf@tGqHhDqCnCl@hr@kl@JqALwArQwOV_DzAgAZ~@fSiPxIgHfAr@kJjHu[jXyO|MKpAqFtEwj@te@oCm@iDpCuGpHan@pf@[k@{FbEo@|CiDbAqAHkASiCgBEEwAhBgE|DjAiA^dAmAt@Td@`@hCMpCi@rCmEzC{KtHaOzHkFrB}FzBvBpMlGgC~@zDpNzk@jVpbAfPvn@uBfA??oLbG",
+    "polyline_precision": 6,
+    "bbox": [
+      2.124064,
+      41.511277,
+      2.130528,
+      41.515403
+    ],
+    "start_lon_lat": [
+      2.124064,
+      41.514559
+    ],
+    "end_lon_lat": [
+      2.124068,
+      41.514552
+    ]
+  },
+  "source": {
+    "provider": "gpx.studio",
+    "license": "Unknown",
+    "attribution": "Created with gpx.studio",
+    "relation_id": null
+  },
+  "image": "imgs/test-3.webp"
+}
