@@ -34,5 +34,23 @@
       41.514917
     ],
     "image": "imgs/casa-gym-marcel.webp"
+  },
+  {
+    "id": "test-3",
+    "name": "Casa - gym marcel circular",
+    "ref": "test-3",
+    "category": "test",
+    "difficulty": "easy",
+    "distance_km": 1.8,
+    "duration_text": "20 min",
+    "circular": true,
+    "is_out_and_back": true,
+    "bbox": [
+      2.124064,
+      41.511277,
+      2.130528,
+      41.515403
+    ],
+    "image": "imgs/test-3.webp"
   }
 ]
