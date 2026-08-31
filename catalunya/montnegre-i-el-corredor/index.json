@@ -9,15 +9,6 @@
     "file": "gr-5-sender-dels-miradors.json"
   },
   {
-    "id": "gr-83-cami-del-nord",
-    "name": "Camí del nord o del Canigó",
-    "ref": "GR 83",
-    "category": "GR",
-    "distance_km": 38.2,
-    "circular": false,
-    "file": "gr-83-cami-del-nord.json"
-  },
-  {
     "id": "pr-c-146-de-calella-a-tordera",
     "name": "De Calella a Tordera",
     "ref": "PR-C 146",
@@ -25,15 +16,6 @@
     "distance_km": 23.5,
     "circular": false,
     "file": "pr-c-146-de-calella-a-tordera.json"
-  },
-  {
-    "id": "pr-c-216-canyamars-santuari-del-corredor",
-    "name": "De Canyamars al Santuari del Corredor",
-    "ref": "PR-C 216",
-    "category": "PR-C",
-    "distance_km": 15.4,
-    "circular": true,
-    "file": "pr-c-216-canyamars-santuari-del-corredor.json"
   },
   {
     "id": "sl-c-70-batlloria-serra-can-puig",
