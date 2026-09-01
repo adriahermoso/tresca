@@ -11,10 +11,16 @@
     {
       "path": "catalunya/montnegre-i-el-corredor",
       "display_name": "Montnegre i el corredor"
-    },
+    }
+  ],
+  "emblematic_paths": [
     {
       "path": "galicia/camino-santiago/camino-frances",
       "display_name": "Camino de Santiago"
+    },
+    {
+      "path": "catalunya/cami-de-ronda",
+      "display_name": "Camí de ronda"
     }
   ]
 }
