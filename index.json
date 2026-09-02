@@ -2,25 +2,27 @@
   "regions": [
     {
       "path": "catalunya/montseny",
-      "display_name": "Montseny"
+      "display_name": "Montseny",
+      "image": "catalunya/montseny/imgs/montseny-cover.webp"
     },
     {
       "path": "catalunya/valles-occidental",
-      "display_name": "Vallès Occidental"
+      "display_name": "Vallès Occidental",
+      "image": "catalunya/valles-occidental/imgs/valles-occidental-cover.webp"
     },
     {
       "path": "catalunya/montnegre-i-el-corredor",
-      "display_name": "Montnegre i el corredor"
+      "display_name": "Montnegre i el corredor",
+      "image": "catalunya/montnegre-i-el-corredor/imgs/montnegre-i-el-corredor-cover.webp"
     }
   ],
   "emblematic_paths": [
     {
       "path": "galicia/camino-santiago/camino-frances",
-      "display_name": "Camino de Santiago"
-    },
-    {
-      "path": "catalunya/cami-de-ronda",
-      "display_name": "Camí de ronda"
+      "display_name": "Camino de Santiago",
+      "icon": "ic_camino_santiago.xml",
+      "bg_color": "030C75",
+      "ic_color": "FFC500"
     }
   ]
 }
