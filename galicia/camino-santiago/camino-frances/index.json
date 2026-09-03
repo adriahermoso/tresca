@@ -8,7 +8,7 @@
     "stage_number": 1,
     "route_id": "camino-frances",
     "route_name": "Camino Francés",
-    "image": "stage-001.webp"
+    "image": "imgs/saint-jean-pied-de-port.webp"
   },
   {
     "id": "stage-002_larroinea_to_eiheraberri",
@@ -19,7 +19,7 @@
     "stage_number": 2,
     "route_id": "camino-frances",
     "route_name": "Camino Francés",
-    "image": "stage-002.webp"
+    "image": "imgs/saint-jean-pied-de-port.webp"
   },
   {
     "id": "stage-003_eiheraberri_to_huntto",
