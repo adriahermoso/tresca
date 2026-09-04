@@ -1,8 +1,8 @@
 # tresca
-Trail route data (JSON + images) for the Tresca hiking app. Proprietary content, not licensed for reuse or redistribution.
+Dades de ruta de senderisme (JSON + imatges) per a l'aplicació de senderisme Tresca. Contingut propietari, sense llicència per a la seva reutilització o redistribució.
 
-## Contents
-Route data (JSON) and associated images consumed directly by the Tresca app via raw.githubusercontent.com.
+## Contingut
+Dades de ruta (JSON) i imatges associades consumides directament per l'aplicació Tresca a través de raw.githubusercontent.com.
 
-## License
-All rights reserved. See [LICENSE](./LICENSE). No reuse, redistribution, or reproduction permitted without written consent.
+## Llicència
+Tots els drets reservats. Vegeu [LICENSE](./LICENSE). No es permet la reutilització, redistribució o reproducció sense consentiment per escrit.
